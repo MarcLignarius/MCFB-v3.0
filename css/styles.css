@@ -1,0 +1,99 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+body {
+  padding-top: 100px;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: space-between
+}
+
+.bg-dark {
+  background-color: #58833C !important;
+}
+
+.fixed-top {
+  padding: 8px 16%;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+}
+
+.navbar-brand > img {
+  max-height: 75px
+}
+
+.dropdown-submenu {
+  position: relative;
+}
+
+.dropdown-submenu>a:after {
+  content: "\f0da";
+  float: right;
+  border: none;
+  font-family: 'FontAwesome';
+}
+
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: 0px;
+  margin-left: 0px;
+}
+
+#banner-container {
+  background: center/cover no-repeat url(../images/banner.png);
+  background-blend-mode: multiply;
+  background-color: rgb(226, 226, 226);
+  height: 50vh;
+  border-bottom: 2px solid #58833C;
+}
+
+#banner-text-container {
+  height: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#banner-text {
+  font-size: 80px;
+  color: white;
+  text-shadow: 0px 2px 3px #000000;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+img[alt="www.000webhost.com"] {
+  display: none;
+}
+
+.btn {
+  vertical-align: baseline;
+}
+
+#contactForm .form-control {
+  width: 90%;
+}
+
+footer .fa {
+  color: white;
+  font-size: 18px;
+}
+
+footer a {
+  color: white;
+  font-weight: 400;
+}
+
+footer a:hover {
+  color: rgba(255, 255, 255, 0.75);
+  text-decoration: none;
+}
