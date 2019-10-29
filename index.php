@@ -6,42 +6,67 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-lg-4 mb-4">
+        <div class="col-lg-3 mb-3">
             <div class="card h-100 text-center">
-                <img class="card-img-top" src="../images/placeholder.jpg" alt="">
+                <div class="image-text-container">
+                    <img class="card-img-top" src="../images/placeholder.jpg" alt="">
+                    <h4 class="card-title">About</h4>
+                </div>
                 <div class="card-body">
-                    <h4 class="card-title">Team Member</h4>
-                    <h6 class="card-subtitle mb-2 text-muted">Position</h6>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+                    <p class="card-text">
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                    </p>
                 </div>
                 <div class="card-footer">
-                    <a href="#">name@example.com</a>
+                    <a href="join-us-index.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>
-        <div class="col-lg-4 mb-4">
+        <div class="col-lg-3 mb-3">
             <div class="card h-100 text-center">
-                <img class="card-img-top" src="../images/placeholder.jpg" alt="">
+                <div class="image-text-container">
+                    <img class="card-img-top" src="../images/placeholder.jpg" alt="">
+                    <h4 class="card-title">Mission</h4>
+                </div>
                 <div class="card-body">
-                    <h4 class="card-title">Team Member</h4>
-                    <h6 class="card-subtitle mb-2 text-muted">Position</h6>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+                    <p class="card-text">
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                    </p>
                 </div>
                 <div class="card-footer">
-                    <a href="#">name@example.com</a>
+                    <a href="mission.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>
-        <div class="col-lg-4 mb-4">
+        <div class="col-lg-3 mb-3">
             <div class="card h-100 text-center">
-                <img class="card-img-top" src="../images/placeholder.jpg" alt="">
+                <div class="image-text-container">
+                    <img class="card-img-top" src="../images/placeholder.jpg" alt="">
+                    <h4 class="card-title">Vision</h4>
+                </div>
                 <div class="card-body">
-                    <h4 class="card-title">Team Member</h4>
-                    <h6 class="card-subtitle mb-2 text-muted">Position</h6>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+                    <p class="card-text">
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                    </p>
                 </div>
                 <div class="card-footer">
-                    <a href="#">name@example.com</a>
+                    <a href="vision.php" class="btn btn-link">Learn More &rarr;</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-3 mb-3">
+            <div class="card h-100 text-center">
+                <div class="image-text-container">
+                    <img class="card-img-top" src="../images/placeholder.jpg" alt="">
+                    <h4 class="card-title">Beliefs</h4>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                    </p>
+                </div>
+                <div class="card-footer">
+                    <a href="join-us-index.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>
