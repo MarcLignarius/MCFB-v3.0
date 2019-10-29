@@ -5,8 +5,6 @@
 <?php include("banner.php"); ?>
 
 <div class="container">
-    <!-- Team Members -->
-    <h2>Our Team</h2>
     <div class="row">
         <div class="col-lg-4 mb-4">
             <div class="card h-100 text-center">
@@ -48,7 +46,6 @@
             </div>
         </div>
     </div>
-    <!-- /.row -->
 </div>
 
 <!-- <div class="container">
