@@ -14,13 +14,13 @@
                 <a class="nav-link" href="/about.php">Strategies</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/about.php">Benefits</a>
+                <a class="nav-link" href="/benefits.php">Benefits</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/about.php">Join Us</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/about.php">Contact</a>
+                <a class="nav-link" href="/contact.php">Contact</a>
             </li>
         </ul>
     </div>
