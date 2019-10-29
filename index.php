@@ -7,66 +7,66 @@
 <div class="container">
     <div class="row">
         <div class="col-lg-3 mb-3">
-            <div class="card h-100 text-center">
+            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
-                    <img class="card-img-top" src="../images/placeholder.jpg" alt="">
+                    <img style="width: 100%" src="../images/placeholder.jpg" alt="">
                     <h4 class="card-title">About</h4>
                 </div>
                 <div class="card-body">
                     <p class="card-text">
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                        Short text explaining what MCFB is.
                     </p>
                 </div>
-                <div class="card-footer">
+                <div>
                     <a href="join-us-index.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>
         <div class="col-lg-3 mb-3">
-            <div class="card h-100 text-center">
+            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
-                    <img class="card-img-top" src="../images/placeholder.jpg" alt="">
+                    <img style="width: 100%" src="../images/placeholder.jpg" alt="">
                     <h4 class="card-title">Mission</h4>
                 </div>
                 <div class="card-body">
                     <p class="card-text">
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                        Help local farmers be successful.
                     </p>
                 </div>
-                <div class="card-footer">
+                <div>
                     <a href="mission.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>
         <div class="col-lg-3 mb-3">
-            <div class="card h-100 text-center">
+            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
-                    <img class="card-img-top" src="../images/placeholder.jpg" alt="">
+                    <img style="width: 100%" src="../images/placeholder.jpg" alt="">
                     <h4 class="card-title">Vision</h4>
                 </div>
                 <div class="card-body">
                     <p class="card-text">
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                        Short text about MCFB's vision.
                     </p>
                 </div>
-                <div class="card-footer">
+                <div>
                     <a href="vision.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>
         <div class="col-lg-3 mb-3">
-            <div class="card h-100 text-center">
+            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
-                    <img class="card-img-top" src="../images/placeholder.jpg" alt="">
+                    <img style="width: 100%" src="../images/placeholder.jpg" alt="">
                     <h4 class="card-title">Beliefs</h4>
                 </div>
                 <div class="card-body">
                     <p class="card-text">
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                        Equity and Anti-Discrimination statements.
                     </p>
                 </div>
-                <div class="card-footer">
-                    <a href="join-us-index.php" class="btn btn-link">Learn More &rarr;</a>
+                <div>
+                    <a href="beliefs.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>
