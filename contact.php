@@ -37,7 +37,9 @@
         </div>
         <div id="success"></div>
         <!-- For success/fail messages -->
-        <button type="submit" class="btn btn-primary" style="margin-bottom: 1rem;" id="sendMessageButton">Send Message</button>
+        <p>
+          <button type="submit" class="btn btn-primary" id="sendMessageButton">Send Message</button>
+        </p>
       </form>
     </div>
     <div class="col-md-4">
@@ -52,7 +54,9 @@
       </p>
     </div>
   </div>
-  <a href="index.php" class="btn btn-primary">Home</a>
+  <p>
+    <a href="index.php" class="btn btn-primary">Home</a>
+  </p>
 </div>
 
 <?php include("footer.php"); ?>
