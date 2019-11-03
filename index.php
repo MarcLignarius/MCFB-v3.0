@@ -18,7 +18,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="index.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="about.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>

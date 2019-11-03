@@ -24,7 +24,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="index.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="mission.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>
@@ -40,7 +40,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="index.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="vision.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>
@@ -56,7 +56,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="index.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="values.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>
@@ -74,7 +74,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="index.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="farming-in-multnomah-county.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>
@@ -90,7 +90,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="index.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="people.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>
@@ -106,7 +106,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="index.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="documents.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>
