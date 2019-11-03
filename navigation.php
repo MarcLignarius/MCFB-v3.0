@@ -17,7 +17,7 @@
                 <a class="nav-link" href="/benefits.php">Benefits</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/about.php">Join Us</a>
+                <a class="nav-link" href="/join-us-index.php">Join Us</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/contact.php">Contact</a>
