@@ -83,6 +83,10 @@ img[alt="www.000webhost.com"] {
   width: 90%;
 }
 
+#statement {
+  font-size: 12px;
+}
+
 footer .fa {
   color: white;
   font-size: 18px;
