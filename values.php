@@ -5,6 +5,12 @@
 
 <div class="container-fluid">
     <h1 class="my-4 text-center"><?php echo $page_title; ?></h1>
+    <p class="text-center">
+        We believe that greater human diversity, equity, and inclusion within our organization and
+        our local farms will create healthier, happier, and more prosperous farming communities.
+        To that end, we will strive to cultivate diversity, advance equity, and practice inclusion
+        in all of our work.
+    </p>
     <h3>Content for this page:</h3>
     <ul>
         <li>TBD</li>
