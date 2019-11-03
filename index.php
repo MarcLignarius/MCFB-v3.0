@@ -71,6 +71,7 @@
             </div>
         </div>
     </div>
+    <?php include("statement.php"); ?>
 </div>
 
 <!-- <div class="container">
