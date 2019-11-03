@@ -74,6 +74,9 @@
             </div>
         </div>
     </div>
+    <p class="text-center">
+        <a href="about.php" class="btn btn-primary">&larr; Back</a>
+    </p>
     <?php include("statement.php"); ?>
 </div>
 
