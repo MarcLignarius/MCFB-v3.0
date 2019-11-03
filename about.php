@@ -3,98 +3,152 @@
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
 
-
-
-  <!-- Page Content -->
-  <div class="container">
-  <?php include("breadcrumb.php"); ?>
-
-    <!-- Intro Content -->
+<div class="container-fluid" style="margin-top: 30px">
+    <h1 class="text-center">About</h1>
+    <p class="text-center">
+        The Multnomah County Farm Bureau (MCFB) is a non-profit member-service organization, serving as
+        a local chapter of the Oregon Farm Bureau (OFB), with membership consisting of local farmers and
+        local farm supporters. MCFB is governed by member-elected board directors and is managed daily
+        by an Executive Director and a bookkeeper.
+    </p>
     <div class="row">
-      <div class="col-lg-6">
-        <img class="img-fluid rounded mb-4" src="http://placehold.it/750x450" alt="">
-      </div>
-      <div class="col-lg-6">
-        <h2><?php echo $page_title; ?></h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed voluptate nihil eum consectetur similique? Consectetur, quod, incidunt, harum nisi dolores delectus reprehenderit voluptatem perferendis dicta dolorem non blanditiis ex fugiat.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe, magni, aperiam vitae illum voluptatum aut sequi impedit non velit ab ea pariatur sint quidem corporis eveniet. Odit, temporibus reprehenderit dolorum!</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti eum ratione ex ea praesentium quibusdam? Aut, in eum facere corrupti necessitatibus perspiciatis quis?</p>
-      </div>
+        <div class="col-lg-4 mb-3">
+            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+                <div class="image-text-container">
+                    <img style="width: 100%" src="../images/placeholder.png" alt="">
+                    <h2 class="card-title">Mission</h2>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
+                    </p>
+                </div>
+                <div>
+                    <a href="index.php" class="btn btn-link">Learn More &rarr;</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4 mb-3">
+            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+                <div class="image-text-container">
+                    <img style="width: 100%" src="../images/placeholder.png" alt="">
+                    <h2 class="card-title">Vision</h2>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
+                    </p>
+                </div>
+                <div>
+                    <a href="index.php" class="btn btn-link">Learn More &rarr;</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4 mb-3">
+            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+                <div class="image-text-container">
+                    <img style="width: 100%" src="../images/placeholder.png" alt="">
+                    <h2 class="card-title">Values</h2>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
+                    </p>
+                </div>
+                <div>
+                    <a href="index.php" class="btn btn-link">Learn More &rarr;</a>
+                </div>
+            </div>
+        </div>
     </div>
-    <!-- /.row -->
-
-    <!-- Team Members -->
-    <h2>Our Team</h2>
     <div class="row">
-      <div class="col-lg-4 mb-4">
-        <div class="card h-100 text-center">
-          <img class="card-img-top" src="http://placehold.it/750x450" alt="">
-          <div class="card-body">
-            <h4 class="card-title">Team Member</h4>
-            <h6 class="card-subtitle mb-2 text-muted">Position</h6>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
-          </div>
-          <div class="card-footer">
-            <a href="#">name@example.com</a>
-          </div>
+        <div class="col-lg-4 mb-3">
+            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+                <div class="image-text-container">
+                    <img style="width: 100%" src="../images/placeholder.png" alt="">
+                    <h2 class="card-title">Farming in Multnomah County</h2>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
+                    </p>
+                </div>
+                <div>
+                    <a href="index.php" class="btn btn-link">Learn More &rarr;</a>
+                </div>
+            </div>
         </div>
-      </div>
-      <div class="col-lg-4 mb-4">
-        <div class="card h-100 text-center">
-          <img class="card-img-top" src="http://placehold.it/750x450" alt="">
-          <div class="card-body">
-            <h4 class="card-title">Team Member</h4>
-            <h6 class="card-subtitle mb-2 text-muted">Position</h6>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
-          </div>
-          <div class="card-footer">
-            <a href="#">name@example.com</a>
-          </div>
+        <div class="col-lg-4 mb-3">
+            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+                <div class="image-text-container">
+                    <img style="width: 100%" src="../images/placeholder.png" alt="">
+                    <h2 class="card-title">People</h2>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
+                    </p>
+                </div>
+                <div>
+                    <a href="index.php" class="btn btn-link">Learn More &rarr;</a>
+                </div>
+            </div>
         </div>
-      </div>
-      <div class="col-lg-4 mb-4">
-        <div class="card h-100 text-center">
-          <img class="card-img-top" src="http://placehold.it/750x450" alt="">
-          <div class="card-body">
-            <h4 class="card-title">Team Member</h4>
-            <h6 class="card-subtitle mb-2 text-muted">Position</h6>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
-          </div>
-          <div class="card-footer">
-            <a href="#">name@example.com</a>
-          </div>
+        <div class="col-lg-4 mb-3">
+            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+                <div class="image-text-container">
+                    <img style="width: 100%" src="../images/placeholder.png" alt="">
+                    <h2 class="card-title">Documents</h2>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
+                    </p>
+                </div>
+                <div>
+                    <a href="index.php" class="btn btn-link">Learn More &rarr;</a>
+                </div>
+            </div>
         </div>
-      </div>
     </div>
-    <!-- /.row -->
+    <?php include("statement.php"); ?>
+</div>
 
-    <!-- Our Customers -->
-    <h2>Our Customers</h2>
-    <div class="row">
-      <div class="col-lg-2 col-sm-4 mb-4">
-        <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-      </div>
-      <div class="col-lg-2 col-sm-4 mb-4">
-        <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-      </div>
-      <div class="col-lg-2 col-sm-4 mb-4">
-        <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-      </div>
-      <div class="col-lg-2 col-sm-4 mb-4">
-        <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-      </div>
-      <div class="col-lg-2 col-sm-4 mb-4">
-        <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-      </div>
-      <div class="col-lg-2 col-sm-4 mb-4">
-        <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-      </div>
-    </div>
-    <!-- /.row -->
-    <?php include("call-to-action.php"); ?>
-    
-  </div>
-  <!-- /.container -->
+<!-- <div class="container">
+    <h1 class="my-4"><?php echo $page_title; ?></h1>
+    <h3>Content for this page:</h3>
+    <h5>About:</h5>
+    <p>
+    The Multnomah County Farm Bureau (MCFB) is a non-profit member-service organization, serving as 
+    a local chapter of the Oregon Farm Bureau (OFB), with membership consisting of local farmers and 
+    local farm supporters. MCFB is governed by member-elected board directors and is managed daily 
+    by an Executive Director and a bookkeeper.
+    </p>
+    <a href="join-us-index.php" class="btn btn-link">Get Involved &rarr;</a>
+    <h5>Our Mission:</h5>
+    <p>
+        Help local farmers be successful.
+    </p>
+    <a href="mission.php" class="btn btn-link">Learn More &rarr;</a>
+    <h5>Our Vision:</h5>
+    <p>
+        Our local farming communities are economically and environmentally vibrant, healthy, and 
+        sustainable, providing quality livelihoods and products both near and far.
+    </p>
+    <a href="vision.php" class="btn btn-link">Learn More &rarr;</a>
+    <h5>Equity Statement:</h5>
+    <p>
+        We believe that greater human diversity, equity, and inclusion within our organization and 
+        our local farms will create healthier, happier, and more prosperous farming communities. 
+        To that end, we will strive to cultivate diversity, advance equity, and practice inclusion 
+        in all of our work.
+    </p>
+    <h5>Anti-discrimination Statement:</h5>
+    <p>
+        We stand against workplace discrimination and harassment in all of our programs and 
+        activities. We will not condone or tolerate prejudicial remarks, actions, slurs, or jokes 
+        expressed and directed at or to any person for any reason.
+    </p>
+</div> -->
 
-  
-  <?php include("footer.php"); ?>
+<?php include("footer.php"); ?>
