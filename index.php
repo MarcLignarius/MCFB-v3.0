@@ -34,7 +34,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="index.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="strategies.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>

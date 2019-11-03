@@ -11,7 +11,7 @@
                 <a class="nav-link" href="/about.php">About</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/about.php">Strategies</a>
+                <a class="nav-link" href="/strategies.php">Strategies</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/benefits.php">Benefits</a>
