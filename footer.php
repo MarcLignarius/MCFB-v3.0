@@ -1,16 +1,7 @@
     <!-- Footer -->
     <footer class="py-3 bg-dark">
-        <div class="container-fluid">
-          <p class="mb-4 text-center text-white">
-            <em>
-              MCFB prohibits workplace discrimination and harassment in all of its 
-              programs and activities. MCFB will not condone or tolerate prejudicial remarks, 
-              actions, slurs, or jokes expressed and directed at or to any person for any reason.
-          </em>
-          </p>
-        </div>
         <div class="container">
-          <div class="row mb-2">
+          <div class="row mt-2 mb-2">
             <div class="col-md-4 mb-0 text-center">
               <p>
                 <i class="fa fa-envelope"></i>
