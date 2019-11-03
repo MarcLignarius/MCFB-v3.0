@@ -3,8 +3,8 @@
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
 
-<div class="container">
-    <h1 class="my-4"><?php echo $page_title; ?></h1>
+<div class="container-fluid">
+    <h1 class="my-4 text-center"><?php echo $page_title; ?></h1>
     <h3>Content for this page:</h3>
     <ul>
         <li>Pesticide Applicators Licensing</li>
@@ -23,8 +23,11 @@
         <li>Farm Loan Programs - FSA</li>
         <li>Farm Insurance Options - FSA/Country Financial</li>
     </ul>
-    <a href="training-index.php" class="btn btn-primary">&larr; Back</a>
-    <a href="index.php" class="btn btn-primary">Home</a>
+    <p class="text-center">
+        <a href="training-index.php" class="btn btn-primary">&larr; Back</a>
+        <a href="index.php" class="btn btn-primary">Home</a>
+    </p>
+    <?php include("statement.php"); ?>
 </div>
 
 <?php include("footer.php"); ?>

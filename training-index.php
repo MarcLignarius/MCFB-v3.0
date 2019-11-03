@@ -3,7 +3,7 @@
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
 
-<div class="container-fluid" style="margin-top: 30px">
+<div class="container-fluid" >
     <h1 class="my-4 text-center"><?php echo $page_title; ?></h1>
     <h3>Goal:</h3>
     <p>

@@ -3,7 +3,7 @@
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
 
-<div class="container-fluid" style="margin-top: 30px">
+<div class="container-fluid" >
     <h1 class="my-4"><?php echo $page_title; ?></h1>
     <ul>
         <li><a href="articles-of-incorporation.php">Articles of Incorporation</a></li>

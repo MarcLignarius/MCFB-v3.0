@@ -3,7 +3,7 @@
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
 
-<div class="container-fluid" style="margin-top: 30px">
+<div class="container-fluid" >
     <h1 class="text-center">People</h1>
     <div class="row">
         <div class="col-lg-4 mb-3">
