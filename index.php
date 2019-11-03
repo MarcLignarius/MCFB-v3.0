@@ -71,8 +71,9 @@
             </div>
         </div>
     </div>
+    <?php include("statement.php"); ?>
 </div>
-<?php include("statement.php"); ?>
+
 <?php include("footer.php"); ?>
 
 <!-- <div class="container">

@@ -3,7 +3,7 @@
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
 
-<div class="container">
+<div class="container-fluid" style="margin-top: 30px">
     <h1 class="my-4"><?php echo $page_title; ?></h1>
     <h3>Content for this page:</h3>
     <p>
@@ -16,8 +16,9 @@
         <li><a href="on-farm-and-community-projects-index.php" class="btn btn-link">On-farm & Community Projects &rarr;</a></li>
     </ul>
     <p>
-        <a href="index.php" class="btn btn-primary">&larr; Back</a>   
+        <a href="about.php" class="btn btn-primary">&larr; Back</a>
     </p>
+    <?php include("statement.php"); ?>
 </div>
 
 <?php include("footer.php"); ?>

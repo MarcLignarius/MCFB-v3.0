@@ -55,6 +55,9 @@
             </div>
         </div>
     </div>
+    <p>
+        <a href="about.php" class="btn btn-primary">&larr; Back</a>   
+    </p>
 </div>
 <?php include("statement.php"); ?>
 <?php include("footer.php"); ?>
