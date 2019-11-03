@@ -55,7 +55,7 @@ nav {
 }
 
 .card-body {
-  padding: 1.25rem 0.25rem 0.50rem 0.25rem;
+  padding: 1.25rem 1.25rem 0.50rem 1.25rem;
 }
 
 .card-title {
@@ -65,10 +65,6 @@ nav {
   transform: translate(-50%, -50%);
   color: white;
   text-shadow: 0px 2px 3px #000000;
-}
-
-.portfolio-item {
-  margin-bottom: 30px;
 }
 
 img[alt="www.000webhost.com"] {
@@ -100,4 +96,8 @@ footer a {
 footer a:hover {
   color: rgba(255, 255, 255, 0.75);
   text-decoration: none;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
 }
