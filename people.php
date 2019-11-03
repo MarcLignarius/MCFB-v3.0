@@ -4,7 +4,7 @@
 <?php include("navigation.php"); ?>
 
 <div class="container-fluid" >
-    <h1 class="text-center">People</h1>
+    <h1 class="my-4 text-center"><?php echo $page_title; ?></h1>
     <div class="row">
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
@@ -55,9 +55,10 @@
             </div>
         </div>
     </div>
-    <p>
+    <p class="text-center">
         <a href="about.php" class="btn btn-primary">&larr; Back</a>   
     </p>
+    <?php include("statement.php"); ?>
 </div>
-<?php include("statement.php"); ?>
+
 <?php include("footer.php"); ?>
