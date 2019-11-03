@@ -71,8 +71,9 @@
             </div>
         </div>
     </div>
-    <?php include("statement.php"); ?>
 </div>
+<?php include("statement.php"); ?>
+<?php include("footer.php"); ?>
 
 <!-- <div class="container">
     <h1 class="my-4"><?php echo $page_title; ?></h1>
@@ -111,4 +112,3 @@
     </p>
 </div> -->
 
-<?php include("footer.php"); ?>
