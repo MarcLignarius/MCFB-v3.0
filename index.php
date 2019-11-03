@@ -9,7 +9,7 @@
         <div class="col-lg-3 mb-3">
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
-                    <img style="width: 100%" src="../images/placeholder.jpg" alt="">
+                    <img style="width: 100%" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">About</h2>
                 </div>
                 <div class="card-body">
@@ -25,7 +25,7 @@
         <div class="col-lg-3 mb-3">
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
-                    <img style="width: 100%" src="../images/placeholder.jpg" alt="">
+                    <img style="width: 100%" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Strategies</h2>
                 </div>
                 <div class="card-body">
@@ -41,7 +41,7 @@
         <div class="col-lg-3 mb-3">
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
-                    <img style="width: 100%" src="../images/placeholder.jpg" alt="">
+                    <img style="width: 100%" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Benefits</h2>
                 </div>
                 <div class="card-body">
@@ -57,7 +57,7 @@
         <div class="col-lg-3 mb-3">
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
-                    <img style="width: 100%" src="../images/placeholder.jpg" alt="">
+                    <img style="width: 100%" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Membership</h2>
                 </div>
                 <div class="card-body">
