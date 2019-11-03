@@ -4,13 +4,14 @@
 <?php include("navigation.php"); ?>
 
 <div class="container-fluid">
-    <h1 class="my-4"><?php echo $page_title; ?></h1>
+    <h1 class="my-4 text-center"><?php echo $page_title; ?></h1>
     <h3>Content for this page:</h3>
     <ul>
         <li>TBD</li>
     </ul>
-    <p>
+    <p class="text-center">
         <a href="documents.php" class="btn btn-primary">&larr; Back</a>
+        <a href="index.php" class="btn btn-primary">Home</a>
     </p>
     <?php include("statement.php"); ?>
 </div>
