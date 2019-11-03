@@ -3,12 +3,11 @@
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
 
-<div class="container">
-  <h1 class="my-4"><?php echo $page_title; ?></h1>
-  <h3>Content for this page:</h3>
+<div class="container-fluid">
+  <h1 class="my-4 text-center"><?php echo $page_title; ?></h1>
   <div class="row">
     <div class="col-md-8">
-      <h5>Send us a Message</h5>
+      <h3>Send us a Message</h3>
       <form name="sentMessage" id="contactForm" novalidate>
         <div class="control-group form-group">
           <div class="controls">
@@ -43,7 +42,7 @@
       </form>
     </div>
     <div class="col-md-4">
-      <h5>Contact Details:</h5>
+      <h3>Contact Details:</h3>
       <p>
         <i class="fa fa-phone"></i>
         <a href="tel:206-595-5078" class="ml-1" style="color: black; text-decoration: none">206-595-5078</a>
@@ -54,7 +53,8 @@
       </p>
     </div>
   </div>
-  <p>
+  <?php include("statement.php"); ?>
+  <p class="text-center">
     <a href="index.php" class="btn btn-primary">Home</a>
   </p>
 </div>
