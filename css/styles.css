@@ -19,10 +19,6 @@ nav {
   background-color: #58833C !important;
 }
 
-.fixed-top {
-  padding: 8px 16%;
-}
-
 .navbar-dark .navbar-nav .nav-link {
   color: white;
 }
@@ -37,7 +33,7 @@ nav {
   background-color: rgb(226, 226, 226);
   height: 50vh;
   border-bottom: 2px solid #58833C;
-  margin-bottom: 1rem;
+  margin-bottom: 30px;
 }
 
 #banner-text-container {
@@ -56,6 +52,10 @@ nav {
 
 .image-text-container {
   position: relative;
+}
+
+.card-body {
+  padding: 1.25rem 1.25rem 0.50rem 1.25rem;
 }
 
 .card-title {
