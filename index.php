@@ -18,7 +18,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="about.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="index.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>
@@ -34,7 +34,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="strategies.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="index.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>
@@ -50,7 +50,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="benefits.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="index.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>
@@ -66,7 +66,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="join-us-index.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="index.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>
