@@ -50,6 +50,12 @@ nav {
   text-shadow: 0px 2px 3px #000000;
 }
 
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  #banner-text {
+    font-size: 50px;
+  }
+}
+
 .image-text-container {
   position: relative;
 }
@@ -81,6 +87,12 @@ img[alt="www.000webhost.com"] {
 
 #statement {
   font-size: 12px;
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  #statement {
+    font-size: 10px;
+  }
 }
 
 footer .fa {
