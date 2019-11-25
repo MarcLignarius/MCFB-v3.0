@@ -11,7 +11,7 @@
     <!-- Content Row -->
     <div class="row">
       <!-- Sidebar Column -->
-      <div class="col-lg-3 mb-4">
+      <div class="col-xl-3 col-md-6 mb-4">
         <div class="list-group">
           <a href="index.php" class="list-group-item">Home</a>
           <a href="about.php" class="list-group-item">About</a>

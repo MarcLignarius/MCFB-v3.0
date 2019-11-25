@@ -10,7 +10,7 @@
         At the local level, MCFB members receive:
     </p>
     <div class="row">
-        <div class="col-lg-3 mb-3">
+        <div class="col-xl-3 col-md-6 mb-3">
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
                     <img style="width: 100%" src="../images/placeholder.png" alt="">
@@ -26,7 +26,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-3 mb-3">
+        <div class="col-xl-3 col-md-6 mb-3">
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
                     <img style="width: 100%" src="../images/placeholder.png" alt="">
@@ -42,7 +42,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-3 mb-3">
+        <div class="col-xl-3 col-md-6 mb-3">
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
                     <img style="width: 100%" src="../images/placeholder.png" alt="">
@@ -58,7 +58,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-3 mb-3">
+        <div class="col-xl-3 col-md-6 mb-3">
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
                     <img style="width: 100%" src="../images/placeholder.png" alt="">
