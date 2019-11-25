@@ -58,7 +58,7 @@
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
                     <img style="width: 100%" src="../images/placeholder.png" alt="">
-                    <h2 class="card-title">Membership</h2>
+                    <h2 class="card-title">Join Us</h2>
                 </div>
                 <div class="card-body">
                     <p class="card-text">
