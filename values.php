@@ -11,7 +11,6 @@
         To that end, we will strive to cultivate diversity, advance equity, and practice inclusion
         in all of our work.
     </p>
-    <h3>Content for this page:</h3>
     <ul>
         <li>TBD</li>
     </ul>

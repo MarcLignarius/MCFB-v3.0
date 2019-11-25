@@ -9,7 +9,6 @@
         Our local farming communities are economically and environmentally vibrant, healthy, and
         sustainable, providing quality livelihoods and products both near and far.
     </p>
-    <h3>Content for this page:</h3>
     <ul>
         <li>TBD</li>
     </ul>

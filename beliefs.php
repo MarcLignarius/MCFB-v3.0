@@ -5,7 +5,6 @@
 
 <div class="container">
     <h1 class="my-4"><?php echo $page_title; ?></h1>
-    <h3>Content for this page:</h3>
     <ul>
         <li>Equity Statement</li>
         <li>Anti-Discrimination Statement</li>

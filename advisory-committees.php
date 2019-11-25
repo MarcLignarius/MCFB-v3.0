@@ -5,7 +5,6 @@
 
 <div class="container-fluid">
     <h1 class="my-4 text-center"><?php echo $page_title; ?></h1>
-    <h3>Content for this page:</h3>
     <ul>
         <li>Lower Willamette LAC</li>
         <li>Clackamas River LAC</li>
