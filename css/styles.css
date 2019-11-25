@@ -109,3 +109,9 @@ footer a:hover {
   color: rgba(255, 255, 255, 0.75);
   text-decoration: none;
 }
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 768px) {
+  footer p {
+    font-size: 14px;
+  }
+}
