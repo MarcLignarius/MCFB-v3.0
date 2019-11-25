@@ -72,8 +72,6 @@
         </div>
     </div>
     <?php include("statement.php"); ?>
-    <?php include("call-to-action.php"); ?>
 </div>
 
 <?php include("footer.php"); ?>
-
