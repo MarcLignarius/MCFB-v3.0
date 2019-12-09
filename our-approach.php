@@ -1,4 +1,4 @@
-<?php $page_title = "Strategies"; ?>
+<?php $page_title = "Our Approach"; ?>
 
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
