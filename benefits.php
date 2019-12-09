@@ -127,11 +127,11 @@
     <li>
         Training, education, outreach, and certification on programs and topics necessary
         for farm production success.
-        <a href="training-index.php" class="btn btn-link">Learn More &rarr;</a></li>
+        <a href="sharing-knowledge-with-farmers.php" class="btn btn-link">Learn More &rarr;</a></li>
     <li>
         Advocacy, representation, and a voice on local government and statewide issues and
         policies affecting farmers.
-        <a href="advocacy-index.php" class="btn btn-link">Learn More &rarr;</a></li>
+        <a href="representing-farmers.php" class="btn btn-link">Learn More &rarr;</a></li>
     <li>
         Networking, meetings, and social gatherings that offer networking with local farmers
         and supporters who exchange information and provide assistance to one another.

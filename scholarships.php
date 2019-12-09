@@ -10,7 +10,7 @@
         <li>Oregon Agricultural Education Foundation (OAEF) Summer Agriculture Institute (SAI)</li>
     </ul>
     <p class="text-center">
-        <a href="training-index.php" class="btn btn-primary">&larr; Back</a>
+        <a href="sharing-knowledge-with-farmers.php" class="btn btn-primary">&larr; Back</a>
         <a href="index.php" class="btn btn-primary">Home</a>
     </p>
     <?php include("statement.php"); ?>

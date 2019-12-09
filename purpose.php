@@ -41,7 +41,7 @@
                 </p>
             </div>
             <div>
-                <a href="training-index.php" class="btn btn-link">Learn More &rarr;</a>
+                <a href="sharing-knowledge-with-farmers.php" class="btn btn-link">Learn More &rarr;</a>
             </div>
         </div>
     </div>
@@ -57,7 +57,7 @@
                 </p>
             </div>
             <div>
-                <a href="advocacy-index.php" class="btn btn-link">Learn More &rarr;</a>
+                <a href="representing-farmers.php" class="btn btn-link">Learn More &rarr;</a>
             </div>
         </div>
     </div>

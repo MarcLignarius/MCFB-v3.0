@@ -61,7 +61,7 @@
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
                     <img style="width: 100%" src="../images/placeholder.png" alt="">
-                    <h2 class="card-title">Advisory Committees</h2>
+                    <h2 class="card-title">Representing Farmers</h2>
                 </div>
                 <div class="card-body">
                     <p class="card-text">
@@ -69,7 +69,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="advisory-committees.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="representing-farmers.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>
@@ -77,7 +77,7 @@
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
                     <img style="width: 100%" src="../images/placeholder.png" alt="">
-                    <h2 class="card-title">Organizational Support</h2>
+                    <h2 class="card-title">Sharing Knowledge With Farmers</h2>
                 </div>
                 <div class="card-body">
                     <p class="card-text">
@@ -85,7 +85,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="organizational-support.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="sharing-knowledge-with-farmers.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>
@@ -112,7 +112,7 @@
                 </p>
             </div>
             <div>
-                <a href="training-index.php" class="btn btn-link">Learn More &rarr;</a>
+                <a href="sharing-knowledge-with-farmers.php" class="btn btn-link">Learn More &rarr;</a>
             </div>
         </div>
     </div>
@@ -128,7 +128,7 @@
                 </p>
             </div>
             <div>
-                <a href="advocacy-index.php" class="btn btn-link">Learn More &rarr;</a>
+                <a href="representing-farmers.php" class="btn btn-link">Learn More &rarr;</a>
             </div>
         </div>
     </div>
