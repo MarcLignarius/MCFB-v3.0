@@ -15,7 +15,7 @@
         Our Values: We believe that greater human diversity, equity, and inclusion within our organization and our local farms will create healthier, happier, and more prosperous farming communities. To that end, we will strive to cultivate diversity, advance equity, and practice inclusion in all of our work.
     </p>
     <p class="text-center">
-        Our Approach: <a href="our-approach.php" class="btn btn-link">Link to page &rarr;</a>
+        Our Approach: <a href="purpose-our-approach.php" class="btn btn-link">Link to page &rarr;</a>
     </p>
     <p class="text-center">
         <a href="about.php" class="btn btn-primary">&larr; Back</a>

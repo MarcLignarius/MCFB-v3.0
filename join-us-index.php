@@ -5,7 +5,21 @@
 
 <div class="container-fluid">
     <h1 class="my-4 text-center"><?php echo $page_title; ?></h1>
-    <h3>What kind of farms are included?</h3>
+    <p class="text-center">
+        Our People: <a href="our-people.php" class="btn btn-link">Link to page &rarr;</a>
+    </p>
+    <p class="text-center">
+        Connecting Farmers: <a href="connecting-farmers.php" class="btn btn-link">Link to page &rarr;</a>
+    </p>
+    <p class="text-center">
+        <a href="index.php" class="btn btn-primary">&larr; Back</a>
+    </p>
+    <?php include("statement.php"); ?>
+</div>
+
+<?php include("footer.php"); ?>
+
+<!-- <h3>What kind of farms are included?</h3>
     <p>
         There are over 650 farms in Multnomah County encompassing more than 25,000 acres. 
         These farms are both big and small, urban and rural, organic and conventional, and food 
@@ -163,11 +177,4 @@
                 </div>
             </div>
         </div>
-    </div>
-    <p class="text-center">
-        <a href="index.php" class="btn btn-primary">&larr; Back</a>
-    </p>
-    <?php include("statement.php"); ?>
-</div>
-
-<?php include("footer.php"); ?>
+    </div> -->
