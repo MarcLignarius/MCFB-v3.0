@@ -8,6 +8,36 @@
     <p class="text-center">
         Our Approach: <a href="our-approach.php" class="btn btn-link">Link to page &rarr;</a>
     </p>
+
+    <p class="text-center">
+        <a href="index.php" class="btn btn-primary">&larr; Back</a>
+    </p>
+    <?php include("statement.php"); ?>
+</div>
+
+<?php include("footer.php"); ?>
+
+<!-- <ul>
+    <li>
+        Training, education, outreach, and certification on programs and topics necessary
+        for farm production success.
+        <a href="sharing-knowledge-with-farmers.php" class="btn btn-link">Learn More &rarr;</a></li>
+    <li>
+        Advocacy, representation, and a voice on local government and statewide issues and
+        policies affecting farmers.
+        <a href="representing-farmers.php" class="btn btn-link">Learn More &rarr;</a></li>
+    <li>
+        Networking, meetings, and social gatherings that offer networking with local farmers
+        and supporters who exchange information and provide assistance to one another.
+        <a href="connecting-farmers.php" class="btn btn-link">Learn More &rarr;</a>
+    </li>
+    <li>
+        On-farm assistance and community projects to address issues affecting farm success.
+        <a href="on-farm-and-community-projects-index.php" class="btn btn-link">Learn More &rarr;</a>
+    </li>
+</ul> -->
+
+<!-- 
     <h3>Are there wider benefits?</h3>
     <p>
         MCFB members also receive all OFB statewide and American Farm Bureau Federation nationwide
@@ -48,35 +78,7 @@
         should check the OFB website to verify current offerings.
         <a href="https://oregonfb.org/member-discounts-2/" target="blank" class="btn btn-link">Learn More &rarr;</a>
     </p>
-    <p class="text-center">
-        <a href="index.php" class="btn btn-primary">&larr; Back</a>
-    </p>
-    <?php include("statement.php"); ?>
-</div>
-
-<?php include("footer.php"); ?>
-
-<!-- <ul>
-    <li>
-        Training, education, outreach, and certification on programs and topics necessary
-        for farm production success.
-        <a href="sharing-knowledge-with-farmers.php" class="btn btn-link">Learn More &rarr;</a></li>
-    <li>
-        Advocacy, representation, and a voice on local government and statewide issues and
-        policies affecting farmers.
-        <a href="representing-farmers.php" class="btn btn-link">Learn More &rarr;</a></li>
-    <li>
-        Networking, meetings, and social gatherings that offer networking with local farmers
-        and supporters who exchange information and provide assistance to one another.
-        <a href="connecting-farmers.php" class="btn btn-link">Learn More &rarr;</a>
-    </li>
-    <li>
-        On-farm assistance and community projects to address issues affecting farm success.
-        <a href="on-farm-and-community-projects-index.php" class="btn btn-link">Learn More &rarr;</a>
-    </li>
-</ul> -->
-
-<!-- <h3>Why should you be involved?</h3>
+    <h3>Why should you be involved?</h3>
     <p>
         At the local level, MCFB members receive:
     </p>
