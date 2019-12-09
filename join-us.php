@@ -6,10 +6,10 @@
 <div class="container-fluid">
     <h1 class="my-4 text-center"><?php echo $page_title; ?></h1>
     <p class="text-center">
-        Our People: <a href="our-people.php" class="btn btn-link">Link to page &rarr;</a>
+        Our People: <a href="join-us-our-people.php" class="btn btn-link">Link to page &rarr;</a>
     </p>
     <p class="text-center">
-        Connecting Farmers: <a href="connecting-farmers.php" class="btn btn-link">Link to page &rarr;</a>
+        Connecting Farmers: <a href="join-us-connecting-farmers.php" class="btn btn-link">Link to page &rarr;</a>
     </p>
     <p class="text-center">
         <a href="index.php" class="btn btn-primary">&larr; Back</a>

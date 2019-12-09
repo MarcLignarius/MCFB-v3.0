@@ -6,7 +6,7 @@
 <div class="container-fluid">
     <h1 class="my-4 text-center"><?php echo $page_title; ?></h1>
     <p class="text-center">
-        Our Approach: <a href="our-approach.php" class="btn btn-link">Link to page &rarr;</a>
+        Our Approach: <a href="benefits-our-approach.php" class="btn btn-link">Link to page &rarr;</a>
     </p>
 
     <p class="text-center">
