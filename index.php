@@ -26,7 +26,7 @@
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
                     <img style="width: 100%" src="../images/placeholder.png" alt="">
-                    <h2 class="card-title">Strategies</h2>
+                    <h2 class="card-title">Our Approach</h2>
                 </div>
                 <div class="card-body">
                     <p class="card-text">
@@ -34,7 +34,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="strategies.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="our-approach.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>
@@ -50,7 +50,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="index.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="benefits.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>
