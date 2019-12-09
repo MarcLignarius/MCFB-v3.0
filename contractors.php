@@ -1,4 +1,4 @@
-<?php $page_title = "Board of Directors"; ?>
+<?php $page_title = "Contractors"; ?>
 
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
@@ -9,7 +9,7 @@
         <li>TBD</li>
     </ul>
     <p class="text-center">
-        <a href="people.php" class="btn btn-primary">&larr; Back</a>   
+        <a href="our-people.php" class="btn btn-primary">&larr; Back</a>   
         <a href="index.php" class="btn btn-primary">Home</a>  
     </p>
     <?php include("statement.php"); ?>

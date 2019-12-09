@@ -46,7 +46,7 @@
         through Country Financial. For more information, <a href="contact.php">contact MCFB</a>.
     </p>
     <p class="text-center">
-        <a href="join-us-index.php" class="btn btn-primary">&larr; Back</a>
+        <a href="our-people.php" class="btn btn-primary">&larr; Back</a>
         <a href="index.php" class="btn btn-primary">Home</a>
     </p>
     <?php include("statement.php"); ?>
