@@ -135,7 +135,7 @@
     <li>
         Networking, meetings, and social gatherings that offer networking with local farmers
         and supporters who exchange information and provide assistance to one another.
-        <a href="networking-index.php" class="btn btn-link">Learn More &rarr;</a>
+        <a href="connecting-farmers.php" class="btn btn-link">Learn More &rarr;</a>
     </li>
     <li>
         On-farm assistance and community projects to address issues affecting farm success.

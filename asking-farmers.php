@@ -1,4 +1,7 @@
-<?php $page_title = "Legal Assistance"; ?>
+<?php $page_title = "Asking Farmers"; ?>
+
+<?php include("header.php"); ?>
+<?php include("navigation.php"); ?>
 
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
@@ -9,7 +12,7 @@
         <li>TBD</li>
     </ul>
     <p class="text-center">
-        <a href="on-farm-and-community-projects-index.php" class="btn btn-primary">&larr; Back</a>
+        <a href="our-approach.php" class="btn btn-primary">&larr; Back</a>
         <a href="index.php" class="btn btn-primary">Home</a>
     </p>
     <?php include("statement.php"); ?>

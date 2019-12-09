@@ -73,7 +73,7 @@
                 </p>
             </div>
             <div>
-                <a href="networking-index.php" class="btn btn-link">Learn More &rarr;</a>
+                <a href="connecting-farmers.php" class="btn btn-link">Learn More &rarr;</a>
             </div>
         </div>
     </div>
