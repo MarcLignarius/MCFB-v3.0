@@ -9,7 +9,7 @@
         <div class="col-xl-3 col-md-6 mb-3">
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
-                    <img style="width: 100%" src="../images/placeholder.png" alt="">
+                    <img style="width: 100%; height: 15vw; object-fit: cover" src="../images/1.0_About_Larry and Jay.jpg" alt="">
                     <h2 class="card-title">About</h2>
                 </div>
                 <div class="card-body">
@@ -25,7 +25,7 @@
         <div class="col-xl-3 col-md-6 mb-3">
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
-                    <img style="width: 100%" src="../images/placeholder.png" alt="">
+                    <img style="width: 100%; height: 15vw; object-fit: cover" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Our Approach</h2>
                 </div>
                 <div class="card-body">
@@ -41,7 +41,7 @@
         <div class="col-xl-3 col-md-6 mb-3">
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
-                    <img style="width: 100%" src="../images/placeholder.png" alt="">
+                    <img style="width: 100%; height: 15vw; object-fit: cover" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Benefits</h2>
                 </div>
                 <div class="card-body">
@@ -57,7 +57,7 @@
         <div class="col-xl-3 col-md-6 mb-3">
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
-                    <img style="width: 100%" src="../images/placeholder.png" alt="">
+                    <img style="width: 100%; height: 15vw; object-fit: cover" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Join Us</h2>
                 </div>
                 <div class="card-body">

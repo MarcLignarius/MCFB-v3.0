@@ -21,7 +21,7 @@
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
-                    <img style="width: 100%" src="../images/placeholder.png" alt="">
+                    <img style="width: 100%; height: 15vw; object-fit: cover" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Elected Officials</h2>
                 </div>
                 <div class="card-body">
@@ -37,7 +37,7 @@
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
-                    <img style="width: 100%" src="../images/placeholder.png" alt="">
+                    <img style="width: 100%; height: 15vw; object-fit: cover" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Local, State & Federal Laws and Rules</h2>
                 </div>
                 <div class="card-body">
@@ -53,7 +53,7 @@
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
-                    <img style="width: 100%" src="../images/placeholder.png" alt="">
+                    <img style="width: 100%; height: 15vw; object-fit: cover" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Voter Education</h2>
                 </div>
                 <div class="card-body">
@@ -72,7 +72,7 @@
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
-                    <img style="width: 100%" src="../images/placeholder.png" alt="">
+                    <img style="width: 100%; height: 15vw; object-fit: cover" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Advisory Committees</h2>
                 </div>
                 <div class="card-body">
@@ -88,7 +88,7 @@
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
-                    <img style="width: 100%" src="../images/placeholder.png" alt="">
+                    <img style="width: 100%; height: 15vw; object-fit: cover" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Organizational Support</h2>
                 </div>
                 <div class="card-body">

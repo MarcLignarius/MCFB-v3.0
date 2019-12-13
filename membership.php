@@ -13,7 +13,7 @@
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
-                    <img style="width: 100%" src="../images/placeholder.png" alt="">
+                    <img style="width: 100%; height: 15vw; object-fit: cover" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Voting members ($125/year)</h2>
                 </div>
             </div>
@@ -21,7 +21,7 @@
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
-                    <img style="width: 100%" src="../images/placeholder.png" alt="">
+                    <img style="width: 100%; height: 15vw; object-fit: cover" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Supporting members ($125/year)</h2>
                 </div>
             </div>
@@ -29,7 +29,7 @@
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
-                    <img style="width: 100%" src="../images/placeholder.png" alt="">
+                    <img style="width: 100%; height: 15vw; object-fit: cover" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Associate members ($20/year)</h2>
                 </div>
             </div>
