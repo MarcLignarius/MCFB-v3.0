@@ -21,7 +21,7 @@
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
-                    <img style="width: 100%; height: 15vw; object-fit: cover" src="../images/placeholder.png" alt="">
+                    <img class="card-image" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Ask A Farmer</h2>
                 </div>
                 <div class="card-body">
@@ -37,7 +37,7 @@
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
-                    <img style="width: 100%; height: 15vw; object-fit: cover" src="../images/placeholder.png" alt="">
+                    <img class="card-image" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Legal Assistance</h2>
                 </div>
                 <div class="card-body">
@@ -53,7 +53,7 @@
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center" style="border-radius: 0px; border: none">
                 <div class="image-text-container">
-                    <img style="width: 100%; height: 15vw; object-fit: cover" src="../images/placeholder.png" alt="">
+                    <img class="card-image" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Ronald McDonald House</h2>
                 </div>
                 <div class="card-body">
