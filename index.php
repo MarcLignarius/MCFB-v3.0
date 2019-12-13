@@ -9,8 +9,10 @@
         <div class="col-xl-3 col-md-6 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
-                    <img class="card-image" src="../images/1.0_About_Larry and Jay.jpg" alt="">
-                    <h2 class="card-title">About</h2>
+                    <a href="about.php">
+                        <img class="card-image" src="../images/1.0_About_Larry and Jay.jpg" alt="">
+                        <h2 class="card-title">About</h2>
+                    </a>
                 </div>
                 <div class="card-body">
                     <p class="card-text">
@@ -25,8 +27,10 @@
         <div class="col-xl-3 col-md-6 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
-                    <img class="card-image" src="../images/2.0_Our Approach_oregon-berry-farmer-don-sturm-tractor.jpg" alt="">
-                    <h2 class="card-title">Our Approach</h2>
+                    <a href="our-approach.php">
+                        <img class="card-image" src="../images/2.0_Our Approach_oregon-berry-farmer-don-sturm-tractor.jpg" alt="">
+                        <h2 class="card-title">Our Approach</h2>
+                    </a>
                 </div>
                 <div class="card-body">
                     <p class="card-text">
@@ -41,8 +45,10 @@
         <div class="col-xl-3 col-md-6 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
-                    <img class="card-image" src="../images/3.0_Benefits_AgriPlan.jpg" alt="">
-                    <h2 class="card-title">Benefits</h2>
+                    <a href="benefits.php">
+                        <img class="card-image" src="../images/3.0_Benefits_AgriPlan.jpg" alt="">
+                        <h2 class="card-title">Benefits</h2>
+                    </a>
                 </div>
                 <div class="card-body">
                     <p class="card-text">
@@ -57,8 +63,10 @@
         <div class="col-xl-3 col-md-6 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
-                    <img class="card-image" src="../images/4.0_Join Us.jpg" alt="">
-                    <h2 class="card-title">Join Us</h2>
+                    <a href="join-us.php">
+                        <img class="card-image" src="../images/4.0_Join Us.jpg" alt="">
+                        <h2 class="card-title">Join Us</h2>
+                    </a>
                 </div>
                 <div class="card-body">
                     <p class="card-text">

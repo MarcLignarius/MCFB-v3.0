@@ -9,8 +9,10 @@
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
-                    <img class="card-image" src="../images/placeholder.png" alt="">
-                    <h2 class="card-title">Elected Officials</h2>
+                    <a href="elected-officials.php">
+                        <img class="card-image" src="../images/placeholder.png" alt="">
+                        <h2 class="card-title">Elected Officials</h2>
+                    </a>
                 </div>
                 <div class="card-body">
                     <p class="card-text">
@@ -25,8 +27,10 @@
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
-                    <img class="card-image" src="../images/placeholder.png" alt="">
-                    <h2 class="card-title">Local, State & Federal Laws and Rules</h2>
+                    <a href="local-state-and-federal-laws-and-rules.php">
+                        <img class="card-image" src="../images/placeholder.png" alt="">
+                        <h2 class="card-title">Local, State & Federal Laws and Rules</h2>
+                    </a>
                 </div>
                 <div class="card-body">
                     <p class="card-text">
@@ -41,8 +45,10 @@
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
-                    <img class="card-image" src="../images/placeholder.png" alt="">
-                    <h2 class="card-title">Voter Education</h2>
+                    <a href="voter-education.php">
+                        <img class="card-image" src="../images/placeholder.png" alt="">
+                        <h2 class="card-title">Voter Education</h2>
+                    </a>
                 </div>
                 <div class="card-body">
                     <p class="card-text">
@@ -60,8 +66,10 @@
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
-                    <img class="card-image" src="../images/placeholder.png" alt="">
-                    <h2 class="card-title">Advisory Committees</h2>
+                    <a href="advisory-committees.php">
+                        <img class="card-image" src="../images/placeholder.png" alt="">
+                        <h2 class="card-title">Advisory Committees</h2>
+                    </a>
                 </div>
                 <div class="card-body">
                     <p class="card-text">
@@ -76,8 +84,10 @@
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
-                    <img class="card-image" src="../images/placeholder.png" alt="">
-                    <h2 class="card-title">Organizational Support</h2>
+                    <a href="organizational-support.php">
+                        <img class="card-image" src="../images/placeholder.png" alt="">
+                        <h2 class="card-title">Organizational Support</h2>
+                    </a>
                 </div>
                 <div class="card-body">
                     <p class="card-text">

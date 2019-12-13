@@ -15,8 +15,10 @@
         <div class="col-xl-3 col-md-6 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
-                    <img class="card-image" src="../images/1.1_Purpose_Bushue Farm Photo.jpg" alt="">
-                    <h2 class="card-title">Purpose</h2>
+                    <a href="purpose.php">
+                        <img class="card-image" src="../images/1.1_Purpose_Bushue Farm Photo.jpg" alt="">
+                        <h2 class="card-title">Purpose</h2>
+                    </a>
                 </div>
                 <div class="card-body">
                     <p class="card-text">
@@ -31,8 +33,10 @@
         <div class="col-xl-3 col-md-6 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
-                    <img class="card-image" src="../images/1.2_Farming_sturm berry farm.jpg" alt="">
-                    <h2 class="card-title">Farming</h2>
+                    <a href="farming.php">
+                        <img class="card-image" src="../images/1.2_Farming_sturm berry farm.jpg" alt="">
+                        <h2 class="card-title">Farming</h2>
+                    </a>
                 </div>
                 <div class="card-body">
                     <p class="card-text">
@@ -47,8 +51,10 @@
         <div class="col-xl-3 col-md-6 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
-                    <img class="card-image" src="../images/1.3_People.jpg" alt="">
-                    <h2 class="card-title">Our People</h2>
+                    <a href="our-people.php">
+                        <img class="card-image" src="../images/1.3_People.jpg" alt="">
+                        <h2 class="card-title">Our People</h2>
+                    </a>
                 </div>
                 <div class="card-body">
                     <p class="card-text">
@@ -63,8 +69,10 @@
         <div class="col-xl-3 col-md-6 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
-                    <img class="card-image" src="../images/1.4_Documents.jpg" alt="">
-                    <h2 class="card-title">Documents</h2>
+                    <a href="documents.php">
+                        <img class="card-image" src="../images/1.4_Documents.jpg" alt="">
+                        <h2 class="card-title">Documents</h2>
+                    </a>
                 </div>
                 <div class="card-body">
                     <p class="card-text">
