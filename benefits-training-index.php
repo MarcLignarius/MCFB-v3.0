@@ -21,7 +21,7 @@
     <h3>Current and Ongoing Activities:</h3>
     <div class="row">
         <div class="col-lg-4 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Scholarships</h2>
@@ -37,7 +37,7 @@
             </div>
         </div>
         <div class="col-lg-4 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Conferences</h2>
@@ -53,7 +53,7 @@
             </div>
         </div>
         <div class="col-lg-4 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Learning Events</h2>
@@ -71,7 +71,7 @@
     </div>
     <div class="row">
         <div class="col-lg-4 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Workshops</h2>
@@ -87,7 +87,7 @@
             </div>
         </div>
         <div class="col-lg-4 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Apprenticeships</h2>
@@ -103,7 +103,7 @@
             </div>
         </div>
         <div class="col-lg-4 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Resources</h2>

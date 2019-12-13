@@ -19,7 +19,7 @@
     <h3>Current and Ongoing Activities:</h3>
     <div class="row">
         <div class="col-lg-4 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Newsletters</h2>
@@ -35,7 +35,7 @@
             </div>
         </div>
         <div class="col-lg-4 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Social Media</h2>
@@ -51,7 +51,7 @@
             </div>
         </div>
         <div class="col-lg-4 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Farm Stands & Agritourism</h2>
@@ -69,7 +69,7 @@
     </div>
     <div class="row">
         <div class="col-xl-3 col-md-6 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Social Outings</h2>
@@ -85,7 +85,7 @@
             </div>
         </div>
         <div class="col-xl-3 col-md-6 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Celebrations</h2>
@@ -101,7 +101,7 @@
             </div>
         </div>
         <div class="col-xl-3 col-md-6 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Board Meetings</h2>
@@ -117,7 +117,7 @@
             </div>
         </div>
         <div class="col-xl-3 col-md-6 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Calendar Of Events</h2>

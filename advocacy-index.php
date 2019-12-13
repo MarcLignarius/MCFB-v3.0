@@ -19,7 +19,7 @@
     <h3>Current and Ongoing Activities:</h3>
     <div class="row">
         <div class="col-lg-4 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Elected Officials</h2>
@@ -35,7 +35,7 @@
             </div>
         </div>
         <div class="col-lg-4 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Local, State & Federal Laws and Rules</h2>
@@ -51,7 +51,7 @@
             </div>
         </div>
         <div class="col-lg-4 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Voter Education</h2>
@@ -70,7 +70,7 @@
     <div class="row">
         <div class="col-lg-2 mb-3"></div>
         <div class="col-lg-4 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Advisory Committees</h2>
@@ -86,7 +86,7 @@
             </div>
         </div>
         <div class="col-lg-4 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/placeholder.png" alt="">
                     <h2 class="card-title">Organizational Support</h2>

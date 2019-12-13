@@ -60,6 +60,11 @@ nav {
   position: relative;
 }
 
+.card {
+  border-radius: 0px!important; 
+  border: none!important;
+}
+
 .card-body {
   padding: 1.25rem 1.25rem 0.50rem 1.25rem;
 }

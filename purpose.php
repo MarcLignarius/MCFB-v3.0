@@ -30,7 +30,7 @@
 </p>
 <div class="row">
     <div class="col-xl-3 col-md-6 mb-3">
-        <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+        <div class="card h-100 text-center">
             <div class="image-text-container">
                 <img class="card-image" src="../images/placeholder.png" alt="">
                 <h2 class="card-title">Training</h2>
@@ -46,7 +46,7 @@
         </div>
     </div>
     <div class="col-xl-3 col-md-6 mb-3">
-        <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+        <div class="card h-100 text-center">
             <div class="image-text-container">
                 <img class="card-image" src="../images/placeholder.png" alt="">
                 <h2 class="card-title">Advocacy</h2>
@@ -62,7 +62,7 @@
         </div>
     </div>
     <div class="col-xl-3 col-md-6 mb-3">
-        <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+        <div class="card h-100 text-center">
             <div class="image-text-container">
                 <img class="card-image" src="../images/placeholder.png" alt="">
                 <h2 class="card-title">Networking</h2>
@@ -78,7 +78,7 @@
         </div>
     </div>
     <div class="col-xl-3 col-md-6 mb-3">
-        <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+        <div class="card h-100 text-center">
             <div class="image-text-container">
                 <img class="card-image" src="../images/placeholder.png" alt="">
                 <h2 class="card-title">On-farm & Community Projects</h2>

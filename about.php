@@ -13,7 +13,7 @@
     </p>
     <div class="row">
         <div class="col-xl-3 col-md-6 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/1.1_Purpose_Bushue Farm Photo.jpg" alt="">
                     <h2 class="card-title">Purpose</h2>
@@ -29,7 +29,7 @@
             </div>
         </div>
         <div class="col-xl-3 col-md-6 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/1.2_Farming_sturm berry farm.jpg" alt="">
                     <h2 class="card-title">Farming</h2>
@@ -45,7 +45,7 @@
             </div>
         </div>
         <div class="col-xl-3 col-md-6 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/1.3_People.jpg" alt="">
                     <h2 class="card-title">Our People</h2>
@@ -61,7 +61,7 @@
             </div>
         </div>
         <div class="col-xl-3 col-md-6 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/1.4_Documents.jpg" alt="">
                     <h2 class="card-title">Documents</h2>
@@ -89,7 +89,7 @@
 
 <!-- <div class="row">
     <div class="col-lg-4 mb-3">
-        <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+        <div class="card h-100 text-center">
             <div class="image-text-container">
                 <img class="card-image" src="../images/placeholder.png" alt="">
                 <h2 class="card-title">Purpose</h2>
@@ -105,7 +105,7 @@
         </div>
     </div>
     <div class="col-lg-4 mb-3">
-        <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+        <div class="card h-100 text-center">
             <div class="image-text-container">
                 <img class="card-image" src="../images/placeholder.png" alt="">
                 <h2 class="card-title">Vision</h2>
@@ -121,7 +121,7 @@
         </div>
     </div>
     <div class="col-lg-4 mb-3">
-        <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+        <div class="card h-100 text-center">
             <div class="image-text-container">
                 <img class="card-image" src="../images/placeholder.png" alt="">
                 <h2 class="card-title">Values</h2>
@@ -139,7 +139,7 @@
 </div>
 <div class="row">
     <div class="col-lg-4 mb-3">
-        <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+        <div class="card h-100 text-center">
             <div class="image-text-container">
                 <img class="card-image" src="../images/placeholder.png" alt="">
                 <h2 class="card-title">Farming in Multnomah County</h2>
@@ -155,7 +155,7 @@
         </div>
     </div>
     <div class="col-lg-4 mb-3">
-        <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+        <div class="card h-100 text-center">
             <div class="image-text-container">
                 <img class="card-image" src="../images/placeholder.png" alt="">
                 <h2 class="card-title">Our People</h2>
@@ -171,7 +171,7 @@
         </div>
     </div>
     <div class="col-lg-4 mb-3">
-        <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+        <div class="card h-100 text-center">
             <div class="image-text-container">
                 <img class="card-image" src="../images/placeholder.png" alt="">
                 <h2 class="card-title">Documents</h2>

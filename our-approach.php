@@ -7,7 +7,7 @@
     <h1 class="my-4 text-center"><?php echo $page_title; ?></h1>
     <div class="row">
         <div class="col-lg-4 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/2.1_Asking.jpg" alt="">
                     <h2 class="card-title">Asking Farmers</h2>
@@ -23,7 +23,7 @@
             </div>
         </div>
         <div class="col-lg-4 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/2.2_Assisting.jpg" alt="">
                     <h2 class="card-title">Assisting Farmers</h2>
@@ -39,7 +39,7 @@
             </div>
         </div>
         <div class="col-lg-4 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/2.3_Connecting2.jpg" alt="">
                     <h2 class="card-title">Connecting Farmers</h2>
@@ -58,7 +58,7 @@
     <div class="row">
         <div class="col-lg-2 mb-3"></div>
         <div class="col-lg-4 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/2.4_Representing.jpg" alt="">
                     <h2 class="card-title">Representing Farmers</h2>
@@ -74,7 +74,7 @@
             </div>
         </div>
         <div class="col-lg-4 mb-3">
-            <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+            <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <img class="card-image" src="../images/2.5_Sharing Knowledge1.jpg" alt="">
                     <h2 class="card-title">Sharing Knowledge With Farmers</h2>
@@ -101,7 +101,7 @@
 
 <!-- <div class="row">
     <div class="col-xl-3 col-md-6 mb-3">
-        <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+        <div class="card h-100 text-center">
             <div class="image-text-container">
                 <img class="card-image" src="../images/placeholder.png" alt="">
                 <h2 class="card-title">Training</h2>
@@ -117,7 +117,7 @@
         </div>
     </div>
     <div class="col-xl-3 col-md-6 mb-3">
-        <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+        <div class="card h-100 text-center">
             <div class="image-text-container">
                 <img class="card-image" src="../images/placeholder.png" alt="">
                 <h2 class="card-title">Advocacy</h2>
@@ -133,7 +133,7 @@
         </div>
     </div>
     <div class="col-xl-3 col-md-6 mb-3">
-        <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+        <div class="card h-100 text-center">
             <div class="image-text-container">
                 <img class="card-image" src="../images/placeholder.png" alt="">
                 <h2 class="card-title">Networking</h2>
@@ -149,7 +149,7 @@
         </div>
     </div>
     <div class="col-xl-3 col-md-6 mb-3">
-        <div class="card h-100 text-center" style="border-radius: 0px; border: none">
+        <div class="card h-100 text-center">
             <div class="image-text-container">
                 <img class="card-image" src="../images/placeholder.png" alt="">
                 <h2 class="card-title">On-farm & Community Projects</h2>
