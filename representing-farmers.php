@@ -5,6 +5,9 @@
 
 <div class="container-fluid">
     <h1 class="my-4 text-center"><?php echo $page_title; ?></h1>
+    <p class="text-center">
+        The legal requirements that affect farming can make a difficult business even more difficult. Laws, regulations, policies, and government programs are constantly changing and it’s nearly impossible for individual farmers to track, respond to, learn, comply with, and voice concern about the changes and requirements. To address this, MCFB serves as an active voice for local farmers at the local, state, and national levels. When government laws, regulations, policies, and programs are proposed anew or to be changed, MCFB strives to identify, understand, disseminate, and engage related officials in a manner that benefits local farmers and the communities.	
+    </p>
     <div class="row">
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center">
