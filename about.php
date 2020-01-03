@@ -6,10 +6,7 @@
 <div class="container-fluid">
     <h1 class="my-4 text-center"><?php echo $page_title; ?></h1>
     <p class="text-center">
-        The Multnomah County Farm Bureau (MCFB) is a non-profit member-service organization, serving as
-        a local chapter of the Oregon Farm Bureau (OFB), with membership consisting of local farmers and
-        local farm supporters. MCFB is governed by member-elected board directors and is managed daily
-        by an Executive Director and a bookkeeper.
+        The Multnomah County Farm Bureau (MCFB) is a non-profit member-service organization, serving as a local chapter of the Oregon Farm Bureau (OFB). MCFB has over 7,000 members, consisting of local farmers and local farm supporters. MCFB is governed by member-elected board directors and is managed daily by an Executive Director and a Treasurer.
     </p>
     <div class="row">
         <div class="col-xl-3 col-md-6 mb-3">
