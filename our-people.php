@@ -5,6 +5,9 @@
 
 <div class="container-fluid">
     <h1 class="my-4 text-center"><?php echo $page_title; ?></h1>
+    <p class="text-center">
+    Our people include our 7,000 members and our Board of Directors, contractors, and volunteers. We encourage you to join us in the manner the best suits you.	
+</p>
     <div class="row">
         <div class="col-xl-3 col-md-6 mb-3">
             <div class="card h-100 text-center">
