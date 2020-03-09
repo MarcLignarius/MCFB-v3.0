@@ -12,7 +12,7 @@
         Directors and is managed daily by an Executive Director and a Treasurer.
     </p>
     <div class="row">
-        <div class="col-xl-3 col-md-6 mb-3">
+        <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="purpose.php">
@@ -30,7 +30,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-3 col-md-6 mb-3">
+        <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="farming.php">
@@ -48,7 +48,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-3 col-md-6 mb-3">
+        <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="our-people.php">
@@ -66,7 +66,10 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-3 col-md-6 mb-3">
+    </div>
+    <div class="row">
+        <div class="col-lg-2 mb-3"></div>
+        <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="documents.php">
@@ -84,6 +87,25 @@
                 </div>
             </div>
         </div>
+        <div class="col-lg-4 mb-3">
+            <div class="card h-100 text-center">
+                <div class="image-text-container">
+                    <a href="board-meetings.php">
+                        <img class="card-image" src="../images/1.2_Farming_sturm berry farm.jpg" alt="">
+                        <h2 class="card-title">Board Meetings</h2>
+                    </a>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
+                    </p>
+                </div>
+                <div>
+                    <a href="board-meetings.php" class="btn btn-link">Learn More &rarr;</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 mb-3"></div>
     </div>
     <p class="text-center">
         <a href="index.php" class="btn btn-primary">&larr; Back</a>
@@ -92,106 +114,3 @@
 </div>
 
 <?php include("footer.php"); ?>
-
-
-
-<!-- <div class="row">
-    <div class="col-lg-4 mb-3">
-        <div class="card h-100 text-center">
-            <div class="image-text-container">
-                <img class="card-image" src="../images/placeholder.png" alt="">
-                <h2 class="card-title">Purpose</h2>
-            </div>
-            <div class="card-body">
-                <p class="card-text">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
-                </p>
-            </div>
-            <div>
-                <a href="purpose.php" class="btn btn-link">Learn More &rarr;</a>
-            </div>
-        </div>
-    </div>
-    <div class="col-lg-4 mb-3">
-        <div class="card h-100 text-center">
-            <div class="image-text-container">
-                <img class="card-image" src="../images/placeholder.png" alt="">
-                <h2 class="card-title">Vision</h2>
-            </div>
-            <div class="card-body">
-                <p class="card-text">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
-                </p>
-            </div>
-            <div>
-                <a href="vision.php" class="btn btn-link">Learn More &rarr;</a>
-            </div>
-        </div>
-    </div>
-    <div class="col-lg-4 mb-3">
-        <div class="card h-100 text-center">
-            <div class="image-text-container">
-                <img class="card-image" src="../images/placeholder.png" alt="">
-                <h2 class="card-title">Values</h2>
-            </div>
-            <div class="card-body">
-                <p class="card-text">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
-                </p>
-            </div>
-            <div>
-                <a href="values.php" class="btn btn-link">Learn More &rarr;</a>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="row">
-    <div class="col-lg-4 mb-3">
-        <div class="card h-100 text-center">
-            <div class="image-text-container">
-                <img class="card-image" src="../images/placeholder.png" alt="">
-                <h2 class="card-title">Farming in Multnomah County</h2>
-            </div>
-            <div class="card-body">
-                <p class="card-text">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
-                </p>
-            </div>
-            <div>
-                <a href="farming-in-multnomah-county.php" class="btn btn-link">Learn More &rarr;</a>
-            </div>
-        </div>
-    </div>
-    <div class="col-lg-4 mb-3">
-        <div class="card h-100 text-center">
-            <div class="image-text-container">
-                <img class="card-image" src="../images/placeholder.png" alt="">
-                <h2 class="card-title">Our People</h2>
-            </div>
-            <div class="card-body">
-                <p class="card-text">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
-                </p>
-            </div>
-            <div>
-                <a href="our-people.php" class="btn btn-link">Learn More &rarr;</a>
-            </div>
-        </div>
-    </div>
-    <div class="col-lg-4 mb-3">
-        <div class="card h-100 text-center">
-            <div class="image-text-container">
-                <img class="card-image" src="../images/placeholder.png" alt="">
-                <h2 class="card-title">Documents</h2>
-            </div>
-            <div class="card-body">
-                <p class="card-text">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
-                </p>
-            </div>
-            <div>
-                <a href="documents.php" class="btn btn-link">Learn More &rarr;</a>
-            </div>
-        </div>
-    </div>
-</div> -->
