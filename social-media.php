@@ -6,7 +6,10 @@
 <div class="container-fluid">
     <h1 class="my-4 text-center"><?php echo $page_title; ?></h1>
     <p>
-    MCFB uses social media as an informal means to communicate on a daily and weekly basis with MCFB members and the general public. Please like, share, and follow us on the social media platforms below:
+    MCFB uses social media as an informal means to communicate on a daily and weekly basis with MCFB members and the general public. 
+    </p>
+    <p>
+    Please like, share, and follow us on the social media platforms below:
     </p>
     <ul>
         <li><a href="https://www.facebook.com/multnomahcountyfarmbureau/">Facebook</a></li>
