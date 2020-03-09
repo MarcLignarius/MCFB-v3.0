@@ -6,10 +6,10 @@
 <div class="container-fluid">
     <h1 class="my-4 text-center"><?php echo $page_title; ?></h1>
     <p>
-        MCFB&#39;s Board of Directors must include a President and Secretary as Board Officers, and
+        MCFB's Board of Directors must include a President and Secretary as Board Officers, and
         no less than one additional Board Director. The Board of Directors may choose to elect a
         Vice-President and Treasurer as additional Board Officers, and up to eight additional
-        Board Directors. In addition, if there is a county Women&#39;s Committee and/or a Young
+        Board Directors. In addition, if there is a county Women's Committee and/or a Young
         Farmers and Ranchers Committee, the Chair of each committee shall be a voting
         member of the Board of Directors.
     </p>
