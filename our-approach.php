@@ -8,13 +8,13 @@
     <p >
         MCFB's approach to fulfilling its mission and vision is accomplished through five key strategies: 
     </p>
-    <ul>
-        <li>Asking Farmers for their input on issues facing their communities, neighbors, and other individuals</li>
-        <li>Assisting Farmers with issues they are facing, either on-farm or off of the farm </li>
-        <li>Connecting Farmers with each other through events and communications so they benefits from being part of a network of local farmers</li>
-        <li>Representing Farmers with local, state, and national officials and representatives so their voices are heard and issues addressed in laws, regulations, policies, practices, and plans.</li>
-        <li>Sharing Knowledge with Farmers so they have access to training and certifications they need to keep farming alive and healthy.</li>
-    </ul>
+    <ol class="mb-4">
+        <li><strong>Asking Farmers</strong> for their input on issues facing their communities, neighbors, and other individuals.</li>
+        <li><strong>Assisting Farmers</strong> with issues they are facing, either on-farm or off of the farm.</li>
+        <li><strong>Connecting Farmers</strong> with each other through events and communications so they benefits from being part of a network of local farmers.</li>
+        <li><strong>Representing Farmers</strong> with local, state, and national officials and representatives so their voices are heard and issues addressed in laws, regulations, policies, practices, and plans.</li>
+        <li><strong>Sharing Knowledge with Farmers</strong> so they have access to training and certifications they need to keep farming alive and healthy.</li>
+    </ol>
     <div class="row">
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center">
