@@ -21,6 +21,28 @@
     <p>
         If you are a local farmer and would like MCFB assistance with an issue, problem, or concern, <a href="contact.php">contact us</a>.
     </p>
+    <div class="row">
+        <div class="col-lg-4 mb-3"></div>
+        <div class="col-lg-4 mb-3">
+            <div class="card h-100 text-center">
+                <div class="image-text-container">
+                    <a href="farm-stands-and-agritourism.php">
+                        <img class="card-image" src="../images/placeholder.png" alt="">
+                        <h2 class="card-title">Farm Stands & Agritourism</h2>
+                    </a>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
+                    </p>
+                </div>
+                <div>
+                    <a href="farm-stands-and-agritourism.php" class="btn btn-link">Learn More &rarr;</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4 mb-3"></div>
+    </div>
     <p class="text-center">
         <a href="our-approach.php" class="btn btn-primary">&larr; Back</a>
         <a href="index.php" class="btn btn-primary">Home</a>
