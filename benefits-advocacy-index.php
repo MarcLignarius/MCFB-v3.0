@@ -81,7 +81,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="advisory-committees.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="advisory-councils-and-committees.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>

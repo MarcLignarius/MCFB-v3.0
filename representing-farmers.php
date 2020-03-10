@@ -69,9 +69,9 @@
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
-                    <a href="advisory-committees.php">
+                    <a href="advisory-councils-and-committees.php">
                         <img class="card-image" src="../images/placeholder.png" alt="">
-                        <h2 class="card-title">Advisory Committees</h2>
+                        <h2 class="card-title">Advisory Councils & Committees</h2>
                     </a>
                 </div>
                 <div class="card-body">
@@ -80,7 +80,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="advisory-committees.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="advisory-councils-and-committees.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>
