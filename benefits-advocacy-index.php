@@ -46,7 +46,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="local-state-and-federal-laws-and-rules.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="laws-and-regulations.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>

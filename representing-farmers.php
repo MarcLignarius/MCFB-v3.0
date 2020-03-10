@@ -30,9 +30,9 @@
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
-                    <a href="local-state-and-federal-laws-and-rules.php">
+                    <a href="laws-and-regulations.php">
                         <img class="card-image" src="../images/placeholder.png" alt="">
-                        <h2 class="card-title">Local, State & Federal Laws and Rules</h2>
+                        <h2 class="card-title">Laws & Regulations</h2>
                     </a>
                 </div>
                 <div class="card-body">
@@ -41,7 +41,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="local-state-and-federal-laws-and-rules.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="laws-and-regulations.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>
