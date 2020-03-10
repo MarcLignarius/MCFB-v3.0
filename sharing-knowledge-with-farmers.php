@@ -5,6 +5,7 @@
 
 <div class="container-fluid">
     <h1 class="my-4 text-center"><?php echo $page_title; ?></h1>
+    <p>Farmers need to know a lot of things to be successful. For some farmers, much of the required knowledge is passed on from one generation to the next. For other farmers, they learn on the job. But for both types of farmers and everyone in between, there are constantly new laws, regulations, techniques, and technologies that must be understood and applied. MCFB works with partners to identify opportunities to assist local farmers and community members in staying up to date on relevant legal, regulatory, and technical issues. To do so, we support students though scholarships, send farmers to conferences, sponsor learning events, and host workshops.</p>
     <div class="row">
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center">
@@ -62,6 +63,7 @@
         </div>
     </div>
     <div class="row">
+        <div class="col-lg-2 mb-3"></div>
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
@@ -83,9 +85,9 @@
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
-                    <a href="apprenticeships.php">
+                    <a href="financial-support.php">
                         <img class="card-image" src="../images/placeholder.png" alt="">
-                        <h2 class="card-title">Apprenticeships</h2>
+                        <h2 class="card-title">Financial Support</h2>
                     </a>
                 </div>
                 <div class="card-body">
@@ -94,28 +96,11 @@
                     </p>
                 </div>
                 <div>
-                    <a href="apprenticeships.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="financial-support.php" class="btn btn-link">Learn More &rarr;</a>
                 </div>
             </div>
         </div>
-        <div class="col-lg-4 mb-3">
-            <div class="card h-100 text-center">
-                <div class="image-text-container">
-                    <a href="resources.php">
-                        <img class="card-image" src="../images/placeholder.png" alt="">
-                        <h2 class="card-title">Resources</h2>
-                    </a>
-                </div>
-                <div class="card-body">
-                    <p class="card-text">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
-                    </p>
-                </div>
-                <div>
-                    <a href="resources.php" class="btn btn-link">Learn More &rarr;</a>
-                </div>
-            </div>
-        </div>
+        <div class="col-lg-2 mb-3"></div>
     </div>
     <p class="text-center">
         <a href="our-approach.php" class="btn btn-primary">&larr; Back</a>

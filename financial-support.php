@@ -1,4 +1,4 @@
-<?php $page_title = "Apprenticeships"; ?>
+<?php $page_title = "Financial Support"; ?>
 
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
