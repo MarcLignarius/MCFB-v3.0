@@ -31,7 +31,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="board.php">
-                        <img class="card-image" src="../images/1.3.2_Board.jpg" alt="">
+                        <img class="card-image" src="../images/1.3.2.0_Board.jpg" alt="">
                         <h2 class="card-title">Board</h2>
                     </a>
                 </div>
@@ -49,7 +49,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="contractors.php">
-                        <img class="card-image" src="../images/1.3.3_Contractors.jpg" alt="">
+                        <img class="card-image" src="../images/1.3.3.0.Contractors.jpg" alt="">
                         <h2 class="card-title">Contractors</h2>
                     </a>
                 </div>
@@ -67,7 +67,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="volunteers.php">
-                        <img class="card-image" src="../images/1.3.4_Volunteers.jpg" alt="">
+                        <img class="card-image" src="../images/1.3.4.0.Volunteers.jpg" alt="">
                         <h2 class="card-title">Volunteers</h2>
                     </a>
                 </div>

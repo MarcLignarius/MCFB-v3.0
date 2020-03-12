@@ -13,7 +13,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="purpose.php">
-                        <img class="card-image" src="../images/1.1_Purpose_Bushue Farm Photo.jpg" alt="">
+                        <img class="card-image img-responsive" src="../images/1.1.Purpose.png" alt="">
                         <h2 class="card-title">Purpose</h2>
                     </a>
                 </div>
@@ -31,7 +31,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="farming.php">
-                        <img class="card-image" src="../images/1.2_Farming_sturm berry farm.jpg" alt="">
+                        <img class="card-image" src="../images/1.2_Farming.jpg" alt="">
                         <h2 class="card-title">Farming</h2>
                     </a>
                 </div>
@@ -88,7 +88,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="board-meetings.php">
-                        <img class="card-image" src="../images/1.2_Farming_sturm berry farm.jpg" alt="">
+                        <img class="card-image" src="../images/1.5.Board_Meetings.jpg" alt="">
                         <h2 class="card-title">Board Meetings</h2>
                     </a>
                 </div>

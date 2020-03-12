@@ -126,3 +126,12 @@ footer a:hover {
     font-size: 14px;
   }
 }
+
+.team-pictures .container .row  {
+  text-align: center;
+  text-spacing: 10px;
+  margin-right: 45px;
+  margin-left: -45px;
+  margin-top: 40px;
+
+}
