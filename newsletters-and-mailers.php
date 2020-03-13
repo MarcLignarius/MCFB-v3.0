@@ -6,7 +6,7 @@
 <div class="container-fluid">
     <h1 class="my-4 text-center"><?php echo $page_title; ?></h1>
     <p>
-    MCFB uses periodic newsletters and mailers to keep its members up to date regarding meetings, events, outings, and other networking opportunities and newsworthy issues. Newsletters and mailers are sent to Voting and Supporting members by email and postal service. Associate members can opt-in to receive newsletters and mailers by Contacting Us. Previous newsletters and mailers are archived below.
+    MCFB uses periodic newsletters and mailers to keep its members up to date regarding meetings, events, outings, and other networking opportunities and newsworthy issues. Newsletters and mailers are sent to Voting and Supporting members by email and postal service. Associate members can opt-in to receive newsletters and mailers by <a href="contact.php">Contacting Us</a>. Previous newsletters and mailers are archived below.
     </p>
     <ul>
         <li>MCFB January 2020 mailer</li>

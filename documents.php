@@ -13,7 +13,7 @@
         <li><a href="by-laws.php">By-laws</a></li>
         <li><a href="business-plan.php">Business Plan</a></li>
         <li><a href="annual-budgets.php">Annual Budgets</a></li>
-        <li><a href="board-materials.php">Board Meetings Agendas & Minutes</a></li>
+        <li><a href="board-meetings-agendas-and-minutes.php">Board Meetings Agendas & Minutes</a></li>
     </ul>
     <p class="text-center">
         <a href="about.php" class="btn btn-primary">&larr; Back</a>

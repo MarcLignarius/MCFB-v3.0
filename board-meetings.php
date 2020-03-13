@@ -6,7 +6,7 @@
 <div class="container-fluid">
     <h1 class="my-4 text-center"><?php echo $page_title; ?></h1>
     <p>
-        MCFB Board meetings and annual meeting are normally held as per the schedule below. Notices, locations, and changes to this schedule are provided through mailers and on the MCFB Facebook page. Voting and Supporting members are always welcome to attend any of these meetings. Associate members, members of the public, and partner representatives should <a href="contact.php">contact us</a> if you would like to attend a meeting.
+        MCFB Board meetings and annual meeting are normally held as per the schedule below. Notices, locations, and changes to this schedule are provided through mailers and on the MCFB Facebook page. Voting and Supporting members are always welcome to attend any of these meetings. Associate members, members of the public, and partner representatives should <a href="contact.php">Contact Us</a> if you would like to attend a meeting.
     </p>
     <ul>
         <li>Board Meetings: 3rd Thursday @ 7:00PM @ 1101 NE Burnside, Gresham</li>

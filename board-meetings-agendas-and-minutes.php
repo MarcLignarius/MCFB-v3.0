@@ -1,4 +1,4 @@
-<?php $page_title = "Board Materials"; ?>
+<?php $page_title = "Board Meetings Agendas & Minutes"; ?>
 
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>

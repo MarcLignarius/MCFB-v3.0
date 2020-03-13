@@ -19,7 +19,7 @@
         <li>Answers to questions about agricultural conservation easements.</li>
     </ul>
     <p>
-        If you are a local farmer and would like MCFB assistance with an issue, problem, or concern, <a href="contact.php">contact us</a>.
+        If you are a local farmer and would like MCFB assistance with an issue, problem, or concern, <a href="contact.php">Contact Us</a>.
     </p>
     <div class="row">
         <div class="col-lg-4 mb-3"></div>
