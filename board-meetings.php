@@ -13,98 +13,96 @@
         <li>Annual Meeting: TBD</li>
         <li>Holiday Gathering: TBD</li>
     </ul>
-    <div class="container">
-        <table class="table table-bordered text-center">
-            <thead class="thead-light">
-                <tr>
-                    <th scope="col">Month</th>
-                    <th scope="col">
-                        Board Meeting
-                    </th>
-                    <th scope="col">
-                        Annual Meeting
-                    </th>
-                    <th scope="col">
-                        Holiday Gathering
-                    </th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <th scope="row">January</th>
-                    <td>X</td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">February</th>
-                    <td>X</td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">March</th>
-                    <td>X</td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">April</th>
-                    <td>X</td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">May</th>
-                    <td>X</td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">June</th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">July</th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">August</th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">September</th>
-                    <td>X</td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">October</th>
-                    <td>X</td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">November</th>
-                    <td></td>
-                    <td>X</td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">December</th>
-                    <td></td>
-                    <td></td>
-                    <td>X</td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
+    <table class="table table-bordered text-center">
+        <thead class="thead-light">
+            <tr>
+                <th scope="col">Month</th>
+                <th scope="col">
+                    Board Meeting
+                </th>
+                <th scope="col">
+                    Annual Meeting
+                </th>
+                <th scope="col">
+                    Holiday Gathering
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">January</th>
+                <td>X</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">February</th>
+                <td>X</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">March</th>
+                <td>X</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">April</th>
+                <td>X</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">May</th>
+                <td>X</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">June</th>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">July</th>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">August</th>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">September</th>
+                <td>X</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">October</th>
+                <td>X</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">November</th>
+                <td></td>
+                <td>X</td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row">December</th>
+                <td></td>
+                <td></td>
+                <td>X</td>
+            </tr>
+        </tbody>
+    </table>
     <p class="text-center">
         <a href="about.php" class="btn btn-primary">&larr; Back</a>
         <a href="index.php" class="btn btn-primary">Home</a>

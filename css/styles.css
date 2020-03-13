@@ -84,10 +84,27 @@ nav {
   object-fit: cover;
 }
 
-@media only screen and (max-device-width : 768px) {
+@media only screen and (max-device-width : 480px) {
   .card-image { 
     height: 50vw; 
   }
+  #team .col-md-4 {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  #team .col-md-8 > h4 {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1023px) {
+ #team .rounded-circle {
+   width: 80%;
+ }
+ #team p {
+   font-size: 12px;
+ }
 }
 
 img[alt="www.000webhost.com"] {
@@ -131,13 +148,4 @@ footer a:hover {
   footer p {
     font-size: 14px;
   }
-}
-
-.team-pictures .container .row  {
-  text-align: center;
-  text-spacing: 10px;
-  margin-right: 45px;
-  margin-left: -45px;
-  margin-top: 40px;
-
 }
