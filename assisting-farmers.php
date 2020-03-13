@@ -37,14 +37,14 @@
                     </p>
                 </div>
                 <div>
-                    <a href="farm-stands-and-agritourism.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="farm-stands-and-agritourism.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
         <div class="col-lg-4 mb-3"></div>
     </div>
     <p class="text-center">
-        <a href="our-approach.php"   class="btn btn-light">&larr; Back</a>
+        <a href="our-approach.php"   class="btn btn-light">Back</a>
         <a href="index.php"   class="btn btn-light">Home</a>
     </p>
     <?php include("statement.php"); ?>

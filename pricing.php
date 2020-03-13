@@ -22,7 +22,7 @@
             <li class="list-group-item">Dapibus ac facilisis in</li>
             <li class="list-group-item">Vestibulum at eros</li>
             <li class="list-group-item">
-              <a href="#" class="btn btn-link">Sign Up!</a>
+              <a href="#" class="btn btn-light">Sign Up!</a>
             </li>
           </ul>
         </div>
@@ -39,7 +39,7 @@
             <li class="list-group-item">Dapibus ac facilisis in</li>
             <li class="list-group-item">Vestibulum at eros</li>
             <li class="list-group-item">
-              <a href="#" class="btn btn-link">Sign Up!</a>
+              <a href="#" class="btn btn-light">Sign Up!</a>
             </li>
           </ul>
         </div>
@@ -56,7 +56,7 @@
             <li class="list-group-item">Dapibus ac facilisis in</li>
             <li class="list-group-item">Vestibulum at eros</li>
             <li class="list-group-item">
-              <a href="#" class="btn btn-link">Sign Up!</a>
+              <a href="#" class="btn btn-light">Sign Up!</a>
             </li>
           </ul>
         </div>

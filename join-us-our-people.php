@@ -18,7 +18,7 @@
                 </p>
             </div>
             <div>
-                <a href="membership.php" class="btn btn-link">Learn More &rarr;</a>
+                <a href="membership.php" class="btn btn-light">Learn More</a>
             </div>
         </div>
         </div>
@@ -34,7 +34,7 @@
                 </p>
             </div>
             <div>
-                <a href="board.php" class="btn btn-link">Learn More &rarr;</a>
+                <a href="board.php" class="btn btn-light">Learn More</a>
             </div>
         </div>
         </div>
@@ -50,7 +50,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="contractors.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="contractors.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
@@ -66,13 +66,13 @@
                     </p>
                 </div>
                 <div>
-                    <a href="volunteers.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="volunteers.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
     </div>
     <p class="text-center">
-        <a href="join-us.php"   class="btn btn-light">&larr; Back</a>
+        <a href="join-us.php"   class="btn btn-light">Back</a>
         <a href="index.php"   class="btn btn-light">Home</a>
     </p>
     <?php include("statement.php"); ?>
@@ -93,7 +93,7 @@
                 </p>
             </div>
             <div>
-                <a href="members.php" class="btn btn-link">Learn More &rarr;</a>
+                <a href="members.php" class="btn btn-light">Learn More</a>
             </div>
         </div>
     </div>
@@ -109,7 +109,7 @@
                 </p>
             </div>
             <div>
-                <a href="board-of-directors.php" class="btn btn-link">Learn More &rarr;</a>
+                <a href="board-of-directors.php" class="btn btn-light">Learn More</a>
             </div>
         </div>
     </div>
@@ -125,7 +125,7 @@
                 </p>
             </div>
             <div>
-                <a href="staff.php" class="btn btn-link">Learn More &rarr;</a>
+                <a href="staff.php" class="btn btn-light">Learn More</a>
             </div>
         </div>
     </div>

@@ -21,7 +21,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="scholarships.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="scholarships.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
@@ -39,7 +39,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="conferences.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="conferences.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
@@ -57,7 +57,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="learning-events.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="learning-events.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
@@ -78,7 +78,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="workshops.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="workshops.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
@@ -96,15 +96,15 @@
                     </p>
                 </div>
                 <div>
-                    <a href="financial-support.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="financial-support.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
         <div class="col-lg-2 mb-3"></div>
     </div>
     <p class="text-center">
-        <a href="our-approach.php"   class="btn btn-light">&larr; Back</a>
-        <a href="index.php"   class="btn btn-light">Home</a>
+        <a href="our-approach.php" class="btn btn-light">Back</a>
+        <a href="index.php" class="btn btn-light">Home</a>
     </p>
     <?php include("statement.php"); ?>
 </div>

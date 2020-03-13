@@ -14,7 +14,7 @@
     </div>
 </div>
 <div class="container-fluid">
-    <div class="row">
+    <div class="row mb-3">
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
@@ -29,7 +29,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="purpose.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="purpose.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
@@ -47,7 +47,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="farming.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="farming.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
@@ -65,7 +65,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="our-people.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="our-people.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
@@ -85,7 +85,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="documents.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="documents.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
@@ -103,14 +103,14 @@
                     </p>
                 </div>
                 <div>
-                    <a href="board-meetings.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="board-meetings.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
         <div class="col-lg-4 mb-3"></div>
     </div>
     <p class="text-center">
-        <a href="index.php" class="btn btn-light">&larr; Back</a>
+        <a href="index.php" class="btn btn-light">Back</a>
     </p>
     <?php include("statement.php"); ?>
 </div>

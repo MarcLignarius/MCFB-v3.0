@@ -9,7 +9,7 @@
         <li>TBD</li>
     </ul>
     <p>
-        <a href="documents.php"   class="btn btn-light">&larr; Back</a>
+        <a href="documents.php"   class="btn btn-light">Back</a>
     </p>
     <?php include("statement.php"); ?>
 </div>

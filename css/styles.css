@@ -69,6 +69,16 @@ nav {
   border: none!important;
 }
 
+.container a, .container-fluid a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.container a:hover, .container-fluid a:hover {
+  text-decoration: none;
+  color: #000000;
+}
+
 .card-body {
   padding: 1.25rem 1.25rem 0.50rem 1.25rem;
 }
@@ -144,12 +154,12 @@ footer .fa {
   font-size: 18px;
 }
 
-footer a {
+footer > .container a {
   color: white;
   font-weight: 400;
 }
 
-footer a:hover {
+footer > .container a:hover {
   color: rgba(255, 255, 255, 0.75);
   text-decoration: none;
 }

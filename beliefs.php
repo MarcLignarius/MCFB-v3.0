@@ -9,7 +9,7 @@
         <li>Equity Statement</li>
         <li>Anti-Discrimination Statement</li>
     </ul>
-    <a href="index.php"   class="btn btn-light">&larr; Back</a>
+    <a href="index.php"   class="btn btn-light">Back</a>
 </div>
 
 <?php include("footer.php"); ?>

@@ -20,7 +20,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="about.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="about.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
@@ -38,7 +38,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="our-approach.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="our-approach.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
@@ -56,7 +56,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="benefits.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="benefits.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
@@ -74,7 +74,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="join-us.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="join-us.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>

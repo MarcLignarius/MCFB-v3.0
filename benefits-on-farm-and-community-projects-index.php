@@ -30,7 +30,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="ask-a-farmer.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="ask-a-farmer.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
@@ -46,7 +46,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="legal-assistance.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="legal-assistance.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
@@ -62,13 +62,13 @@
                     </p>
                 </div>
                 <div>
-                    <a href="ronald-mcdonald-house.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="ronald-mcdonald-house.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
     </div>
     <p class="text-center">
-        <a href="benefits.php"   class="btn btn-light">&larr; Back</a>
+        <a href="benefits.php"   class="btn btn-light">Back</a>
         <a href="index.php"   class="btn btn-light">Home</a>
     </p>
 </div>

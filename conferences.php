@@ -11,7 +11,7 @@
         <li><a href="https://www.fb.org/events/afbf-annual-convention/">AFBF Annual Conference</a> (normally in January of each year)</li>
     </ul>
     <p class="text-center">
-        <a href="sharing-knowledge-with-farmers.php"   class="btn btn-light">&larr; Back</a>
+        <a href="sharing-knowledge-with-farmers.php"   class="btn btn-light">Back</a>
         <a href="index.php"   class="btn btn-light">Home</a>
     </p>
     <?php include("statement.php"); ?>

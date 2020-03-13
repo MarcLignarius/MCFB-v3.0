@@ -18,7 +18,7 @@
         <li><a href="https://agsci.oregonstate.edu/eoarc-union/summer-ag-institute">Oregon Agricultural Education Foundation Summer Agriculture Institute</a> (Multnomah County and Clackamas County teachers only)</li>
     </ul>    
     <p class="text-center">
-        <a href="sharing-knowledge-with-farmers.php"   class="btn btn-light">&larr; Back</a>
+        <a href="sharing-knowledge-with-farmers.php"   class="btn btn-light">Back</a>
         <a href="index.php"   class="btn btn-light">Home</a>
     </p>
     <?php include("statement.php"); ?>

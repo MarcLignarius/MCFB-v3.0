@@ -23,7 +23,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="elected-officials.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="elected-officials.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
@@ -41,7 +41,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="laws-and-regulations.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="laws-and-regulations.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
@@ -59,7 +59,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="voter-education.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="voter-education.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
@@ -80,7 +80,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="advisory-councils-and-committees.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="advisory-councils-and-committees.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
@@ -98,14 +98,14 @@
                     </p>
                 </div>
                 <div>
-                    <a href="organizational-support.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="organizational-support.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
         <div class="col-lg-2 mb-3"></div>
     </div>
     <p class="text-center">
-        <a href="our-approach.php"   class="btn btn-light">&larr; Back</a>
+        <a href="our-approach.php"   class="btn btn-light">Back</a>
         <a href="index.php"   class="btn btn-light">Home</a>
     </p>
 </div>

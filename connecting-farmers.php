@@ -23,7 +23,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="social-outings.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="social-outings.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
@@ -41,7 +41,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="celebrations.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="celebrations.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
@@ -59,7 +59,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="newsletters.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="newsletters.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
@@ -77,13 +77,13 @@
                     </p>
                 </div>
                 <div>
-                    <a href="social-media.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="social-media.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
     </div>
     <p class="text-center">
-        <a href="our-approach.php"   class="btn btn-light">&larr; Back</a>
+        <a href="our-approach.php"   class="btn btn-light">Back</a>
         <a href="index.php"   class="btn btn-light">Home</a>
     </p>
     <?php include("statement.php"); ?>

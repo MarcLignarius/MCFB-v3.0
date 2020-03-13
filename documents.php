@@ -16,7 +16,7 @@
         <li><a href="board-meetings-agendas-and-minutes.php">Board Meetings Agendas & Minutes</a></li>
     </ul>
     <p class="text-center">
-        <a href="about.php"   class="btn btn-light">&larr; Back</a>
+        <a href="about.php"   class="btn btn-light">Back</a>
         <a href="index.php"   class="btn btn-light">Home</a>
     </p>
     <?php include("statement.php"); ?>

@@ -32,7 +32,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="scholarships.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="scholarships.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
@@ -48,7 +48,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="conferences.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="conferences.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
@@ -64,7 +64,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="learning-events.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="learning-events.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
@@ -82,7 +82,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="workshops.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="workshops.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
@@ -98,7 +98,7 @@
                     </p>
                 </div>
                 <div>
-                    <a href="apprenticeships.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="apprenticeships.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
@@ -114,14 +114,14 @@
                     </p>
                 </div>
                 <div>
-                    <a href="resources.php" class="btn btn-link">Learn More &rarr;</a>
+                    <a href="resources.php" class="btn btn-light">Learn More</a>
                 </div>
             </div>
         </div>
     </div>
     <p class="text-center">
-        <a href="benefits.php"   class="btn btn-light">&larr; Back</a>
-        <a href="index.php"   class="btn btn-light">Home</a>
+        <a href="benefits.php" class="btn btn-light">Back</a>
+        <a href="index.php" class="btn btn-light">Home</a>
     </p>
     <?php include("statement.php"); ?>
 </div>

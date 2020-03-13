@@ -29,7 +29,7 @@
 </div>
 <div class="container-fluid">
     <p class="text-center">
-        <a href="index.php" class="btn btn-light">&larr; Back</a>
+        <a href="index.php" class="btn btn-light">Back</a>
     </p>
     <?php include("statement.php"); ?>
 </div>

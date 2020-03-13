@@ -28,7 +28,7 @@
         MCFB's Approach: <a href="purpose-our-approach.php"> Our Approach </a> explains the actions we use to implement our purpose.
     </p>
     <p class="text-center">
-        <a href="about.php"   class="btn btn-light">&larr; Back</a>
+        <a href="about.php"   class="btn btn-light">Back</a>
     </p>
     <?php include("statement.php"); ?>
 </div>

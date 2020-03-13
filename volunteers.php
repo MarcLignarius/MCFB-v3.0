@@ -27,7 +27,7 @@
         Social Media Volunteer. <a href="contact.php">Contact Us</a> if interested.
     </p>
     <p class="text-center">
-        <a href="our-people.php"   class="btn btn-light">&larr; Back</a>
+        <a href="our-people.php"   class="btn btn-light">Back</a>
         <a href="index.php"   class="btn btn-light">Home</a>
     </p>
     <?php include("statement.php"); ?>
@@ -54,7 +54,7 @@
         Social Media Volunteer. <a href="contact.php">Contact Us</a> if interested.
     </p>
     <p class="text-center">
-        <a href="our-people.php"   class="btn btn-light">&larr; Back</a>
+        <a href="our-people.php"   class="btn btn-light">Back</a>
         <a href="index.php"   class="btn btn-light">Home</a>
     </p>
     <?php include("statement.php"); ?>

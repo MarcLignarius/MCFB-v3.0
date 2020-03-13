@@ -16,7 +16,7 @@
         <li><a href="https://www.linkedin.com/company/multnomah-county-farm-bureau">LinkedIn</a></li>
     </ul>
     <p class="text-center">
-        <a href="connecting-farmers.php"   class="btn btn-light">&larr; Back</a>
+        <a href="connecting-farmers.php"   class="btn btn-light">Back</a>
         <a href="index.php"   class="btn btn-light">Home</a>
     </p>
     <?php include("statement.php"); ?>

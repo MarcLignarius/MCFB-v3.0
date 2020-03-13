@@ -32,7 +32,7 @@
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
           </div>
           <div class="card-footer">
-            <a href="#" class="btn btn-link">Learn More</a>
+            <a href="#" class="btn btn-light">Learn More</a>
           </div>
         </div>
       </div>
@@ -43,7 +43,7 @@
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ipsam eos, nam perspiciatis natus commodi similique totam consectetur praesentium molestiae atque exercitationem ut consequuntur, sed eveniet, magni nostrum sint fuga.</p>
           </div>
           <div class="card-footer">
-            <a href="#" class="btn btn-link">Learn More</a>
+            <a href="#" class="btn btn-light">Learn More</a>
           </div>
         </div>
       </div>
@@ -54,7 +54,7 @@
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
           </div>
           <div class="card-footer">
-            <a href="#" class="btn btn-link">Learn More</a>
+            <a href="#" class="btn btn-light">Learn More</a>
           </div>
         </div>
       </div>

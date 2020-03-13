@@ -51,7 +51,7 @@
               <div class="form-group">
                 <textarea class="form-control" rows="3"></textarea>
               </div>
-              <button type="submit" class="btn btn-link">Submit</button>
+              <button type="submit" class="btn btn-light">Submit</button>
             </form>
           </div>
         </div>
@@ -103,7 +103,7 @@
             <div class="input-group">
               <input type="text" class="form-control" placeholder="Search for...">
               <span class="input-group-btn">
-                <button class="btn btn-link" type="button">Go!</button>
+                <button class="btn btn-light" type="button">Go!</button>
               </span>
             </div>
           </div>
