@@ -56,6 +56,10 @@ nav {
   }
 }
 
+.jumbotron {
+  background: none
+}
+
 .image-text-container {
   position: relative;
 }
