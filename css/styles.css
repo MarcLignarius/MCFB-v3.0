@@ -84,6 +84,12 @@ nav {
   object-fit: cover;
 }
 
+@media only screen and (max-device-width : 768px) {
+  .card-image { 
+    height: 50vw; 
+  }
+}
+
 img[alt="www.000webhost.com"] {
   display: none;
 }
