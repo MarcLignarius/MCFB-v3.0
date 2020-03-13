@@ -84,7 +84,7 @@ nav {
   object-fit: cover;
 }
 
-@media only screen and (max-device-width : 480px) {
+@media only screen and (max-device-width : 737px) {
   .card-image { 
     height: 50vw; 
   }
