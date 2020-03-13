@@ -4,7 +4,6 @@
 <?php include("navigation.php"); ?>
 
 <h1 class="my-4 text-center"><?php echo $page_title; ?></h1>
-
     <div class="container" id="team">
         <div class= "row mb-5">
             <div class = "col-md-4 align-self-center">
