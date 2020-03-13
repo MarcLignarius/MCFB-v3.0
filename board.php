@@ -1,11 +1,10 @@
 <?php $page_title = "Board"; ?>
-
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
-
-<h1 class="my-4 text-center"><?php echo $page_title; ?></h1>
+<div class="jumbotron">
     <div class="container" id="team">
-        <div class= "row mb-5">
+        <h1 class="mb-4"><?php echo $page_title; ?></h1>
+        <div class= "row my-5">
             <div class = "col-md-4 align-self-center">
                 <img src="../images/1.3.2.Bio-Al.png" alt="..." class="rounded-circle">
             </div>
@@ -68,7 +67,7 @@
                 <p>John is a retired schoolteacher who joined the MCFB in 1990. When John was actively engaged on his farm east of Troutdale, he raised raspberries, cattle, hay, ornamental trees, and timber. John’s involvement with the MCFB Board begin in 2006. In 2007, he was elected as a Board Director and has continued his Board service to this day. John has served as an OFB delegate at the OFB annual convention.</p> 
             </div>
         </div>
-        <div class= "row  mb-5">
+        <div class= "row mb-5">
             <div class = "col-md-4 align-self-center">
                 <img src="../images/1.3.2.Bio-Larry.png" alt="..." class="rounded-circle">
             </div>
@@ -78,12 +77,13 @@
             </div>
         </div>
     </div>
+</div>
+<div class="container-fluid">
     <p class="text-center">
         <a href="our-people.php"   class="btn btn-light">Back</a>
         <a href="index.php"   class="btn btn-light">Home</a>
     </p>
     <?php include("statement.php"); ?>
 </div>
-
 <?php include("footer.php"); ?>
 
