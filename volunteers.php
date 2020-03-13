@@ -6,7 +6,7 @@
 <div class="container-fluid">
     <h1 class="my-4 text-center"><?php echo $page_title; ?></h1>
     <p class="text-center">
-        MCFB occasionally benefits from the time and expertise of volunteers. Volunteers lead or help with activities such as website development and maintenance, social media management, and event hosting. If you would like to volunteer or have a volunteer idea, please Contact Us.
+        MCFB occasionally benefits from the time and expertise of volunteers. Volunteers lead or help with activities such as website development and maintenance, social media management, and event hosting. If you would like to volunteer or have a volunteer idea, please <a href="contact.php">Contact Us</a>.
     </p>
     <p class="font-weight-bold">
         Current MCFB Volunteers:

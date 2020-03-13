@@ -8,23 +8,24 @@
     <p>
         MCFB Board meetings and annual meeting are normally held as per the schedule below. Notices, locations, and changes to this schedule are provided through mailers and on the MCFB Facebook page. Voting and Supporting members are always welcome to attend any of these meetings. Associate members, members of the public, and partner representatives should <a href="contact.php">contact us</a> if you would like to attend a meeting.
     </p>
+    <ul>
+        <li>Board Meetings: 3rd Thursday @ 7:00PM @ 1101 NE Burnside, Gresham</li>
+        <li>Annual Meeting: TBD</li>
+        <li>Holiday Gathering: TBD</li>
+    </ul>
     <div class="container">
         <table class="table table-bordered text-center">
             <thead class="thead-light">
                 <tr>
                     <th scope="col">Month</th>
                     <th scope="col">
-                        Board Meeting<br>
-                        3rd Thursday @ 7:00PM<br>
-                        1101 NE Burnside, Gresham
+                        Board Meeting
                     </th>
                     <th scope="col">
-                        Annual Meeting<br>
-                        Location, date and time TBD
+                        Annual Meeting
                     </th>
                     <th scope="col">
-                        Holiday Gathering<br>
-                        Location, date and time TBD
+                        Holiday Gathering
                     </th>
                 </tr>
             </thead>
