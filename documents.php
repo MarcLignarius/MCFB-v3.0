@@ -6,7 +6,7 @@
 <div class="container-fluid">
     <h1 class="my-4 text-center"><?php echo $page_title; ?></h1>
     <p class="text-center">
-        MCFB foundational, guiding, annual, and Board-related documents can be found here. If you are looking for an MCFB document that is not on this page, please contact us.
+        MCFB's foundational, guiding, annual, and Board-related documents can be found here. If you are looking for an MCFB document that is not on this page, please contact us.
     </p>
     <ul>
         <li><a href="articles-of-incorporation.php">Articles of Incorporation</a></li>
