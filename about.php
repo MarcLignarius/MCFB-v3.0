@@ -1,8 +1,6 @@
 <?php $page_title = "About"; ?>
-
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
-
 <div class="jumbotron">
     <div class="container">
         <h1 class="mb-4"><?php echo $page_title; ?></h1>
@@ -114,5 +112,4 @@
     </p>
     <?php include("statement.php"); ?>
 </div>
-
 <?php include("footer.php"); ?>

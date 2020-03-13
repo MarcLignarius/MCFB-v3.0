@@ -1,8 +1,6 @@
 <?php $page_title = "Our Approach"; ?>
-
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
-
 <div class="jumbotron">
     <div class="container">
         <h1 class="mb-4"><?php echo $page_title; ?></h1>
@@ -19,7 +17,7 @@
     </div>
 </div>
 <div class="container-fluid">
-    <div class="row">
+    <div class="row mb-3">
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
@@ -115,9 +113,8 @@
         <div class="col-lg-4 mb-3"></div>
     </div>
     <p class="text-center">
-        <a href="index.php"   class="btn btn-light">Back</a>
+        <a href="index.php" class="btn btn-light">Back</a>
     </p>
     <?php include("statement.php"); ?>
 </div>
-
 <?php include("footer.php"); ?>

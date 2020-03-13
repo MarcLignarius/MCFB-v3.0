@@ -1,9 +1,7 @@
 <?php $page_title = "Home"; ?>
-
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
 <?php include("banner.php"); ?>
-
 <div class="container-fluid">
     <div class="row">
         <div class="col-xl-3 col-md-6 mb-3">
@@ -81,5 +79,4 @@
     </div>
     <?php include("statement.php"); ?>
 </div>
-
 <?php include("footer.php"); ?>

@@ -1,8 +1,6 @@
 <?php $page_title = "Benefits"; ?>
-
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
-
 <div class="jumbotron">
     <div class="container">
         <h1 class="mb-4"><?php echo $page_title; ?></h1>
@@ -24,7 +22,8 @@
         </ul>
         <p>MCFB members also receive discounts on nearly 30 resources and services, such as new farm vehicles and equipment, solar panels, 
             health insurance, and theft recovery. These benefits are constantly improving so members should check the 
-            <a href="https://oregonfb.org/member-discounts-2/">OFB website</a> to verify current offerings.</p>
+            <a href="https://oregonfb.org/member-discounts-2/" style="color: #007bff">OFB website</a> to verify current offerings.
+        </p>
     </div>
 </div>
 <div class="container-fluid">
@@ -33,6 +32,4 @@
     </p>
     <?php include("statement.php"); ?>
 </div>
-
-
 <?php include("footer.php"); ?>
