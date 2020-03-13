@@ -24,7 +24,7 @@
             <li>Is there a lease premium for farmland that has been in the Conservation Reserve Program?</li>
         </ul>
         <p>
-            If you have a question that you would like to pose to a local farmer, <a href="contact.php" style="color: 007bff">Contact Us</a>.
+            If you have a question that you would like to pose to a local farmer, <a href="contact.php" style="color: #007bff">Contact Us</a>.
         </p>
     </div>
 </div>

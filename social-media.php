@@ -1,5 +1,4 @@
 <?php $page_title = "Social Media"; ?>
-
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
 <div class="jumbotron">
@@ -24,5 +23,4 @@
     </p>
     <?php include("statement.php"); ?>
 </div>
-
 <?php include("footer.php"); ?>

@@ -1,14 +1,21 @@
 <?php $page_title = "Representing Farmers"; ?>
-
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
-
+<div class="jumbotron">
+    <div class="container">
+        <h1 class="mb-4"><?php echo $page_title; ?></h1>
+        <p>
+            The legal requirements that affect farming can make a difficult business even more difficult. Laws, regulations, policies, and 
+            government programs are constantly changing and it’s nearly impossible for individual farmers to track, respond to, learn, comply
+            with, and voice concern about the changes and requirements. To address this, MCFB serves as an active voice for local farmers at 
+            the local, state, and national levels. When government laws, regulations, policies, and programs are proposed anew or to be 
+            changed, MCFB strives to identify, understand, disseminate, and engage related officials in a manner that benefits local farmers 
+            and the communities.	
+        </p>
+    </div>
+</div>
 <div class="container-fluid">
-    <h1 class="my-4 text-center"><?php echo $page_title; ?></h1>
-    <p class="text-center">
-        The legal requirements that affect farming can make a difficult business even more difficult. Laws, regulations, policies, and government programs are constantly changing and it’s nearly impossible for individual farmers to track, respond to, learn, comply with, and voice concern about the changes and requirements. To address this, MCFB serves as an active voice for local farmers at the local, state, and national levels. When government laws, regulations, policies, and programs are proposed anew or to be changed, MCFB strives to identify, understand, disseminate, and engage related officials in a manner that benefits local farmers and the communities.	
-    </p>
-    <div class="row">
+    <div class="row mb-3">
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
@@ -19,7 +26,7 @@
                 </div>
                 <div class="card-body">
                     <p class="card-text">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
+                        MCFB engages elected officials on behalf of local farmers through in-person meetings, testimonies, letters, and phone calls.
                     </p>
                 </div>
                 <div>
@@ -37,7 +44,7 @@
                 </div>
                 <div class="card-body">
                     <p class="card-text">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
+                        MCFB attempts to identify and become familiar with laws and regulations that are relevant to our local farmers.
                     </p>
                 </div>
                 <div>
@@ -55,7 +62,7 @@
                 </div>
                 <div class="card-body">
                     <p class="card-text">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
+                        MCFB sponsors specific events or organizations whose purpose is to inform local voters about agriculture-related issues.
                     </p>
                 </div>
                 <div>
@@ -65,7 +72,6 @@
         </div>
     </div>
     <div class="row">
-        <div class="col-lg-2 mb-3"></div>
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
@@ -76,7 +82,7 @@
                 </div>
                 <div class="card-body">
                     <p class="card-text">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
+                        MCFB Board Members and voting members can participate in several state-level OFB issue advisory councils and committees.
                     </p>
                 </div>
                 <div>
@@ -94,7 +100,7 @@
                 </div>
                 <div class="card-body">
                     <p class="card-text">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
+                    MCFB provides financial support to organizations that serve farmers specifically and/or the greater good of the community.
                     </p>
                 </div>
                 <div>
@@ -102,7 +108,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-2 mb-3"></div>
+        <div class="col-lg-4 mb-3">
     </div>
     <p class="text-center">
         <a href="our-approach.php"   class="btn btn-light">Back</a>
