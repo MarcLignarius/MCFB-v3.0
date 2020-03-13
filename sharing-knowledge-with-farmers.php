@@ -103,8 +103,8 @@
         <div class="col-lg-2 mb-3"></div>
     </div>
     <p class="text-center">
-        <a href="our-approach.php" class="btn btn-primary">&larr; Back</a>
-        <a href="index.php" class="btn btn-primary">Home</a>
+        <a href="our-approach.php"   class="btn btn-light">&larr; Back</a>
+        <a href="index.php"   class="btn btn-light">Home</a>
     </p>
     <?php include("statement.php"); ?>
 </div>

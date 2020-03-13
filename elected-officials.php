@@ -18,8 +18,8 @@
     Multnomah County maintains an <a href="https://multco.us/elections/federal-and-state-elected-officials">elected officials website</a> that identifies current elected officials at the local, state, and national level who represent those living in Multnomah County.
     </p>
     <p class="text-center">
-        <a href="representing-farmers.php" class="btn btn-primary">&larr; Back</a>
-        <a href="index.php" class="btn btn-primary">Home</a>
+        <a href="representing-farmers.php"   class="btn btn-light">&larr; Back</a>
+        <a href="index.php"   class="btn btn-light">Home</a>
     </p>
     <?php include("statement.php"); ?>
 </div>

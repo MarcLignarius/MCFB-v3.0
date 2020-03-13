@@ -9,8 +9,8 @@
         <li>TBD</li>
     </ul>
     <p class="text-center">
-        <a href="join-us.php" class="btn btn-primary">&larr; Back</a>   
-        <a href="index.php" class="btn btn-primary">Home</a>  
+        <a href="join-us.php"   class="btn btn-light">&larr; Back</a>   
+        <a href="index.php"   class="btn btn-light">Home</a>  
     </p>
     <?php include("statement.php"); ?>
 </div>

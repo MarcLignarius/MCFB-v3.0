@@ -62,8 +62,8 @@
         <li>Phone Number: 503-253-5571</li>
     </ul>
     <p class="text-center">
-        <a href="assisting-farmers.php" class="btn btn-primary">&larr; Back</a>
-        <a href="index.php" class="btn btn-primary">Home</a>
+        <a href="assisting-farmers.php"   class="btn btn-light">&larr; Back</a>
+        <a href="index.php"   class="btn btn-light">Home</a>
     </p>
     <?php include("statement.php"); ?>
 </div>

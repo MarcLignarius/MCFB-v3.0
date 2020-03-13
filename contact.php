@@ -44,12 +44,12 @@
     <div id="success"></div>
     <!-- For success/fail messages -->
     <p>
-      <button type="submit" class="btn btn-primary" id="sendMessageButton">Send Message</button>
+      <button type="submit"   class="btn btn-light" id="sendMessageButton">Send Message</button>
     </p>
   </form>
   <?php include("statement.php"); ?>
   <p class="text-center">
-    <a href="index.php" class="btn btn-primary">Home</a>
+    <a href="index.php"   class="btn btn-light">Home</a>
   </p>
 </div>
 

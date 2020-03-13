@@ -16,7 +16,7 @@
                 </div>
                 <div class="card-body">
                     <p class="card-text">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
+                        We are a non-profit organization and local chapter of the Oregon Farm Bureau.
                     </p>
                 </div>
                 <div>
@@ -34,7 +34,7 @@
                 </div>
                 <div class="card-body">
                     <p class="card-text">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
+                        The strategies we use to fulfill our mission and accomplish our vision.
                     </p>
                 </div>
                 <div>
@@ -52,7 +52,7 @@
                 </div>
                 <div class="card-body">
                     <p class="card-text">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
+                        The benefits and discounts our members receive on farming resources and services.
                     </p>
                 </div>
                 <div>
@@ -70,7 +70,7 @@
                 </div>
                 <div class="card-body">
                     <p class="card-text">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
+                        There are many ways to participate and benefit from MCFB activities.
                     </p>
                 </div>
                 <div>
