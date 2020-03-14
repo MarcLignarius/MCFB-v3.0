@@ -70,7 +70,6 @@
         </div>
     </div>
     <div class="row">
-        <div class="col-lg-2 mb-3"></div>
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
@@ -81,7 +80,7 @@
                 </div>
                 <div class="card-body">
                     <p class="card-text">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
+                        MCFB helps local farmers achieve necessary certifications and licenses and remain compliant with laws and regulations.
                     </p>
                 </div>
                 <div>
@@ -99,7 +98,7 @@
                 </div>
                 <div class="card-body">
                     <p class="card-text">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
+                        MCFB provides financial support to organizations that teach and train future and current farmers. 
                     </p>
                 </div>
                 <div>
@@ -107,7 +106,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-2 mb-3"></div>
+        <div class="col-lg-4 mb-3"></div>
     </div>
     <p class="text-center">
         <a href="our-approach.php" class="btn btn-light">Back</a>
