@@ -7,10 +7,13 @@
     <div class="container">
         <h1 class="mb-4"><?php echo $page_title; ?></h1>
         <p>
-        MCFB participates in, co-sponsors, and sometimes organizes and hosts member outings every year. These outings are intended to be social activities that encourage members to establish and maintain friendships with one another (and others) in a casual atmosphere. Annual outings will be noticed through email, mailers, and the MCFB Facebook page.
+            MCFB participates in, co-sponsors, and sometimes organizes and hosts member outings every year. These outings are intended to 
+            be social activities that encourage members to establish and maintain friendships with one another (and others) in a casual 
+            atmosphere. Annual outings will be noticed through email, mailers, and the MCFB Facebook page.
         </p>
         <p>
-            If you're an MCFB member and would like to recommend an outing or join a currently scheduled outing, please <a href="contact.php" style="color: #007bff">Contact Us</a>.
+            If you're an MCFB member and would like to recommend an outing or join a currently scheduled outing, please 
+            <a href="contact.php" style="color: #007bff">Contact Us</a>.
         </p>
         <p>
             Annual outings include:

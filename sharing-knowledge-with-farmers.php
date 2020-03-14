@@ -60,7 +60,8 @@
                 </div>
                 <div class="card-body">
                     <p class="card-text">
-                        MCFB sponsors initiatives to increase local community members’ exposure to agricultural issues and educational opportunities.
+                        MCFB sponsors initiatives to increase local community members’ exposure to agricultural issues and educational 
+                        opportunities.
                     </p>
                 </div>
                 <div>
@@ -80,7 +81,8 @@
                 </div>
                 <div class="card-body">
                     <p class="card-text">
-                        MCFB helps local farmers achieve necessary certifications and licenses and remain compliant with laws and regulations.
+                        MCFB helps local farmers achieve necessary certifications and licenses and remain compliant with laws and 
+                        regulations.
                     </p>
                 </div>
                 <div>
@@ -114,5 +116,4 @@
     </p>
     <?php include("statement.php"); ?>
 </div>
-
 <?php include("footer.php"); ?>
