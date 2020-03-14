@@ -18,8 +18,8 @@
 </div>
 <div class="container-fluid">
     <p class="text-center">
-        <a href="representing-farmers.php"   class="btn btn-light">Back</a>
-        <a href="index.php"   class="btn btn-light">Home</a>
+        <a href="representing-farmers.php" class="btn btn-light">Back</a>
+        <a href="index.php" class="btn btn-light">Home</a>
     </p>
     <?php include("statement.php"); ?>
 </div>

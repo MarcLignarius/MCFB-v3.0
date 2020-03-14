@@ -108,12 +108,12 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-4 mb-3">
+        <div class="col-lg-4 mb-3"></div>
     </div>
     <p class="text-center">
-        <a href="our-approach.php"   class="btn btn-light">Back</a>
-        <a href="index.php"   class="btn btn-light">Home</a>
+        <a href="our-approach.php" class="btn btn-light">Back</a>
+        <a href="index.php" class="btn btn-light">Home</a>
     </p>
+    <?php include("statement.php"); ?>
 </div>
-
 <?php include("footer.php"); ?>

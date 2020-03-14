@@ -1,11 +1,18 @@
 <?php $page_title = "Sharing Knowledge With Farmers"; ?>
-
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
-
+<div class="jumbotron">
+    <div class="container">
+        <h1 class="mb-4"><?php echo $page_title; ?></h1>
+        <p>Farmers need to know a lot of things to be successful. For some farmers, much of the required knowledge is passed on from one 
+            generation to the next. For other farmers, they learn on the job. But for both types of farmers and everyone in between, there 
+            are constantly new laws, regulations, techniques, and technologies that must be understood and applied. MCFB works with partners 
+            to identify opportunities to assist local farmers and community members in staying up to date on relevant legal, regulatory, and 
+            technical issues. To do so, we support students though scholarships, send farmers to conferences, sponsor learning events, and 
+            host workshops.</p>
+    </div>
+</div>
 <div class="container-fluid">
-    <h1 class="my-4 text-center"><?php echo $page_title; ?></h1>
-    <p>Farmers need to know a lot of things to be successful. For some farmers, much of the required knowledge is passed on from one generation to the next. For other farmers, they learn on the job. But for both types of farmers and everyone in between, there are constantly new laws, regulations, techniques, and technologies that must be understood and applied. MCFB works with partners to identify opportunities to assist local farmers and community members in staying up to date on relevant legal, regulatory, and technical issues. To do so, we support students though scholarships, send farmers to conferences, sponsor learning events, and host workshops.</p>
     <div class="row">
         <div class="col-lg-4 mb-3">
             <div class="card h-100 text-center">
@@ -17,7 +24,7 @@
                 </div>
                 <div class="card-body">
                     <p class="card-text">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
+                        MCFB contributes to various scholarships related to agricultural education throughout each year.
                     </p>
                 </div>
                 <div>
@@ -35,7 +42,7 @@
                 </div>
                 <div class="card-body">
                     <p class="card-text">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
+                        MCFB provides sponsorships to enable MCFB members to attend agriculture-related conferences.
                     </p>
                 </div>
                 <div>
@@ -53,7 +60,7 @@
                 </div>
                 <div class="card-body">
                     <p class="card-text">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, asperiores unde.
+                        MCFB sponsors initiatives to increase local community members’ exposure to agricultural issues and educational opportunities.
                     </p>
                 </div>
                 <div>
