@@ -5,7 +5,7 @@
     <div class="container" id="team">
         <h1 class="mb-4"><?php echo $page_title; ?></h1>
         <p>
-            MCFB does not have employees. Currently, MCFB contracts for services related to the executive director/secretary and treasurer.
+            MCFB contracts for services related to the executive director/secretary and treasurer.
         </p>
         <div class= "row my-5">
             <div class = "col-md-4 align-self-center">
