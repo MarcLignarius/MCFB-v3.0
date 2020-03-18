@@ -17,9 +17,7 @@
                 </a>
             </li>
             <li>
-                <a href="../files/MCFB By-Laws-2005.pdf" style="color:#007bff" download>
-                    MCFB By-Laws
-                </a>
+                MCFB By-Laws
             </li>
             <li>
                 MCFB Business Plan (under preparation)
