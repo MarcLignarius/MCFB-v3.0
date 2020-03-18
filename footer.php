@@ -22,7 +22,7 @@
             </div>
           </div>
           <p class="m-0 text-center text-white" id="copyright">
-            Copyright &copy; Multnomah County Farm Bureau 2019
+            Copyright &copy; Multnomah County Farm Bureau 2020
           </p>
         </div>
         <!-- /.container -->
