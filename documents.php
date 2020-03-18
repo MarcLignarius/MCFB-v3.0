@@ -114,7 +114,7 @@
         </p>
         <ul style="list-style-type: none">
             <li>
-                <a href="newsletters-and-mailers.php" style="color:#007bff">
+                <a href="documents-newsletters-and-mailers.php" style="color:#007bff">
                     Click here
                 </a>
             </li>
