@@ -11,13 +11,41 @@
             <a href="contact.php" style="color: #007bff">Contacting Us</a>. Previous newsletters and mailers are archived below.
         </p>
         <ul>
-            <li><a href="" style="color: #007bff">2020-01 MCFB Mailer-Pesticide Training</a></li>
-            <li><a href="" style="color: #007bff">2019-11 MCFB Mailer-Holiday Dinner</a></li>
-            <li><a href="" style="color: #007bff">2019-11 MCFB Mailer-Annual Meeting</a></li>
-            <li><a href="" style="color: #007bff">2018-11 MCFB Mailer-Annual Meeting</a></li>
-            <li><a href="" style="color: #007bff">2018-01 MCFB Newsletter</a></li>
-            <li><a href="" style="color: #007bff">2016-03 MCFB Newsletter</a></li>
-            <li><a href="" style="color: #007bff">2015-02 MCFB Newsletter</a></li>
+            <li>
+                <a href="../files/2020-01-MCFB Mailer-Pesticide Training.png" style="color: #007bff" download>
+                    2020-01 MCFB Mailer-Pesticide Training
+                </a>
+            </li>
+            <li>
+                <a href="../files/2019-11-MCFB Mailer-Holiday Dinner.pdf" style="color: #007bff" download>
+                    2019-11 MCFB Mailer-Holiday Dinner
+                </a>
+            </li>
+            <li>
+                <a href="../files/2019-11-MCFB Mailer-Annual Meeting2.pdf" style="color: #007bff" download>
+                    2019-11 MCFB Mailer-Annual Meeting
+                </a>
+            </li>
+            <li>
+                <a href="../files/2018-11-MCFB Mailer-Annual Meeting.pdf" style="color: #007bff" download>
+                    2018-11 MCFB Mailer-Annual Meeting
+                </a>
+            </li>
+            <li>
+                <a href="../files/2018-01-MCFB Newsletter.pdf" style="color: #007bff" download>
+                    2018-01 MCFB Newsletter
+                </a>
+            </li>
+            <li>
+                <a href="../files/2016-03-MCFB Newsletter.pdf" style="color: #007bff" download>
+                    2016-03 MCFB Newsletter
+                </a>
+            </li>
+            <li>
+                <a href="../files/2015-02-MCFB Newsletter.pdf" style="color: #007bff" download>
+                    2015-02 MCFB Newsletter
+                </a>
+            </li>
         </ul>
     </div>
 </div>
