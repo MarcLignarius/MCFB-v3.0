@@ -17,7 +17,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="purpose.php">
-                        <img class="card-image img-responsive" src="../images/1.1.Purpose.png" alt="">
+                        <img class="card-image image-5">
                         <h2 class="card-title">Purpose</h2>
                     </a>
                 </div>
@@ -35,7 +35,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="farming.php">
-                        <img class="card-image" src="../images/1.2_Farming.jpg" alt="">
+                        <img class="card-image image-6">
                         <h2 class="card-title">Farming</h2>
                     </a>
                 </div>
@@ -53,7 +53,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="our-people.php">
-                        <img class="card-image" src="../images/1.3_People.jpg" alt="">
+                        <img class="card-image image-7">
                         <h2 class="card-title">Our People</h2>
                     </a>
                 </div>
@@ -73,7 +73,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="documents.php">
-                        <img class="card-image" src="../images/1.4_Documents.jpg" alt="">
+                        <img class="card-image image-8">
                         <h2 class="card-title">Documents</h2>
                     </a>
                 </div>
@@ -91,7 +91,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="board-meetings.php">
-                        <img class="card-image" src="../images/1.5.Board_Meetings.jpg" alt="">
+                        <img class="card-image image-9">
                         <h2 class="card-title">Board Meetings</h2>
                     </a>
                 </div>

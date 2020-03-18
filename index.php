@@ -8,7 +8,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="about.php">
-                        <img class="card-image" src="../images/1.0_About.jpg" alt="">
+                        <img class="card-image image-1">
                         <h2 class="card-title">About</h2>
                     </a>
                 </div>
@@ -26,7 +26,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="our-approach.php">
-                        <img class="card-image" src="../images/2.0.Our_Approach.jpg" alt="">
+                        <img class="card-image image-2">
                         <h2 class="card-title">Our Approach</h2>
                     </a>
                 </div>
@@ -44,7 +44,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="benefits.php">
-                        <img class="card-image" src="../images/3.0_Benefits.jpg" alt="">
+                        <img class="card-image image-3">
                         <h2 class="card-title">Benefits</h2>
                     </a>
                 </div>
@@ -62,7 +62,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="join-us.php">
-                        <img class="card-image" src="../images/4.0_Join Us.jpg" alt="">
+                        <img class="card-image image-4">
                         <h2 class="card-title">Join Us</h2>
                     </a>
                 </div>

@@ -22,7 +22,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="asking-farmers.php">
-                        <img class="card-image" src="../images/2.1_Asking.jpg" alt="">
+                        <img class="card-image image-10">
                         <h2 class="card-title">Asking Farmers</h2>
                     </a>
                 </div>
@@ -40,7 +40,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="assisting-farmers.php">
-                        <img class="card-image" src="../images/2.2_Assisting.jpg" alt="">
+                        <img class="card-image image-11">
                         <h2 class="card-title">Assisting Farmers</h2>
                     </a>
                 </div>
@@ -58,7 +58,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="connecting-farmers.php">
-                        <img class="card-image" src="../images/2.3_Connecting2.jpg" alt="">
+                        <img class="card-image image-12">
                         <h2 class="card-title">Connecting Farmers</h2>
                     </a>
                 </div>
@@ -78,7 +78,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="representing-farmers.php">
-                        <img class="card-image" src="../images/2.4_Representing.jpg" alt="">
+                        <img class="card-image image-13">
                         <h2 class="card-title">Representing Farmers</h2>
                     </a>
                 </div>
@@ -96,7 +96,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="sharing-knowledge-with-farmers.php">
-                        <img class="card-image" src="../images/2.5_Sharing Knowledge1.jpg" alt="">
+                        <img class="card-image image-19">
                         <h2 class="card-title">Sharing Knowledge With Farmers</h2>
                     </a>
                 </div>

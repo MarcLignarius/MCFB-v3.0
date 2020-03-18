@@ -18,7 +18,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="scholarships.php">
-                        <img class="card-image" src="../images/placeholder.png" alt="">
+                        <img class="card-image image-18">
                         <h2 class="card-title">Scholarships</h2>
                     </a>
                 </div>
@@ -36,7 +36,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="conferences.php">
-                        <img class="card-image" src="../images/placeholder.png" alt="">
+                        <img class="card-image image-18">
                         <h2 class="card-title">Conferences</h2>
                     </a>
                 </div>
@@ -54,7 +54,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="learning-events.php">
-                        <img class="card-image" src="../images/placeholder.png" alt="">
+                        <img class="card-image image-18">
                         <h2 class="card-title">Learning Events</h2>
                     </a>
                 </div>
@@ -75,7 +75,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="workshops.php">
-                        <img class="card-image" src="../images/placeholder.png" alt="">
+                        <img class="card-image image-18">
                         <h2 class="card-title">Workshops</h2>
                     </a>
                 </div>
@@ -94,7 +94,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="financial-support.php">
-                        <img class="card-image" src="../images/placeholder.png" alt="">
+                        <img class="card-image image-18">
                         <h2 class="card-title">Financial Support</h2>
                     </a>
                 </div>
