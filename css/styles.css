@@ -1,3 +1,5 @@
+/* General Styles */
+
 body {
   padding-top: 100px;
   display: flex;
@@ -20,35 +22,6 @@ nav {
 
 .navbar-brand > img {
   max-height: 75px
-}
-
-#banner-container {
-  background: center/cover no-repeat url(../images/banner.png);
-  background-blend-mode: multiply;
-  background-color: rgb(179, 179, 179);
-  height: 50vh;
-  border-bottom: 2px solid #58833C;
-  margin-bottom: 30px;
-}
-
-#banner-text-container {
-  height: 100%;
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-#banner-text {
-  font-size: 80px;
-  color: white;
-  text-shadow: 0px 2px 3px #000000;
-}
-
-@media only screen and (min-device-width : 320px) and (max-device-width : 768px) {
-  #banner-text {
-    font-size: 50px;
-  }
 }
 
 .jumbotron {
@@ -107,35 +80,6 @@ form .btn-light:hover {
   color: black;
 }
 
-@media only screen and (max-device-width : 737px) {
-  .card-image { 
-    height: 50vw; 
-  }
-  #team .col-md-4 {
-    text-align: center;
-    margin-bottom: 1rem;
-  }
-  #team .col-md-8 > h4 {
-    text-align: center;
-    margin-bottom: 1rem;
-  }
-}
-
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
-  .card-image { 
-    height: 25vw; 
-  }
-}
-
-@media only screen and (min-device-width : 768px) and (max-device-width : 1023px) {
- #team .rounded-circle {
-   width: 80%;
- }
- #team p {
-   font-size: 12px;
- }
-}
-
 img[alt="www.000webhost.com"] {
   display: none;
 }
@@ -150,12 +94,6 @@ img[alt="www.000webhost.com"] {
 
 #statement {
   font-size: 12px;
-}
-
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
-  #statement {
-    font-size: 10px;
-  }
 }
 
 footer .fa {
@@ -173,11 +111,32 @@ footer > .container a:hover {
   text-decoration: none;
 }
 
-@media only screen and (min-device-width : 320px) and (max-device-width : 768px) {
-  footer p {
-    font-size: 14px;
-  }
+/* Page banners */
+
+#homepage-banner-container {
+  background: center/cover no-repeat url(../images/banner.png);
+  background-blend-mode: multiply;
+  background-color: rgb(179, 179, 179);
+  height: 50vh;
+  border-bottom: 2px solid #58833C;
+  margin-bottom: 30px;
 }
+
+#homepage-banner-text-container {
+  height: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#homepage-banner-text {
+  font-size: 80px;
+  color: white;
+  text-shadow: 0px 2px 3px #000000;
+}
+
+/* Thumbnails */
 
 .image-1 {
   background: center/cover no-repeat url(../images/1.0_About.jpg);
@@ -291,4 +250,53 @@ footer > .container a:hover {
   background: center/cover no-repeat url(../images/2.5_Sharing_Knowledge1.jpg);
   background-blend-mode: multiply;
   background-color: rgb(179, 179, 179);
+}
+
+/* Mobile styles */
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  #statement {
+    font-size: 10px;
+  }
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 768px) {
+  footer p {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 768px) {
+  #banner-text {
+    font-size: 50px;
+  }
+}
+
+@media only screen and (max-device-width : 737px) {
+  .card-image { 
+    height: 50vw; 
+  }
+  #team .col-md-4 {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  #team .col-md-8 > h4 {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1023px) {
+  #team .rounded-circle {
+    width: 80%;
+  }
+  #team p {
+    font-size: 12px;
+  }
+ }
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+  .card-image { 
+    height: 25vw; 
+  }
 }
