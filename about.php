@@ -1,6 +1,11 @@
 <?php $page_title = "About"; ?>
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
+<div id="about-banner-container">
+  <div id="about-banner-text-container">
+    <h1 id="about-banner-text">We help local farmers be successful.</h1>
+  </div>
+</div>
 <div class="jumbotron">
     <div class="container">
         <h1 class="mb-4"><?php echo $page_title; ?></h1>
