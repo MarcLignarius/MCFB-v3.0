@@ -10,9 +10,9 @@
             agriculture-related learning events that local farmers and community members would like to attend. 
         </p>
         <ul>
-            <li><a href="http://sandyffa.theaet.com/aethome.aspx?ID=30094" style="color: #007bff" >Sandy Future Farmers of America</a> participation at <a href="https://www.ffa.org/participate/cde-lde/" style="color: #007bff">National Events</a></li>
+            <li><a href="http://sandyffa.theaet.com/aethome.aspx?ID=30094" >Sandy Future Farmers of America</a> participation at <a href="https://www.ffa.org/participate/cde-lde/">National Events</a></li>
             <li>Sandy Areas Buyers Pool, which supports 4-H and FFA members participation in the Clackamas County Fair Jr. Livestock Auction</li>
-            <li><a href="http://oragfest.com/" style="color: #007bff">Oregon Ag Fest</a></li>
+            <li><a href="http://oragfest.com/">Oregon Ag Fest</a></li>
         </ul>
     </div>
 </div>

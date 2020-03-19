@@ -12,14 +12,14 @@
         </p>
         <p>
             OFB also engages elected officials on behalf of farmers. OFB advocacy-related activities and positions can be accessed through 
-            <a href="https://oregonfb.org/advocacy/" style="color: #007bff">its webpage</a>.
+            <a href="https://oregonfb.org/advocacy/">its webpage</a>.
         </p>    
         <p>
-            <a href="https://www.govtrack.us/congress/members/OR#map" style="color: #007bff">Govtrack.us</a> maintains a map of U.S Congressional Districts. The map 
+            <a href="https://www.govtrack.us/congress/members/OR#map">Govtrack.us</a> maintains a map of U.S Congressional Districts. The map 
             is useful in identifying representatives for specific areas of Multnomah County and the immediate surroundings.
         </p>
         <p>
-            Multnomah County maintains an <a href="https://multco.us/elections/federal-and-state-elected-officials" style="color: #007bff">elected officials 
+            Multnomah County maintains an <a href="https://multco.us/elections/federal-and-state-elected-officials">elected officials 
             website</a> that identifies current elected officials at the local, state, and national level who represent those living in 
             Multnomah County.
         </p>

@@ -7,7 +7,7 @@
         <p>
             MCFB Board meetings and annual meeting are normally held as per the schedule below. Notices, locations, and changes to this 
             schedule are provided through mailers and on the MCFB Facebook page. Voting and Supporting members are always welcome to attend 
-            any of these meetings. Associate members, members of the public, and partner representatives should <a href="contact.php" style="color: #007bff">Contact Us</a> 
+            any of these meetings. Associate members, members of the public, and partner representatives should <a href="contact.php">Contact Us</a> 
             if you would like to attend a meeting.
         </p>
         <ul>

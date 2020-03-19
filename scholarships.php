@@ -15,10 +15,10 @@
             <li>OFB Memorial Scholarships (OFB voting member children or grandchildren only)</li>
             <li>Associate Member Scholarship (OFB associate members only)</li>
         </ul>
-        <p>For more information on the above scholarships, see: <a href="https://oregonfb.org/scholarships/" style="color: #007bff">https://oregonfb.org/scholarships/</a>.</p>
+        <p>For more information on the above scholarships, see: <a href="https://oregonfb.org/scholarships/">https://oregonfb.org/scholarships/</a>.</p>
         <p>Other scholarships that MCFB has contributed to include:</p>
         <ul>
-            <li><a href="https://agsci.oregonstate.edu/eoarc-union/summer-ag-institute" style="color: #007bff">Oregon Agricultural Education Foundation Summer Agriculture Institute</a> (Multnomah County and Clackamas County teachers only)</li>
+            <li><a href="https://agsci.oregonstate.edu/eoarc-union/summer-ag-institute">Oregon Agricultural Education Foundation Summer Agriculture Institute</a> (Multnomah County and Clackamas County teachers only)</li>
         </ul>   
     </div> 
 </div>

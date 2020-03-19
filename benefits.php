@@ -22,7 +22,7 @@
         </ul>
         <p>MCFB members also receive discounts on nearly 30 resources and services, such as new farm vehicles and equipment, solar panels, 
             health insurance, and theft recovery. These benefits are constantly improving so members should check the 
-            <a href="https://oregonfb.org/member-discounts-2/" style="color: #007bff">OFB website</a> to verify current offerings.
+            <a href="https://oregonfb.org/member-discounts-2/">OFB website</a> to verify current offerings.
         </p>
     </div>
 </div>

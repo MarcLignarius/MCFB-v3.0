@@ -10,9 +10,9 @@
             are relevant to our local farmers.
         </p>
         <ul>
-            <li>Federal level: <a href="https://www.epa.gov/agriculture/laws-and-regulations-apply-your-agricultural-operation-farm-activity" style="color: #007bff">https://www.epa.gov/agriculture/laws-and-regulations-apply-your-agricultural-operation-farm-activity</a></li>
-            <li>State level: <a href="https://www.oregon.gov/ODA/agriculture/Pages/Laws.aspx" style="color: #007bff">https://www.oregon.gov/ODA/agriculture/Pages/Laws.aspx</a></li>
-            <li>Local level: <a href="https://multco.us/file/48861/download" style="color: #007bff">https://multco.us/file/48861/download</a></li>
+            <li>Federal level: <a href="https://www.epa.gov/agriculture/laws-and-regulations-apply-your-agricultural-operation-farm-activity">https://www.epa.gov/agriculture/laws-and-regulations-apply-your-agricultural-operation-farm-activity</a></li>
+            <li>State level: <a href="https://www.oregon.gov/ODA/agriculture/Pages/Laws.aspx">https://www.oregon.gov/ODA/agriculture/Pages/Laws.aspx</a></li>
+            <li>Local level: <a href="https://multco.us/file/48861/download">https://multco.us/file/48861/download</a></li>
         </ul>
     </div>
 </div>

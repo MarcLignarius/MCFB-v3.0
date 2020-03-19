@@ -7,7 +7,7 @@
         <p>
             MCFB occasionally benefits from the time and expertise of volunteers. Volunteers lead or help with activities such as website 
             development and maintenance, social media management, and event hosting. If you would like to volunteer or have a volunteer 
-            idea, please <a href="contact.php" style="color: #007bff">Contact Us</a>.
+            idea, please <a href="contact.php">Contact Us</a>.
         </p>
         <p class="font-weight-bold mt-4">
             Current MCFB Volunteers:
@@ -32,7 +32,7 @@
         Current Volunteer Opportunities:
     </p>
     <p>
-        Social Media Volunteer. <a href="contact.php" style="color: #007bff">Contact Us</a> if interested.
+        Social Media Volunteer. <a href="contact.php">Contact Us</a> if interested.
     </p>
 </div>
 <div class="container-fluid">

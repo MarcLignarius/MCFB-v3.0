@@ -24,7 +24,7 @@
             local farms and our organization.
         </p>
         <p>
-            <strong>Approach:</strong> <a href="purpose-our-approach.php" style="color: #007bff">Our Approach</a> explains the actions 
+            <strong>Approach:</strong> <a href="purpose-our-approach.php">Our Approach</a> explains the actions 
             we use to implement our purpose.
         </p>
     </div>

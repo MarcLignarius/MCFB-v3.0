@@ -6,7 +6,7 @@
         <h1 class="mb-4"><?php echo $page_title; ?></h1>
         <p> MCFB will occasionally sponsor specific events or organizations whose purpose is to inform local voters about agriculture-related 
             issues. If you’re an MCFB member and would like to recommend an event or organization sponsorship and/or would like to be kept 
-            informed about MCFB sponsorships, please <a href="contact.php" style="color: #007bff">Contact Us</a>.
+            informed about MCFB sponsorships, please <a href="contact.php">Contact Us</a>.
         </p>
     </div>
 </div>

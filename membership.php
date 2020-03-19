@@ -24,7 +24,7 @@
             <li>Attend the annual state and national conventions</li>
             <li>Run for county and state boards and officer positions</li>
             <li>Represent the county as a voting delegate at the annual state convention</li>
-            <li>Receive all <a href="https://oregonfb.org/member-discounts-2/" style="color: #007bff">OFB benefits</a></li>
+            <li>Receive all <a href="https://oregonfb.org/member-discounts-2/">OFB benefits</a></li>
         </ul>
         <h5>Supporting Members</h5>
         <p>
@@ -36,18 +36,18 @@
         <ul class="mb-4">
             <li>Attend all county board meetings, annual meetings, events, and outings</li>
             <li>Attend the annual state and national conventions</li>
-            <li>Receive all <a href="https://oregonfb.org/member-discounts-2/" style="color: #007bff">OFB benefits</a></li>
+            <li>Receive all <a href="https://oregonfb.org/member-discounts-2/">OFB benefits</a></li>
         </ul>
         <p>
             Voting and supporting membership can be attained by completing a hard copy membership packet, by completing the
-            <a href="https://oregonfb.org/join/" target="blank" style="color: #007bff">OFB's online application</a> or by signing up for OFB
-            through <a href="https://www.countryfinancial.com/" style="color: #007bff">Country Financial</a>. For more information, 
-            <a href="contact.php" style="color: #007bff">Contact Us</a>.
+            <a href="https://oregonfb.org/join/" target="blank">OFB's online application</a> or by signing up for OFB
+            through <a href="https://www.countryfinancial.com/">Country Financial</a>. For more information, 
+            <a href="contact.php">Contact Us</a>.
         </p>
         <h5>Associate Members</h5>
         <p>
-            Through a <a href="https://oregonfb.org/about/ofb-country-financial/" style="color: #007bff">special arrangement</a> with 
-            <a href="https://www.countryfinancial.com/" style="color: #007bff">Country Financial</a>, all non-farmer/non-rancher Country 
+            Through a <a href="https://oregonfb.org/about/ofb-country-financial/">special arrangement</a> with 
+            <a href="https://www.countryfinancial.com/">Country Financial</a>, all non-farmer/non-rancher Country 
             Financial customers are automatically OFB associate members. Associate members living in Multnomah County become MCFB associate 
             members. Only Country Financial customers can be associate members. Associate members support the MCFB and OFB financially with 
             annual dues and may attend meetings, events, and outings with approval from the MCFB Board President or Executive Director.

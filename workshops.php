@@ -15,7 +15,7 @@
             <li><strong>September/October:</strong> Rotating training topic</li>
             <li><strong>November/December:</strong> Rotating training topic</li>
         </ul>
-        <p>If you are a local farmer and would like to request a training topic, please <a href="contact.php" style="color: #007bff">Contact Us</a>.</p>
+        <p>If you are a local farmer and would like to request a training topic, please <a href="contact.php">Contact Us</a>.</p>
     </div>
 </div>
 <div class="container-fluid">

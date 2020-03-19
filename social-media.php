@@ -11,8 +11,8 @@
             Please like, share, and follow us on the social media platforms below:
         </p>
         <ul>
-            <li><a href="https://www.facebook.com/multnomahcountyfarmbureau/" style="color: #007bff">Facebook</a></li>
-            <li><a href="https://www.linkedin.com/company/multnomah-county-farm-bureau" style="color: #007bff">LinkedIn</a></li>
+            <li><a href="https://www.facebook.com/multnomahcountyfarmbureau/">Facebook</a></li>
+            <li><a href="https://www.linkedin.com/company/multnomah-county-farm-bureau">LinkedIn</a></li>
         </ul>
     </div>
             </div>

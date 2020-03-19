@@ -27,7 +27,7 @@
             <li>Water Committee</li>
         </ul>
         <p>
-            <p>If you are a voting member of MCFB and would like more information about committee service, please <a href="contact.php" style="color: #007bff">Contact Us</a>.</p>
+            <p>If you are a voting member of MCFB and would like more information about committee service, please <a href="contact.php">Contact Us</a>.</p>
         </p>
     </div>
 </div>

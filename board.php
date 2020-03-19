@@ -11,10 +11,10 @@
             Committee, the Chair of each committee shall be a voting member of the Board of Directors.
         </p>
         <p>
-            Board Officers are elected by Voting Members each year at the Annual MCFB Meeting (see <a href="board-meetings.php" style="color: #007bff">Board Meetings</a>). 
+            Board Officers are elected by Voting Members each year at the Annual MCFB Meeting (see <a href="board-meetings.php">Board Meetings</a>). 
             Other Board Directors, also elected at the Annual MCFB Meeting, serve staggered terms of two years. Only full MCFB Voting Members 
             can serve on the Board of Directors. In addition to the Annual MCFB Meeting, the Board of Directors normally meets seven times 
-            throughout each year (see <a href="board-meetings.php" style="color: #007bff">Board Meetings</a>).
+            throughout each year (see <a href="board-meetings.php">Board Meetings</a>).
         </p>
         <div class="row my-5">
             <div class="col-md-4 align-self-center">

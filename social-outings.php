@@ -13,7 +13,7 @@
         </p>
         <p>
             If you're an MCFB member and would like to recommend an outing or join a currently scheduled outing, please 
-            <a href="contact.php" style="color: #007bff">Contact Us</a>.
+            <a href="contact.php">Contact Us</a>.
         </p>
         <p>
             Annual outings include:
