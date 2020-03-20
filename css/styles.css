@@ -44,6 +44,13 @@ nav {
   grid-gap: 20px;
 }
 
+.grid-container-3 {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 20px;
+  grid-gap: 20px;
+}
+
 .container-fluid a {
   text-decoration: none;
   color: #000000;
@@ -142,16 +149,13 @@ footer > .container a:hover {
   text-shadow: 0px 2px 3px #000000;
 }
 
-#about-banner-container {
-  background: center/cover no-repeat url(../images/1.0_About.jpg);
-  background-blend-mode: multiply;
-  background-color: rgb(126, 126, 126);
+.banner-container {
   height: 50vh;
   border-bottom: 2px solid #58833C;
   margin-bottom: 30px;
 }
 
-#about-banner-text-container {
+.banner-text-container {
   height: 100%;
   text-align: center;
   display: flex;
@@ -159,16 +163,22 @@ footer > .container a:hover {
   justify-content: center;
 }
 
-#about-banner-title {
+.banner-title {
   font-size: 80px;
   color: white;
   text-shadow: 0px 2px 3px #000000;
 }
 
-#about-banner-text {
+.banner-text {
   font-size: 20px;
   color: white;
   text-shadow: 0px 2px 3px #000000;
+}
+
+.about-container {
+  background: center/cover no-repeat url(../images/1.0_About.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(126, 126, 126);
 }
 
 /* Thumbnails */
@@ -292,9 +302,11 @@ footer > .container a:hover {
 /* Banners & Images */
 
 @media only screen and (min-device-width : 320px) and (max-device-width: 479px) {
-  #homepage-banner-container {
+  #homepage-banner-container,
+  .banner-container {
     height: 70vw;
   }
+  .grid-container-3,
   .grid-container-4 {
     display: grid;
     grid-template-columns: auto;
@@ -305,9 +317,11 @@ footer > .container a:hover {
 }
 
 @media only screen and (min-device-width: 480px) and (max-device-width: 767px){
-  #homepage-banner-container {
+  #homepage-banner-container,
+  .banner-container {
     height: 45vw;
   }
+  .grid-container-3,
   .grid-container-4 {
     display: grid;
     grid-template-columns: auto auto;
@@ -318,9 +332,11 @@ footer > .container a:hover {
 }
 
 @media only screen and (min-device-width: 768px) and (max-device-width: 1023px) {
-  #homepage-banner-container {
+  #homepage-banner-container,
+  .banner-container {
     height: 60vw;
   }
+  .grid-container-3,
   .grid-container-4 {
     display: grid;
     grid-template-columns: auto;
@@ -332,9 +348,11 @@ footer > .container a:hover {
 }
 
 @media only screen and (min-device-width: 1024px) and (max-device-width: 1200px) {
-  #homepage-banner-container {
+  #homepage-banner-container,
+  .banner-container {
     height: 40vw;
   }
+  .grid-container-3,
   .grid-container-4 {
     display: grid;
     grid-template-columns: auto auto;
@@ -350,11 +368,11 @@ footer > .container a:hover {
   #homepage-banner-text {
     font-size: 3rem;
   }
-  #about-banner-title {
-    font-size: 40px;
+  .banner-title {
+    font-size: 2rem;
   }
-  #about-banner-text {
-    font-size: 18px;
+  .banner-text {
+    font-size: 1rem;
   }
   .btn {
     margin-bottom: 1rem;
@@ -371,6 +389,12 @@ footer > .container a:hover {
   #homepage-banner-text {
     font-size: 3.5rem;
   }
+  .banner-title {
+    font-size: 2rem;
+  }
+  .banner-text {
+    font-size: 1rem;
+  }
   .card-text,
   .btn {
     font-size: 0.9rem;
@@ -383,6 +407,12 @@ footer > .container a:hover {
 @media only screen and (min-device-width: 768px) and (max-device-width: 1023px) {
   #homepage-banner-text {
     font-size: 5.5rem;
+  }
+  .banner-title {
+    font-size: 2.5rem;
+  }
+  .banner-text {
+    font-size: 1.5rem;
   }
   .card-title {
     font-size: 3rem;
