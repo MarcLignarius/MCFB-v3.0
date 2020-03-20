@@ -175,6 +175,42 @@ footer > .container a:hover {
   background-color: rgb(126, 126, 126);
 }
 
+.benefits-container {
+  background: center/cover no-repeat url(../images/3.0_Benefits.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(126, 126, 126);
+}
+
+.join-us-container {
+  background: center/cover no-repeat url(../images/4.0_Join_Us.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(126, 126, 126);
+}
+
+.contact-container {
+  background: center/cover no-repeat url(../images/5.0.Contact_Us.png);
+  background-blend-mode: multiply;
+  background-color: rgb(126, 126, 126);
+}
+
+.purpose-container {
+  background: center/cover no-repeat url(../images/1.1.Purpose.png);
+  background-blend-mode: multiply;
+  background-color: rgb(126, 126, 126);
+}
+
+.farming-container {
+  background: center/cover no-repeat url(../images/1.2_Farming.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(126, 126, 126);
+}
+
+.our-people-container {
+  background: center/cover no-repeat url(../images/1.3_People.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(126, 126, 126);
+}
+
 /* Thumbnails */
 
 .image-1 {

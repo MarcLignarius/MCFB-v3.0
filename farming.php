@@ -1,9 +1,13 @@
 <?php $page_title = "Farming"; ?>
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
+<div class="banner-container farming-container">
+    <div class="banner-text-container">
+        <h1 class="banner-title"><?php echo $page_title; ?></h1>
+    </div>
+</div>
 <div class="jumbotron">
     <div class="container">
-        <h1 class="mb-4"><?php echo $page_title; ?></h1>
         <p>
             Multnomah County encompasses over 300,000 acres and includes both highly urbanized and
             less developed rural communities. Within the county, there are over 650 farms made up of

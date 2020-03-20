@@ -1,9 +1,13 @@
 <?php $page_title = "Benefits"; ?>
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
+<div class="banner-container benefits-container">
+    <div class="banner-text-container">
+        <h1 class="banner-title"><?php echo $page_title; ?></h1>
+    </div>
+</div>
 <div class="jumbotron">
     <div class="container">
-        <h1 class="mb-4"><?php echo $page_title; ?></h1>
         <p class="font-weight-bold">What benefits do MCFB member receive?</p>
         <p>
         In addition to our program benefits explained in <a href="benefits-our-approach.php">Our Approach</a>, MCFB members also receive all 

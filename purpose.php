@@ -1,9 +1,13 @@
 <?php $page_title = "Purpose"; ?>
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
+<div class="banner-container purpose-container">
+    <div class="banner-text-container">
+        <h1 class="banner-title"><?php echo $page_title; ?></h1>
+    </div>
+</div>
 <div class="jumbotron">
     <div class="container">
-        <h1 class="mb-4"><?php echo $page_title; ?></h1>
         <p>
             MCFB’s purpose is represented by our vision, mission, and values. These represent what we
             stand for and work towards. The vision, mission, and values guide all of our actions. The Board

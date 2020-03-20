@@ -1,14 +1,16 @@
 <?php $page_title = "Our People"; ?>
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
-<div class="jumbotron">
-    <div class="container">
-        <h1 class="mb-4"><?php echo $page_title; ?></h1>
-        <p>
-            Our people include our 7,000 members and our Board of Directors, contractors, and volunteers. We encourage you to join us in the 
-            manner the best suits you.	
-        </p>
+<div class="banner-container our-people-container">
+    <div class="banner-text-container">
+        <h1 class="banner-title"><?php echo $page_title; ?></h1>
     </div>
+</div>
+<div class="container">
+    <p class="intro-text text-left">
+        Our people include our 7,000 members and our Board of Directors, contractors, and volunteers. We encourage you to join us in the 
+        manner the best suits you.	
+    </p>
 </div>
 <div class="container-fluid">
     <div class="row">

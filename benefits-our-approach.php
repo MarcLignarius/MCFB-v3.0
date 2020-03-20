@@ -114,7 +114,7 @@
         </div>
     </div>
     <p class="text-center">
-        <a href="join-us.php" class="btn btn-light">Back</a>
+        <a href="benefits.php" class="btn btn-light">Back</a>
         <a href="index.php" class="btn btn-light">Home</a>
     </p>
     <?php include("statement.php"); ?>

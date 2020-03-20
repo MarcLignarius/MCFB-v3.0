@@ -1,11 +1,14 @@
 <?php $page_title = "Contact"; ?>
-
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
-
+<div class="banner-container contact-container">
+    <div class="banner-text-container">
+        <h1 class="banner-title"><?php echo $page_title; ?></h1>
+    </div>
+</div>
 <div class="jumbotron">
   <div class="container">
-    <h1 class="mb-4"><?php echo $page_title; ?></h1>
+  <h3 class="mb-5">Call or Email</h3>
     <p>
       <i class="fa fa-phone"></i>
       <a href="tel:206-595-5078" class="ml-1" style="color: black; text-decoration: none">206-595-5078</a>
@@ -52,7 +55,7 @@
 <div class="container-fluid">
   <?php include("statement.php"); ?>
   <p class="text-center">
-    <a href="index.php"   class="btn btn-light">Home</a>
+    <a href="index.php" class="btn btn-light">Home</a>
   </p>
 </div>
 

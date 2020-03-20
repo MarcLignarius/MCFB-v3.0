@@ -1,10 +1,14 @@
 <?php $page_title = "Our Approach"; ?>
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
-<div class="jumbotron">
-    <div class="container">
-        <h1 class="mb-4"><?php echo $page_title; ?></h1>
-        <p>
+<div class="banner-container our-approach-container">
+    <div class="banner-text-container">
+        <h1 class="banner-title"><?php echo $page_title; ?></h1>
+    </div>
+</div>
+<div class="container">
+    <div class="intro-text">
+        <p class="text-left">
             MCFB's approach to fulfilling its mission and vision is accomplished through five key strategies: 
         </p>
         <ol>
@@ -17,8 +21,8 @@
     </div>
 </div>
 <div class="container-fluid">
-    <div class="row mb-3">
-        <div class="col-lg-4 mb-3">
+    <div class="grid-container-3">
+        <div class="grid-item">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="asking-farmers.php">
@@ -36,7 +40,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-4 mb-3">
+        <div class="grid-item">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="assisting-farmers.php">
@@ -54,7 +58,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-4 mb-3">
+        <div class="grid-item">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="connecting-farmers.php">
@@ -72,9 +76,7 @@
                 </div>
             </div>
         </div>
-    </div>
-    <div class="row">
-        <div class="col-lg-4 mb-3">
+        <div class="grid-item">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="representing-farmers.php">
@@ -92,11 +94,11 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-4 mb-3">
+        <div class="grid-item">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="sharing-knowledge-with-farmers.php">
-                        <img class="card-image image-14">
+                        <img class="card-image image-19">
                         <h2 class="card-title">Sharing Knowledge With Farmers</h2>
                     </a>
                 </div>
@@ -110,7 +112,6 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-4 mb-3"></div>
     </div>
     <p class="text-center">
         <a href="purpose.php" class="btn btn-light">Back</a>
@@ -119,4 +120,3 @@
     <?php include("statement.php"); ?>
 </div>
 <?php include("footer.php"); ?>
-
