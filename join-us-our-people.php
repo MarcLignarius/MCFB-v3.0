@@ -12,7 +12,7 @@
 </div>
 <div class="container-fluid">
     <div class="row">
-        <div class="col-xl-3 col-md-6 mb-3">
+        <div class="col-lg-3 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="membership.php">
@@ -30,7 +30,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-3 col-md-6 mb-3">
+        <div class="col-lg-3 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="board.php">
@@ -48,7 +48,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-3 col-md-6 mb-3">
+        <div class="col-lg-3 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="contractors.php">
@@ -66,7 +66,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-3 col-md-6 mb-3">
+        <div class="col-lg-3 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="volunteers.php">

@@ -4,7 +4,7 @@
 <?php include("banner.php"); ?>
 <div class="container-fluid">
     <div class="row">
-        <div class="col-xl-3 col-md-6 mb-3">
+        <div class="col-xl-3 col-md-12 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="about.php">
@@ -22,7 +22,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-3 col-md-6 mb-3">
+        <div class="col-xl-3 col-md-12 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="our-approach.php">
@@ -40,7 +40,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-3 col-md-6 mb-3">
+        <div class="col-xl-3 col-md-12 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="benefits.php">
@@ -58,7 +58,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-3 col-md-6 mb-3">
+        <div class="col-xl-3 col-md-12 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="join-us.php">

@@ -15,7 +15,7 @@
 </div>
 <div class="container-fluid">
     <div class="row">
-        <div class="col-xl-3 col-md-6 mb-3">
+        <div class="col-lg-3 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="social-outings.php">
@@ -33,7 +33,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-3 col-md-6 mb-3">
+        <div class="col-lg-3 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="celebrations.php">
@@ -51,7 +51,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-3 col-md-6 mb-3">
+        <div class="col-lg-3 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="newsletters-and-mailers.php">
@@ -69,7 +69,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-3 col-md-6 mb-3">
+        <div class="col-lg-3 mb-3">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="social-media.php">
