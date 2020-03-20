@@ -126,29 +126,6 @@ footer > .container a:hover {
 
 /* Page banners */
 
-#homepage-banner-container {
-  background: center/cover no-repeat url(../images/banner.png);
-  background-blend-mode: multiply;
-  background-color: rgb(179, 179, 179);
-  height: 50vh;
-  border-bottom: 2px solid #58833C;
-  margin-bottom: 30px;
-}
-
-#homepage-banner-text-container {
-  height: 100%;
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-#homepage-banner-text {
-  font-size: 5rem;
-  color: white;
-  text-shadow: 0px 2px 3px #000000;
-}
-
 .banner-container {
   height: 50vh;
   border-bottom: 2px solid #58833C;
@@ -175,8 +152,25 @@ footer > .container a:hover {
   text-shadow: 0px 2px 3px #000000;
 }
 
+.intro-text {
+  font-size: 1.5rem;
+  margin: 2rem 0rem;
+}
+
+.homepage-container {
+  background: center/cover no-repeat url(../images/banner.png);
+  background-blend-mode: multiply;
+  background-color: rgb(126, 126, 126);
+}
+
 .about-container {
   background: center/cover no-repeat url(../images/1.0_About.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(126, 126, 126);
+}
+
+.our-approach-container {
+  background: center/cover no-repeat url(../images/2.0.Our_Approach.jpg);
   background-blend-mode: multiply;
   background-color: rgb(126, 126, 126);
 }
@@ -302,7 +296,6 @@ footer > .container a:hover {
 /* Banners & Images */
 
 @media only screen and (min-device-width : 320px) and (max-device-width: 479px) {
-  #homepage-banner-container,
   .banner-container {
     height: 70vw;
   }
@@ -317,7 +310,6 @@ footer > .container a:hover {
 }
 
 @media only screen and (min-device-width: 480px) and (max-device-width: 767px){
-  #homepage-banner-container,
   .banner-container {
     height: 45vw;
   }
@@ -332,7 +324,6 @@ footer > .container a:hover {
 }
 
 @media only screen and (min-device-width: 768px) and (max-device-width: 1023px) {
-  #homepage-banner-container,
   .banner-container {
     height: 60vw;
   }
@@ -348,7 +339,6 @@ footer > .container a:hover {
 }
 
 @media only screen and (min-device-width: 1024px) and (max-device-width: 1200px) {
-  #homepage-banner-container,
   .banner-container {
     height: 40vw;
   }
@@ -365,17 +355,17 @@ footer > .container a:hover {
 /* Fonts */
 
 @media only screen and (min-device-width : 320px) and (max-device-width: 479px) {
-  #homepage-banner-text {
-    font-size: 3rem;
-  }
   .banner-title {
-    font-size: 2rem;
+    font-size: 3rem;
   }
   .banner-text {
     font-size: 1rem;
   }
+  .intro-text{
+    font-size: 1rem;
+  }
   .btn {
-    margin-bottom: 1rem;
+    margin-bottom: 1rem;x
   }
   #statement {
     font-size: 0.6rem;
@@ -386,15 +376,13 @@ footer > .container a:hover {
 }
 
 @media only screen and (min-device-width : 480px) and (max-device-width: 767px) {
-  #homepage-banner-text {
-    font-size: 3.5rem;
-  }
   .banner-title {
-    font-size: 2rem;
+    font-size: 4rem;
   }
   .banner-text {
     font-size: 1rem;
   }
+  .intro-text,
   .card-text,
   .btn {
     font-size: 0.9rem;
@@ -405,11 +393,8 @@ footer > .container a:hover {
 }
 
 @media only screen and (min-device-width: 768px) and (max-device-width: 1023px) {
-  #homepage-banner-text {
-    font-size: 5.5rem;
-  }
   .banner-title {
-    font-size: 2.5rem;
+    font-size: 6rem;
   }
   .banner-text {
     font-size: 1.5rem;
@@ -417,6 +402,7 @@ footer > .container a:hover {
   .card-title {
     font-size: 3rem;
   }
+  .intro-text,
   .card-text,
   .btn {
     font-size: 1.4rem;
@@ -433,12 +419,10 @@ footer > .container a:hover {
 }
 
 @media only screen and (min-device-width: 1024px) and (max-device-width: 1200px) {
-  #homepage-banner-text {
-    font-size: 5rem;
-  }
   .card-title {
     font-size: 2rem;
   }
+  .intro-text,
   .card-text,
   .btn {
     font-size: 1rem;
