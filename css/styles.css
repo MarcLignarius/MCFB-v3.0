@@ -290,6 +290,8 @@ footer > .container a:hover {
 
 /* Mobile styles */
 
+/* Banners & Images */
+
 @media only screen and (max-device-width : 479px) {
   #homepage-banner-container {
     height: 60vw;
@@ -303,7 +305,7 @@ footer > .container a:hover {
   }
 }
 
-@media only screen and (min-device-width: 480px) and (max-device-width : 1024px) {
+@media only screen and (min-device-width: 480px) and (max-device-width : 767px) {
   #homepage-banner-container {
     height: 45vw;
   }
@@ -315,6 +317,22 @@ footer > .container a:hover {
     height: 35vw;
   }
 }
+
+@media only screen and (min-device-width: 768px) and (max-device-width : 1024px) {
+  #homepage-banner-container {
+    height: 50vw;
+  }
+  .grid-container-4 {
+    display: grid;
+    grid-template-columns: auto;
+    padding: 40px;
+  }
+  .card-image {
+    height: 60vw;
+  }
+}
+
+/* Fonts */
 
 @media only screen and (max-device-width : 767px) {
   #homepage-banner-text {
@@ -331,5 +349,20 @@ footer > .container a:hover {
   }
   footer p {
     font-size: 14px;
+  }
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width : 1024px) {
+  #homepage-banner-text {
+    font-size: 65px;
+  }
+  .card-title {
+    font-size: 3rem;
+  }
+  p {
+    font-size: 1.5rem;
+  }
+  .btn {
+    font-size: 1.5rem;
   }
 }
