@@ -1,15 +1,15 @@
 <?php $page_title = "About"; ?>
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
-<div id="about-banner-container">
-    <div id="about-banner-text-container">
+<div class="banner-container about-container">
+    <div class="banner-text-container">
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-lg-12">
-                    <h1 id="about-banner-title" class="text-left"><?php echo $page_title; ?></h1>
+                    <h1 class="banner-title text-left"><?php echo $page_title; ?></h1>
                 </div>
                 <div class="col-lg-8 col-lg-12">
-                    <p id="about-banner-text" class="text-left">
+                    <p class="banner-text text-left">
                         The Multnomah County Farm Bureau (MCFB) is a non-profit organization, serving as a local chapter of the Oregon Farm Bureau (OFB).
                         MCFB has over 7,000 members, consisting of local farmers, local farm supporters, and COUNTRY Financial customers. MCFB is governed
                         by a member-elected Board of Directors and is managed daily by an Executive Director and a Treasurer.
@@ -20,8 +20,8 @@
     </div>
 </div>
 <div class="container-fluid">
-    <div class="row mb-3">
-        <div class="col-lg-4 mb-3">
+    <div class="grid-container-3">
+        <div class="grid-item">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="purpose.php">
@@ -39,7 +39,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-4 mb-3">
+        <div class="grid-item">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="farming.php">
@@ -57,7 +57,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-4 mb-3">
+        <div class="grid-item">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="our-people.php">
@@ -75,9 +75,7 @@
                 </div>
             </div>
         </div>
-    </div>
-    <div class="row">
-        <div class="col-lg-4 mb-3">
+        <div class="grid-item">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="documents.php">
@@ -95,7 +93,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-4 mb-3">
+        <div class="grid-item">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="board-meetings.php">
@@ -113,7 +111,6 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-4 mb-3"></div>
     </div>
     <p class="text-center">
         <a href="index.php" class="btn btn-light">Back</a>
