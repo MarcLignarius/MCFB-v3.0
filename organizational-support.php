@@ -1,9 +1,13 @@
 <?php $page_title = "Organizational Support"; ?>
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
+<div class="banner-container placeholder-container">
+    <div class="banner-text-container">
+        <h1 class="banner-title"><?php echo $page_title; ?></h1>
+    </div>
+</div>
 <div class="jumbotron">
     <div class="container">
-        <h1 class="mb-4"><?php echo $page_title; ?></h1>
         <p>As a means of representing farmers, MCFB provides financial support to two types of organizations:</p>
         <ul>
             <li>Organizations that serve the greater good of the community</li>
