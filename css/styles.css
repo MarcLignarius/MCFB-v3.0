@@ -39,14 +39,14 @@ nav {
 
 .grid-container-4 {
   display: grid;
-  grid-template-columns: auto auto auto auto;
+  grid-template-columns: repeat(4, 1fr);;
   padding: 20px;
   grid-gap: 20px;
 }
 
 .grid-container-3 {
   display: grid;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: repeat(3, 1fr);
   padding: 20px;
   grid-gap: 20px;
 }
@@ -338,7 +338,7 @@ footer > .container a:hover {
   .grid-container-3,
   .grid-container-4 {
     display: grid;
-    grid-template-columns: auto;
+    grid-template-columns: repeat(1, 1fr);
   }
   .card-image {
     height: 60vw;
@@ -352,7 +352,7 @@ footer > .container a:hover {
   .grid-container-3,
   .grid-container-4 {
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: repeat(2, 1fr);
   }
   .card-image {
     height: 35vw;
@@ -366,7 +366,7 @@ footer > .container a:hover {
   .grid-container-3,
   .grid-container-4 {
     display: grid;
-    grid-template-columns: auto;
+    grid-template-columns: repeat(1, 1fr);
     padding: 50px;
   }
   .card-image {
@@ -381,7 +381,7 @@ footer > .container a:hover {
   .grid-container-3,
   .grid-container-4 {
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: repeat(2, 1fr);
   }
   .card-image {
     height: 30vw;
