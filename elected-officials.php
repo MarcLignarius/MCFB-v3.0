@@ -1,9 +1,13 @@
 <?php $page_title = "Elected Officials"; ?>
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
+<div class="banner-container placeholder-container">
+    <div class="banner-text-container">
+        <h1 class="banner-title"><?php echo $page_title; ?></h1>
+    </div>
+</div>
 <div class="jumbotron">
     <div class="container">
-        <h1 class="mb-4"><?php echo $page_title; ?></h1>
         <p>
             MCFB engages elected officials on behalf of local farmers through in-person meetings, testimonies, letters, and phone calls. 
             MCFB may host meetings specifically to engage elected officials, may invite elected officials to a previously scheduled MCFB 
