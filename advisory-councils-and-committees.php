@@ -1,9 +1,13 @@
 <?php $page_title = "Advisory Councils & Committees"; ?>
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
+<div class="banner-container placeholder-container">
+    <div class="banner-text-container">
+        <h1 class="banner-title"><?php echo $page_title; ?></h1>
+    </div>
+</div>
 <div class="jumbotron">
     <div class="container">
-        <h1 class="my-4 text-center"><?php echo $page_title; ?></h1>
         <p>MCFB Board Members and voting members can participate in several state-level OFB issue advisory councils and committees, these include:
         </p>
         <ul>
