@@ -271,6 +271,12 @@ footer > .container a:hover {
   background-color: rgb(126, 126, 126);
 }
 
+.sharing-knowledge-with-farmers-container {
+  background: center/cover no-repeat url(../images/2.5_Sharing_Knowledge1.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(126, 126, 126);
+}
+
 .placeholder-container {
   background: center/cover no-repeat url(../images/placeholder.png);
   background-blend-mode: multiply;
