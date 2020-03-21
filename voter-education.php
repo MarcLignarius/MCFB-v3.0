@@ -1,9 +1,13 @@
 <?php $page_title = "Voter Education"; ?>
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
+<div class="banner-container placeholder-container">
+    <div class="banner-text-container">
+        <h1 class="banner-title"><?php echo $page_title; ?></h1>
+    </div>
+</div>
 <div class="jumbotron">
     <div class="container">
-        <h1 class="mb-4"><?php echo $page_title; ?></h1>
         <p> MCFB will occasionally sponsor specific events or organizations whose purpose is to inform local voters about agriculture-related 
             issues. If you’re an MCFB member and would like to recommend an event or organization sponsorship and/or would like to be kept 
             informed about MCFB sponsorships, please <a href="contact.php">Contact Us</a>.
