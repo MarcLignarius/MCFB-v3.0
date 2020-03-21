@@ -1,22 +1,24 @@
 <?php $page_title = "Representing Farmers"; ?>
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
-<div class="jumbotron">
-    <div class="container">
-        <h1 class="mb-4"><?php echo $page_title; ?></h1>
-        <p>
-            The legal requirements that affect farming can make a difficult business even more difficult. Laws, regulations, policies, and 
-            government programs are constantly changing and it’s nearly impossible for individual farmers to track, respond to, learn, comply
-            with, and voice concern about the changes and requirements. To address this, MCFB serves as an active voice for local farmers at 
-            the local, state, and national levels. When government laws, regulations, policies, and programs are proposed anew or to be 
-            changed, MCFB strives to identify, understand, disseminate, and engage related officials in a manner that benefits local farmers 
-            and the communities.	
-        </p>
+<div class="banner-container representing-farmers-container">
+    <div class="banner-text-container">
+        <h1 class="banner-title"><?php echo $page_title; ?></h1>
     </div>
 </div>
+<div class="container">
+    <p class="intro-text text-left">
+        The legal requirements that affect farming can make a difficult business even more difficult. Laws, regulations, policies, and 
+        government programs are constantly changing and it’s nearly impossible for individual farmers to track, respond to, learn, comply
+        with, and voice concern about the changes and requirements. To address this, MCFB serves as an active voice for local farmers at 
+        the local, state, and national levels. When government laws, regulations, policies, and programs are proposed anew or to be 
+        changed, MCFB strives to identify, understand, disseminate, and engage related officials in a manner that benefits local farmers 
+        and the communities.
+    </p>
+</div>
 <div class="container-fluid">
-    <div class="row mb-3">
-        <div class="col-lg-4 mb-3">
+    <div class="grid-container-3">
+        <div class="grid-item">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="elected-officials.php">
@@ -34,7 +36,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-4 mb-3">
+        <div class="grid-item">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="laws-and-regulations.php">
@@ -52,7 +54,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-4 mb-3">
+        <div class="grid-item">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="voter-education.php">
@@ -70,9 +72,7 @@
                 </div>
             </div>
         </div>
-    </div>
-    <div class="row">
-        <div class="col-lg-4 mb-3">
+        <div class="grid-item">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="advisory-councils-and-committees.php">
@@ -90,7 +90,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-4 mb-3">
+        <div class="grid-item">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="organizational-support.php">
@@ -108,7 +108,6 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-4 mb-3"></div>
     </div>
     <p class="text-center">
         <a href="our-approach.php" class="btn btn-light">Back</a>
