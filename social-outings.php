@@ -1,11 +1,13 @@
 <?php $page_title = "Social Outings"; ?>
-
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
-
+<div class="banner-container placeholder-container">
+    <div class="banner-text-container">
+        <h1 class="banner-title"><?php echo $page_title; ?></h1>
+    </div>
+</div>
 <div class="jumbotron">
     <div class="container">
-        <h1 class="mb-4"><?php echo $page_title; ?></h1>
         <p>
             MCFB participates in, co-sponsors, and sometimes organizes and hosts member outings every year. These outings are intended to 
             be social activities that encourage members to establish and maintain friendships with one another (and others) in a casual 
@@ -27,10 +29,9 @@
 </div> 
 <div class="container-fluid">
     <p class="text-center">
-        <a href="connecting-farmers.php"   class="btn btn-light">Back</a>
-        <a href="index.php"   class="btn btn-light">Home</a>
+        <a href="connecting-farmers.php" class="btn btn-light">Back</a>
+        <a href="index.php" class="btn btn-light">Home</a>
     </p>
     <?php include("statement.php"); ?>
 </div>
-
 <?php include("footer.php"); ?>

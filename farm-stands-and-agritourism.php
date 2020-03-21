@@ -1,10 +1,13 @@
 <?php $page_title = "Farm Stands & Agritourism"; ?>
-
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
+<div class="banner-container placeholder-container">
+    <div class="banner-text-container">
+        <h1 class="banner-title"><?php echo $page_title; ?></h1>
+    </div>
+</div>
 <div class="jumbotron">
     <div class="container">
-        <h1 class="mb-4"><?php echo $page_title; ?></h1>
         <p>
             Farm stands and agritourism are a growing part of many successful farm businesses. OFB publishes <a href="https://oregonfb.org/oregonsbounty/" style="color: #007bff;">
             Oregon's Bounty Farm Stand Guide</a> each year. The guide provides easy access to OFB member farm stands and beyond. In addition, 
@@ -69,10 +72,9 @@
 </div>
 <div class="container-fluid">
     <p class="text-center">
-        <a href="assisting-farmers.php"   class="btn btn-light">Back</a>
-        <a href="index.php"   class="btn btn-light">Home</a>
+        <a href="assisting-farmers.php" class="btn btn-light">Back</a>
+        <a href="index.php" class="btn btn-light">Home</a>
     </p>
     <?php include("statement.php"); ?>
 </div>
-
 <?php include("footer.php"); ?>

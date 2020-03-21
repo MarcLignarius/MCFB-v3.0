@@ -1,9 +1,13 @@
 <?php $page_title = "Newsletters and Mailers"; ?>
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
+<div class="banner-container placeholder-container">
+    <div class="banner-text-container">
+        <h1 class="banner-title"><?php echo $page_title; ?></h1>
+    </div>
+</div>
 <div class="jumbotron">
     <div class="container">
-        <h1 class="mb-4"><?php echo $page_title; ?></h1>
         <p>
             MCFB uses periodic newsletters and mailers to keep its members up to date regarding meetings, events, outings,
             and other networking opportunities and newsworthy issues. Newsletters and mailers are sent to Voting and Supporting
