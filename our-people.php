@@ -8,13 +8,13 @@
 </div>
 <div class="container">
     <p class="intro-text text-left">
-        Our people include our 7,000 members and our Board of Directors, contractors, and volunteers. We encourage you to join us in the 
+        Our people include our 7,000 members, Board of Directors, contractors, and volunteers. We encourage you to join us in the 
         manner the best suits you.	
     </p>
 </div>
 <div class="container-fluid">
-    <div class="row">
-        <div class="col-lg-3 mb-3">
+    <div class="grid-container-4">
+        <div class="grid-item">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="membership.php">
@@ -32,7 +32,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-3 mb-3">
+        <div class="grid-item">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="board.php">
@@ -42,7 +42,7 @@
                 </div>
                 <div class="card-body">
                     <p class="card-text">
-                        Meet the people on our Board.
+                    MCFB's Board Officers are elected by Voting Members and meet seven times throughout each year.
                     </p>
                 </div>
                 <div>
@@ -50,7 +50,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-3 mb-3">
+        <div class="grid-item">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="contractors.php">
@@ -60,7 +60,7 @@
                 </div>
                 <div class="card-body">
                     <p class="card-text">
-                        Meet our contractors.
+                        MCFB contracts for services related to the executive director/secretary and treasurer.
                     </p>
                 </div>
                 <div>
@@ -68,7 +68,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-3 mb-3">
+        <div class="grid-item">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="volunteers.php">
@@ -78,7 +78,7 @@
                 </div>
                 <div class="card-body">
                     <p class="card-text">
-                        Meet our volunteers and more information about volunteering opportunities.
+                        MCFB occasionally benefits from the time and expertise of volunteers.
                     </p>
                 </div>
                 <div>
