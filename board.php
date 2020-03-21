@@ -1,9 +1,13 @@
 <?php $page_title = "Board"; ?>
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
+<div class="banner-container board-container">
+    <div class="banner-text-container">
+        <h1 class="banner-title"><?php echo $page_title; ?></h1>
+    </div>
+</div>
 <div class="jumbotron">
     <div class="container" id="team">
-        <h1 class="mb-4"><?php echo $page_title; ?></h1>
         <p>
             MCFB's Board of Directors must include a President and Secretary as Board Officers, and no less than one additional Board 
             Director. The Board of Directors may choose to elect a Vice-President and Treasurer as additional Board Officers, and up to 

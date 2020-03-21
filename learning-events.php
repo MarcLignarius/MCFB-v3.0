@@ -1,9 +1,13 @@
 <?php $page_title = "Learning Events"; ?>
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
+<div class="banner-container placeholder-container">
+    <div class="banner-text-container">
+        <h1 class="banner-title"><?php echo $page_title; ?></h1>
+    </div>
+</div>
 <div class="jumbotron">
     <div class="container">
-        <h1 class="mb-4"><?php echo $page_title; ?></h1>
         <p>
             MCFB sponsors events, groups, and individuals to increase local community members’ exposure to agricultural issues and educational 
             opportunities. Learning events that are typically sponsored include those listed below. MCFB is interested to learn of new 

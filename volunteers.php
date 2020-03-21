@@ -1,6 +1,11 @@
 <?php $page_title = "Volunteers"; ?>
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
+<div class="banner-container volunteers-container">
+    <div class="banner-text-container">
+        <h1 class="banner-title"><?php echo $page_title; ?></h1>
+    </div>
+</div>
 <div class="jumbotron">
     <div class="container" id="team">
         <h1 class="mb-4"><?php echo $page_title; ?></h1>

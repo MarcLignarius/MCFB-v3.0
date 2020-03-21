@@ -1,9 +1,13 @@
 <?php $page_title = "Documents"; ?>
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
+<div class="banner-container documents-container">
+    <div class="banner-text-container">
+        <h1 class="banner-title"><?php echo $page_title; ?></h1>
+    </div>
+</div>
 <div class="jumbotron">
     <div class="container">
-        <h1 class="mb-4"><?php echo $page_title; ?></h1>
         <p>
             MCFB's foundational, guiding, annual, and Board-related documents can be found here. If you are looking for an MCFB document
             that is not on this page, please <a href="contact.php">Contact Us</a>.

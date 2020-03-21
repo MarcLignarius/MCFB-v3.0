@@ -1,9 +1,13 @@
 <?php $page_title = "Workshops"; ?>
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
+<div class="banner-container placeholder-container">
+    <div class="banner-text-container">
+        <h1 class="banner-title"><?php echo $page_title; ?></h1>
+    </div>
+</div>
 <div class="jumbotron">
     <div class="container">
-        <h1 class="mb-4"><?php echo $page_title; ?></h1>
         <p>
             MCFB sponsors and hosts workshops to help local farmers achieve necessary certifications and licenses and remain compliant with 
             laws and regulations. We are developing an annual “curriculum” that farmers can depend on every year. The curriculum will include 

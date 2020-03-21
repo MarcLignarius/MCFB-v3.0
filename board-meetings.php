@@ -1,9 +1,13 @@
 <?php $page_title = "Board Meetings"; ?>
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
+<div class="banner-container board-meetings-container">
+    <div class="banner-text-container">
+        <h1 class="banner-title"><?php echo $page_title; ?></h1>
+    </div>
+</div>
 <div class="jumbotron">
     <div class="container">
-        <h1 class="mb-4"><?php echo $page_title; ?></h1>
         <p>
             MCFB Board meetings and annual meeting are normally held as per the schedule below. Notices, locations, and changes to this 
             schedule are provided through mailers and on the MCFB Facebook page. Voting and Supporting members are always welcome to attend 

@@ -1,9 +1,13 @@
 <?php $page_title = "Assisting Farmers"; ?>
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
+<div class="banner-container assisting-farmers-container">
+    <div class="banner-text-container">
+        <h1 class="banner-title"><?php echo $page_title; ?></h1>
+    </div>
+</div>
 <div class="jumbotron">
     <div class="container">
-        <h1 class="mb-4"><?php echo $page_title; ?></h1>
         <p>
             Farmers are resourceful and creative people, but sometimes they would like assistance solving problems or addressing issues 
             on their land. While there are many local, state, and federal entities that assist farmers in a variety of ways, many farmers 
@@ -25,8 +29,8 @@
         </p>
     </div>
     <div class="container-fluid">
-        <div class="row mt-5">
-            <div class="col-lg-4 mb-3">
+        <div class="grid-container-3">
+            <div class="grid-item">
                 <div class="card h-100 text-center">
                     <div class="image-text-container">
                         <a href="farm-stands-and-agritourism.php">
@@ -44,8 +48,6 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 mb-3"></div>
-            <div class="col-lg-4 mb-3"></div>
         </div>
         <p class="text-center">
             <a href="our-approach.php" class="btn btn-light">Back</a>

@@ -1,9 +1,13 @@
 <?php $page_title = "Asking Farmers"; ?>
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
+<div class="banner-container asking-farmers-container">
+    <div class="banner-text-container">
+        <h1 class="banner-title"><?php echo $page_title; ?></h1>
+    </div>
+</div>
 <div class="jumbotron">
     <div class="container">
-        <h1 class="mb-4"><?php echo $page_title; ?></h1>
         <p>
             People have questions about farming. Whether members of the general public, students, industry representatives, government 
             employees, or elected officials, when farm-related questions come up, people tend to turn to the usual information sources. 

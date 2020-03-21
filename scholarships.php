@@ -1,9 +1,13 @@
 <?php $page_title = "Scholarships"; ?>
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
+<div class="banner-container placeholder-container">
+    <div class="banner-text-container">
+        <h1 class="banner-title"><?php echo $page_title; ?></h1>
+    </div>
+</div>
 <div class="jumbotron">
     <div class="container">
-        <h1 class="mb-4"><?php echo $page_title; ?></h1>
         <p>MCFB contributes to various scholarships related to agricultural education throughout each year. Some of these contributions are 
             recurring events while others are one-time occurrences. Scholarship opportunities are noticed through our website, Facebook page, 
             mailers, and email as they become available.

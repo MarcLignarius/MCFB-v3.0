@@ -1,9 +1,13 @@
 <?php $page_title = "Contractors"; ?>
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
+<div class="banner-container contractors-container">
+    <div class="banner-text-container">
+        <h1 class="banner-title"><?php echo $page_title; ?></h1>
+    </div>
+</div>
 <div class="jumbotron">
     <div class="container" id="team">
-        <h1 class="mb-4"><?php echo $page_title; ?></h1>
         <p>
             MCFB contracts for services related to the executive director/secretary and treasurer.
         </p>

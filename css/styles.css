@@ -211,6 +211,54 @@ footer > .container a:hover {
   background-color: rgb(126, 126, 126);
 }
 
+.membership-container {
+  background: center/cover no-repeat url(../images/1.3.1_Membership.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(126, 126, 126);
+}
+
+.board-container {
+  background: center/cover no-repeat url(../images/1.3.2.0_Board.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(126, 126, 126);
+}
+
+.contractors-container {
+  background: center/cover no-repeat url(../images/1.3.3.0.Contractors.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(126, 126, 126);
+}
+
+.volunteers-container {
+  background: center/cover no-repeat url(../images/1.3.4.0.Volunteers.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(126, 126, 126);
+}
+
+.documents-container {
+  background: center/cover no-repeat url(../images/1.4_Documents.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(126, 126, 126);
+}
+
+.board-meetings-container {
+  background: center/cover no-repeat url(../images/1.5.Board_Meetings.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(126, 126, 126);
+}
+
+.asking-farmers-container {
+  background: center/cover no-repeat url(../images/2.1_Asking.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(126, 126, 126);
+}
+
+.assisting-farmers-container {
+  background: center/cover no-repeat url(../images/2.2_Assisting.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(126, 126, 126);
+}
+
 .placeholder-container {
   background: center/cover no-repeat url(../images/placeholder.png);
   background-blend-mode: multiply;
