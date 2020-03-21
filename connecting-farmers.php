@@ -1,21 +1,23 @@
 <?php $page_title = "Connecting Farmers"; ?>
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
-<div class="jumbotron">
-    <div class="container">
-        <h1 class="mb-4"><?php echo $page_title; ?></h1>
-        <p>
-            Farmers enjoy talking to other farmers. They share stories and ideas, and sometimes even commiserate about problems. In today’s 
-            busy world, however, it’s difficult for farmers to connect with one another. There’s not enough time in the day to get the work 
-            done, not to mention sit down for coffee with a fellow farmer. At the same time, there are an over-whelming number of ways to 
-            communicate with today’s technology. Given this, through our social outings, celebrations, newsletters and emails, and social 
-            media, MCFB strives to serve as a farmer-to-farmer uniter and communication pathway.
-        </p>
+<div class="banner-container connecting-farmers-container">
+    <div class="banner-text-container">
+        <h1 class="banner-title"><?php echo $page_title; ?></h1>
     </div>
 </div>
+<div class="container">
+    <p class="intro-text text-left">
+        Farmers enjoy talking to other farmers. They share stories and ideas, and sometimes even commiserate about problems. In today’s 
+        busy world, however, it’s difficult for farmers to connect with one another. There’s not enough time in the day to get the work 
+        done, not to mention sit down for coffee with a fellow farmer. At the same time, there are an over-whelming number of ways to 
+        communicate with today’s technology. Given this, through our social outings, celebrations, newsletters and emails, and social 
+        media, MCFB strives to serve as a farmer-to-farmer uniter and communication pathway.
+    </p>
+</div>
 <div class="container-fluid">
-    <div class="row">
-        <div class="col-lg-3 mb-3">
+    <div class="grid-container-4">
+        <div class="grid-item">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="social-outings.php">
@@ -33,7 +35,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-3 mb-3">
+        <div class="grid-item">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="celebrations.php">
@@ -51,7 +53,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-3 mb-3">
+        <div class="grid-item">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="newsletters-and-mailers.php">
@@ -69,7 +71,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-3 mb-3">
+        <div class="grid-item">
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="social-media.php">
