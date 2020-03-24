@@ -16,12 +16,15 @@
             Foundational documents:
         </p>
         <ul>
-            <li><a href="../files/MCFB-Articles of Incorporation-1958b.pdf" download>
+            <li>
+                <a href="../files/MCFB-Articles of Incorporation-1958b.pdf" download>
                     MCFB Articles of Incorporation
                 </a>
             </li>
             <li>
-                MCFB By-Laws
+                <a href="../files/MCFB By-Laws-2005.pdf" download>
+                    MCFB By-Laws
+                </a>
             </li>
             <li>
                 MCFB Business Plan (under preparation)
@@ -62,6 +65,13 @@
                     2020-02 MCFB Board Meeting Packet
                 </a>
             </li>
+            <ul>
+                <li>
+                    <a href="../files/MCFB BD MINUTES_2020_02_20_FINAL.pdf" download>
+                        Approved Minutes
+                    </a>
+                </li>
+            </ul>
             <li>
                 <a href="../files/MCFB BD Agenda_2020_01_14.pdf" download>
                     2020-01 MCFB Board Meeting Agenda
