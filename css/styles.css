@@ -446,6 +446,16 @@ footer > .container a:hover {
   }
 }
 
+@media only screen and (max-device-width: 1023px) {
+  #team .col-lg-4 {
+    text-align: center;
+  }
+  #team .col-lg-8 > h4 {
+    text-align: center;
+    margin: 1rem 0 2rem;
+  }
+}
+
 @media only screen and (min-device-width: 1024px) and (max-device-width: 1200px) {
   .banner-container {
     height: 40vw;
