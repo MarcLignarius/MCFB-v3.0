@@ -5,13 +5,13 @@
             <div class="col-md-4 mb-0 text-center">
               <p>
                 <i class="fa fa-envelope"></i>
-                <a href="mailto:multnomahCFB@gmail.com" class="ml-1">multnomahCFB@gmail.com</a> 
+                <a href="mailto:multnomahCFB@gmail.com" class="ml-1">multnomahcfb [at] gmail [dot] org</a> 
               </p>
             </div>
             <div class="col-md-4 mb-0 text-center">
               <p>
                 <i class="fa fa-phone"></i>
-                <a href="tel:206-595-5078" class="ml-1">206-595-5078</a>
+                <a href="tel:206-595-5078" class="ml-1">206 [dash] 592 [dash] 5138</a>
               </p>
             </div>
             <div class="col-md-4 mb-0 text-center">
