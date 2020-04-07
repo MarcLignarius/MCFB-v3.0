@@ -295,6 +295,12 @@ footer > .container a:hover {
   background-color: rgb(126, 126, 126);
 }
 
+.social-media-container {
+  background: center/cover no-repeat url(../images/Social\ Media1.png);
+  background-blend-mode: multiply;
+  background-color: rgb(126, 126, 126);
+}
+
 .placeholder-container {
   background: center/cover no-repeat url(../images/placeholder.png);
   background-blend-mode: multiply;
@@ -431,6 +437,12 @@ footer > .container a:hover {
 
 .image-22 {
   background: center/cover no-repeat url(../images/Mailbox1.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(179, 179, 179);
+}
+
+.image-23 {
+  background: center/cover no-repeat url(../images/Social\ Media1.png);
   background-blend-mode: multiply;
   background-color: rgb(179, 179, 179);
 }
