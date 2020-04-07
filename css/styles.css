@@ -236,7 +236,7 @@ footer > .container a:hover {
 }
 
 .documents-container {
-  background: center/cover no-repeat url(../images/1.4_Documents_banner.jpeg);
+  background: center/cover no-repeat url(../images/Documents1.jpg);
   background-blend-mode: multiply;
   background-color: rgb(126, 126, 126);
 }
@@ -328,7 +328,7 @@ footer > .container a:hover {
 }
 
 .image-8 {
-  background: center/cover no-repeat url(../images/1.4_Documents.jpg);
+  background: center/cover no-repeat url(../images/Documents1.jpg);
   background-blend-mode: multiply;
   background-color: rgb(179, 179, 179);
 }
