@@ -283,6 +283,12 @@ footer > .container a:hover {
   background-color: rgb(126, 126, 126);
 }
 
+.celebrations-container {
+  background: center/cover no-repeat url(../images/Celebrations1.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(126, 126, 126);
+}
+
 .placeholder-container {
   background: center/cover no-repeat url(../images/placeholder.png);
   background-blend-mode: multiply;
@@ -407,6 +413,12 @@ footer > .container a:hover {
 
 .image-20 {
   background: center/cover no-repeat url(../images/Social_Outings1.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(179, 179, 179);
+}
+
+.image-21 {
+  background: center/cover no-repeat url(../images/Celebrations1.jpg);
   background-blend-mode: multiply;
   background-color: rgb(179, 179, 179);
 }

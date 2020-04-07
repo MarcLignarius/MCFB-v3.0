@@ -39,7 +39,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="celebrations.php">
-                        <img class="card-image image-18">
+                        <img class="card-image image-21">
                         <h2 class="card-title">Celebrations</h2>
                     </a>
                 </div>
