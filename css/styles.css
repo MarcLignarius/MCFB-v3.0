@@ -212,7 +212,7 @@ footer > .container a:hover {
 }
 
 .membership-container {
-  background: center/cover no-repeat url(../images/1.3.1_Membership_banner.jpeg);
+  background: center/cover no-repeat url(../images/Membership1_banner.jpg);
   background-blend-mode: multiply;
   background-color: rgb(126, 126, 126);
 }
@@ -364,7 +364,7 @@ footer > .container a:hover {
 }
 
 .image-14 {
-  background: center/cover no-repeat url(../images/1.3.1_Membership.jpg);
+  background: center/cover no-repeat url(../images/Membership1.jpg);
   background-blend-mode: multiply;
   background-color: rgb(179, 179, 179);
 }
@@ -458,6 +458,11 @@ footer > .container a:hover {
     background: center/cover no-repeat url(../images/1.3_People.jpg);
     background-blend-mode: multiply;
     background-color: rgb(179, 179, 179);
+  }
+  .membership-container {
+    background: center/cover no-repeat url(../images/Membership1.jpg);
+    background-blend-mode: multiply;
+    background-color: rgb(126, 126, 126);
   }
 }
 
