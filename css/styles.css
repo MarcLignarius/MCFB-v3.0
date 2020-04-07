@@ -289,6 +289,12 @@ footer > .container a:hover {
   background-color: rgb(126, 126, 126);
 }
 
+.newsletter-and-mailers-container {
+  background: center/cover no-repeat url(../images/Mailbox1.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(126, 126, 126);
+}
+
 .placeholder-container {
   background: center/cover no-repeat url(../images/placeholder.png);
   background-blend-mode: multiply;
@@ -419,6 +425,12 @@ footer > .container a:hover {
 
 .image-21 {
   background: center/cover no-repeat url(../images/Celebrations1.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(179, 179, 179);
+}
+
+.image-22 {
+  background: center/cover no-repeat url(../images/Mailbox1.jpg);
   background-blend-mode: multiply;
   background-color: rgb(179, 179, 179);
 }
