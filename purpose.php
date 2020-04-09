@@ -9,23 +9,16 @@
 <div class="jumbotron">
     <div class="container">
         <p>
-            MCFB’s purpose is represented by our vision, mission, and values. These represent what we
-            stand for and work towards. The vision, mission, and values guide all of our actions. The Board
-            of Directors will evaluate opportunities and actions based on how well the intended outcomes
-            support our vision, mission, and values.
-            Our vision, mission, and values are below:
+            The Multnomah County Farm Bureau's (MCFB’s) purpose is to support and defend our vision, mission, and values as shown below.
         </p>
         <p>
-            <strong>Vision:</strong> Farmers experience high quality livelihoods by growing world class products
-            that support vibrant, healthy, and sustainable farms and communities.
+            <strong>MCFB's Vision:</strong> Farmers, in reflection of our hard work, can expect incomes that support quality livelihoods for their families. 
         </p>
         <p>
-            <strong>Mission:</strong> We help local farmers be successful.
+            <strong>MCFB's Mission:</strong> We help local farmers be successful.
         </p>
         <p>
-            <strong>Values:</strong> MCFB believes that healthier, happier, and more prosperous farming
-            communities are supported through greater human diversity, equity, and inclusion within our
-            local farms and our organization.
+            <strong>MCFB's Values:</strong> We believe a diverse representation of farmers and farming methods will best support and defend our collective farm community. 
         </p>
         <p>
             <strong>Approach:</strong> <a href="purpose-our-approach.php">Our Approach</a> explains the actions 
