@@ -30,6 +30,17 @@
                 </p> 
             </div>
         </div>
+        <div class= "row mt-5">
+            <div class = "col-md-4 align-self-center">
+                <img src="../images/Rain_Mower.png" alt="..." class="rounded-circle">
+            </div>
+            <div class = "col-md-8 align-self-center">
+                <h4>Rain Mower, Social Media</h4>
+                <p>
+                    Rain is a social media wiz who graduated from Portland’s Grant High School in 2017. When she is not working hard to satisfy the needs of retail customers, she enjoys spending time in the outdoors with her dog Ranger.
+                </p> 
+            </div>
+        </div>
     </div>
 </div>
 <div class="container">
