@@ -588,6 +588,16 @@ footer > .container a:hover {
     background-blend-mode: multiply;
     background-color: rgb(179, 179, 179);
   }
+  #contractors-container {
+    background: center/cover no-repeat url(../images/contractors.jpg);
+    background-blend-mode: multiply;
+    background-color: rgb(126, 126, 126);
+  }
+  #volunteers-container {
+    background: center/cover no-repeat url(../images/volunteers.jpg);
+    background-blend-mode: multiply;
+    background-color: rgb(126, 126, 126);
+  }
   #assisting-farmers-container {
     background: center/cover no-repeat url(../images/assisting_farmers.jpg);
     background-blend-mode: multiply;
@@ -603,7 +613,6 @@ footer > .container a:hover {
     background-blend-mode: multiply;
     background-color: rgb(126, 126, 126);
   }
-  
   #connecting-farmers-container {
     background: center/cover no-repeat url(../images/connecting_farmers.jpg);
     background-blend-mode: multiply;
