@@ -8,7 +8,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="about.php">
-                        <img class="card-image image-1">
+                        <img class="card-image" id="image-1">
                         <h2 class="card-title">About</h2>
                     </a>
                 </div>
