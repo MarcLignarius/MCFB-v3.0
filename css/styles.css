@@ -296,7 +296,7 @@ footer > .container a:hover {
 }
 
 #elected-officials-container {
-  background: center/cover no-repeat url(../images/elected_officials.jpg);
+  background: center/cover no-repeat url(../images/elected_officials_banner.jpg);
   background-blend-mode: multiply;
   background-color: rgb(126, 126, 126);
 }
@@ -648,6 +648,16 @@ footer > .container a:hover {
     background-blend-mode: multiply;
     background-color: rgb(179, 179, 179);
   }
+  #membership-container {
+    background: center/cover no-repeat url(../images/membership.jpg);
+    background-blend-mode: multiply;
+    background-color: rgb(126, 126, 126);
+  }
+  #board-container {
+    background: center/cover no-repeat url(../images/board.jpg);
+    background-blend-mode: multiply;
+    background-color: rgb(126, 126, 126);
+  }
   #contractors-container {
     background: center/cover no-repeat url(../images/contractors.jpg);
     background-blend-mode: multiply;
@@ -663,18 +673,13 @@ footer > .container a:hover {
     background-blend-mode: multiply;
     background-color: rgb(126, 126, 126);
   }
-  #membership-container {
-    background: center/cover no-repeat url(../images/membership.jpg);
-    background-blend-mode: multiply;
-    background-color: rgb(126, 126, 126);
-  }
-  #board-container {
-    background: center/cover no-repeat url(../images/board.jpg);
-    background-blend-mode: multiply;
-    background-color: rgb(126, 126, 126);
-  }
   #connecting-farmers-container {
     background: center/cover no-repeat url(../images/connecting_farmers.jpg);
+    background-blend-mode: multiply;
+    background-color: rgb(126, 126, 126);
+  }
+  #elected-officials-container {
+    background: center/cover no-repeat url(../images/elected_officials.jpg);
     background-blend-mode: multiply;
     background-color: rgb(126, 126, 126);
   }
