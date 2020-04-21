@@ -1,7 +1,7 @@
 <?php $page_title = "Contractors"; ?>
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
-<div class="banner-container contractors-container">
+<div class="banner-container" id="contractors-container">
     <div class="banner-text-container">
         <h1 class="banner-title"><?php echo $page_title; ?></h1>
     </div>
