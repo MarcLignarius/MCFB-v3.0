@@ -193,8 +193,8 @@ footer > .container a:hover {
   background-color: rgb(126, 126, 126);
 }
 
-.purpose-container {
-  background: center/cover no-repeat url(../images/1.1.Purpose.png);
+#purpose-container {
+  background: center/cover no-repeat url(../images/purpose_banner.jpg);
   background-blend-mode: multiply;
   background-color: rgb(126, 126, 126);
 }
@@ -333,8 +333,8 @@ footer > .container a:hover {
   background-color: rgb(179, 179, 179);
 }
 
-.image-5 {
-  background: center/cover no-repeat url(../images/1.1.Purpose.png);
+#image-1-1 {
+  background: center/cover no-repeat url(../images/purpose.jpg);
   background-blend-mode: multiply;
   background-color: rgb(179, 179, 179);
 }
@@ -504,6 +504,11 @@ footer > .container a:hover {
   }
   #join-us-container {
     background: center/cover no-repeat url(../images/join_us.jpg);
+    background-blend-mode: multiply;
+    background-color: rgb(126, 126, 126);
+  }
+  #purpose-container {
+    background: center/cover no-repeat url(../images/purpose.jpg);
     background-blend-mode: multiply;
     background-color: rgb(126, 126, 126);
   }

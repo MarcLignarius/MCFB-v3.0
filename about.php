@@ -19,7 +19,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="purpose.php">
-                        <img class="card-image image-5">
+                        <img class="card-image" id="image-1-1">
                         <h2 class="card-title">Purpose</h2>
                     </a>
                 </div>
