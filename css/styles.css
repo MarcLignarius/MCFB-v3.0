@@ -241,8 +241,8 @@ footer > .container a:hover {
   background-color: rgb(126, 126, 126);
 }
 
-.volunteers-container {
-  background: center/cover no-repeat url(../images/1.3.4.0.Volunteers_banner.jpeg);
+#volunteers-container {
+  background: center/cover no-repeat url(../images/volunteers_banner.jpg);
   background-blend-mode: multiply;
   background-color: rgb(126, 126, 126);
 }
@@ -411,8 +411,8 @@ footer > .container a:hover {
   background-color: rgb(179, 179, 179);
 }
 
-.image-17 {
-  background: center/cover no-repeat url(../images/1.3.4.0.Volunteers.jpg);
+#image-1-3-4 {
+  background: center/cover no-repeat url(../images/volunteers.jpg);
   background-blend-mode: multiply;
   background-color: rgb(179, 179, 179);
 }
