@@ -91,7 +91,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="board-meetings.php">
-                        <img class="card-image image-9">
+                        <img class="card-image" id="image-1-5">
                         <h2 class="card-title">Board Meetings</h2>
                     </a>
                 </div>
