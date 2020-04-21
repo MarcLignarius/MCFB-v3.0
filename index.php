@@ -26,7 +26,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="our-approach.php">
-                        <img class="card-image image-2">
+                        <img class="card-image" id="image-2">
                         <h2 class="card-title">Our Approach</h2>
                     </a>
                 </div>

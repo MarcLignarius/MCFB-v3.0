@@ -170,7 +170,7 @@ footer > .container a:hover {
 }
 
 .our-approach-container {
-  background: center/cover no-repeat url(../images/2.0.Our_Approach.jpg);
+  background: center/cover no-repeat url(../images/our_approach.jpg);
   background-blend-mode: multiply;
   background-color: rgb(126, 126, 126);
 }
@@ -315,8 +315,8 @@ footer > .container a:hover {
   background-color: rgb(179, 179, 179);
 }
 
-.image-2 {
-  background: center/cover no-repeat url(../images/2.0.Our_Approach.jpg);
+#image-2 {
+  background: center/cover no-repeat url(../images/our_approach.jpg);
   background-blend-mode: multiply;
   background-color: rgb(179, 179, 179);
 }
