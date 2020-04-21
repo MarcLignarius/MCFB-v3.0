@@ -11,11 +11,11 @@
   <h3 class="mb-5">Call or Email</h3>
     <p>
       <i class="fa fa-phone"></i>
-      <a href="tel:206-595-5078" class="ml-1" style="color: black; text-decoration: none">206-595-5078</a>
+      <a href="tel:206-595-5078" class="ml-1" style="color: black; text-decoration: none">206 [dash] 595 [dash] 5078</a>
     </p>
     <p>
       <i class="fa fa-envelope"></i>
-      <a href="mailto:multnomahCFB@gmail.com" class="ml-1" style="color: black; text-decoration: none">multnomahCFB@gmail.com</a>
+      <a href="mailto:multnomahCFB@gmail.com" class="ml-1" style="color: black; text-decoration: none">multnomahCFB [at] gmail [dot] com</a>
     </p>
     <h3 class="my-5">Send us a Message</h3>
     <form name="sentMessage" id="contactForm" novalidate>
