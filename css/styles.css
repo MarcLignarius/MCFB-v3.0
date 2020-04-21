@@ -265,14 +265,14 @@ footer > .container a:hover {
   background-color: rgb(126, 126, 126);
 }
 
-.representing-farmers-container {
-  background: center/cover no-repeat url(../images/2.4_Representing.jpg);
+#representing-farmers-container {
+  background: center/cover no-repeat url(../images/representing_farmers.jpg);
   background-blend-mode: multiply;
   background-color: rgb(126, 126, 126);
 }
 
-.sharing-knowledge-with-farmers-container {
-  background: center/cover no-repeat url(../images/2.5_Sharing_Knowledge1.jpg);
+#sharing-knowledge-with-farmers-container {
+  background: center/cover no-repeat url(../images/sharing_knowledge_with_farmers.jpg);
   background-blend-mode: multiply;
   background-color: rgb(126, 126, 126);
 }
@@ -351,18 +351,6 @@ footer > .container a:hover {
   background-color: rgb(179, 179, 179);
 }
 
-#image-3 {
-  background: center/cover no-repeat url(../images/benefits.jpg);
-  background-blend-mode: multiply;
-  background-color: rgb(179, 179, 179);
-}
-
-#image-4 {
-  background: center/cover no-repeat url(../images/join_us.jpg);
-  background-blend-mode: multiply;
-  background-color: rgb(179, 179, 179);
-}
-
 #image-2-1 {
   background: center/cover no-repeat url(../images/asking_farmers.jpg);
   background-blend-mode: multiply;
@@ -381,8 +369,26 @@ footer > .container a:hover {
   background-color: rgb(179, 179, 179);
 }
 
-.image-13 {
-  background: center/cover no-repeat url(../images/2.4_Representing.jpg);
+#image-2-4 {
+  background: center/cover no-repeat url(../images/representing_farmers.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(179, 179, 179);
+}
+
+#image-2-5 {
+  background: center/cover no-repeat url(../images/sharing_knowledge_with_farmers.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(179, 179, 179);
+}
+
+#image-3 {
+  background: center/cover no-repeat url(../images/benefits.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(179, 179, 179);
+}
+
+#image-4 {
+  background: center/cover no-repeat url(../images/join_us.jpg);
   background-blend-mode: multiply;
   background-color: rgb(179, 179, 179);
 }
@@ -417,11 +423,7 @@ footer > .container a:hover {
   background-color: rgb(179, 179, 179);
 }
 
-.image-19 {
-  background: center/cover no-repeat url(../images/2.5_Sharing_Knowledge1.jpg);
-  background-blend-mode: multiply;
-  background-color: rgb(179, 179, 179);
-}
+
 
 .image-20 {
   background: center/cover no-repeat url(../images/Social_Outings1.jpg);

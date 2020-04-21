@@ -80,7 +80,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="representing-farmers.php">
-                        <img class="card-image image-13">
+                        <img class="card-image" id="image-2-4">
                         <h2 class="card-title">Representing Farmers</h2>
                     </a>
                 </div>
@@ -98,7 +98,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="sharing-knowledge-with-farmers.php">
-                        <img class="card-image image-19">
+                        <img class="card-image" id="image-2-5">
                         <h2 class="card-title">Sharing Knowledge With Farmers</h2>
                     </a>
                 </div>
