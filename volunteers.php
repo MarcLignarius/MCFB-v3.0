@@ -58,3 +58,4 @@
     </p>
     <?php include("statement.php"); ?>
 </div>
+<?php include("footer.php"); ?>
