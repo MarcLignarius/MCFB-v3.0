@@ -55,7 +55,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="our-people.php">
-                        <img class="card-image image-7">
+                        <img class="card-image" id="image-1-3">
                         <h2 class="card-title">Our People</h2>
                     </a>
                 </div>
@@ -73,7 +73,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="documents.php">
-                        <img class="card-image image-8">
+                        <img class="card-image" id="image-1-4">
                         <h2 class="card-title">Documents</h2>
                     </a>
                 </div>
