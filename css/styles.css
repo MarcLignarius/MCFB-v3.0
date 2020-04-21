@@ -338,7 +338,7 @@ footer > .container a:hover {
 }
 
 #conferences-container {
-  background: center/cover no-repeat url(../images/conferences.jpg);
+  background: center/cover no-repeat url(../images/conferences_banner.jpg);
   background-blend-mode: multiply;
   background-color: rgb(126, 126, 126);
 }
@@ -622,6 +622,9 @@ footer > .container a:hover {
     text-align: center;
     margin: 1rem 0 2rem;
   }
+}
+
+@media only screen and (max-device-width: 1200px) {
   #join-us-container {
     background: center/cover no-repeat url(../images/join_us.jpg);
     background-blend-mode: multiply;
@@ -684,6 +687,11 @@ footer > .container a:hover {
   }
   #scholarships-container {
     background: center/cover no-repeat url(../images/scholarships.jpg);
+    background-blend-mode: multiply;
+    background-color: rgb(126, 126, 126);
+  }
+  #conferences-container {
+    background: center/cover no-repeat url(../images/conferences.jpg);
     background-blend-mode: multiply;
     background-color: rgb(126, 126, 126);
   }
