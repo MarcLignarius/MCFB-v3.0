@@ -18,7 +18,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="membership.php">
-                        <img class="card-image image-14">
+                        <img class="card-image" id="image-1-3-1">
                         <h2 class="card-title">Membership</h2>
                     </a>
                 </div>
