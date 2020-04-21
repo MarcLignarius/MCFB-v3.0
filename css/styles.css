@@ -259,8 +259,8 @@ footer > .container a:hover {
   background-color: rgb(126, 126, 126);
 }
 
-.connecting-farmers-container {
-  background: center/cover no-repeat url(../images/2.3_Connecting2_banner.jpeg);
+#connecting-farmers-container {
+  background: center/cover no-repeat url(../images/connecting_farmers_banner.jpg);
   background-blend-mode: multiply;
   background-color: rgb(126, 126, 126);
 }
@@ -315,24 +315,6 @@ footer > .container a:hover {
   background-color: rgb(179, 179, 179);
 }
 
-#image-2 {
-  background: center/cover no-repeat url(../images/our_approach.jpg);
-  background-blend-mode: multiply;
-  background-color: rgb(179, 179, 179);
-}
-
-#image-3 {
-  background: center/cover no-repeat url(../images/benefits.jpg);
-  background-blend-mode: multiply;
-  background-color: rgb(179, 179, 179);
-}
-
-#image-4 {
-  background: center/cover no-repeat url(../images/join_us.jpg);
-  background-blend-mode: multiply;
-  background-color: rgb(179, 179, 179);
-}
-
 #image-1-1 {
   background: center/cover no-repeat url(../images/purpose.jpg);
   background-blend-mode: multiply;
@@ -363,6 +345,24 @@ footer > .container a:hover {
   background-color: rgb(179, 179, 179);
 }
 
+#image-2 {
+  background: center/cover no-repeat url(../images/our_approach.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(179, 179, 179);
+}
+
+#image-3 {
+  background: center/cover no-repeat url(../images/benefits.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(179, 179, 179);
+}
+
+#image-4 {
+  background: center/cover no-repeat url(../images/join_us.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(179, 179, 179);
+}
+
 #image-2-1 {
   background: center/cover no-repeat url(../images/asking_farmers.jpg);
   background-blend-mode: multiply;
@@ -375,8 +375,8 @@ footer > .container a:hover {
   background-color: rgb(179, 179, 179);
 }
 
-.image-12 {
-  background: center/cover no-repeat url(../images/2.3_Connecting2.jpg);
+#image-2-3 {
+  background: center/cover no-repeat url(../images/connecting_farmers.jpg);
   background-blend-mode: multiply;
   background-color: rgb(179, 179, 179);
 }
@@ -538,8 +538,8 @@ footer > .container a:hover {
     background-color: rgb(126, 126, 126);
   }
   
-  .connecting-farmers-container {
-    background: center/cover no-repeat url(../images/2.3_Connecting2.jpg);
+  #connecting-farmers-container {
+    background: center/cover no-repeat url(../images/connecting_farmers.jpg);
     background-blend-mode: multiply;
     background-color: rgb(126, 126, 126);
   }
