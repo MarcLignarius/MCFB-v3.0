@@ -271,6 +271,12 @@ footer > .container a:hover {
   background-color: rgb(126, 126, 126);
 }
 
+#celebrations-container {
+  background: center/cover no-repeat url(../images/celebrations.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(126, 126, 126);
+}
+
 #representing-farmers-container {
   background: center/cover no-repeat url(../images/representing_farmers.jpg);
   background-blend-mode: multiply;
@@ -285,11 +291,7 @@ footer > .container a:hover {
 
 
 
-.celebrations-container {
-  background: center/cover no-repeat url(../images/Celebrations1.jpg);
-  background-blend-mode: multiply;
-  background-color: rgb(126, 126, 126);
-}
+
 
 .newsletter-and-mailers-container {
   background: center/cover no-repeat url(../images/Mailbox1.jpg);
@@ -297,8 +299,8 @@ footer > .container a:hover {
   background-color: rgb(126, 126, 126);
 }
 
-.social-media-container {
-  background: center/cover no-repeat url(../images/Social\ Media1.png);
+#social-media-container {
+  background: center/cover no-repeat url(../images/social_media.jpg);
   background-blend-mode: multiply;
   background-color: rgb(126, 126, 126);
 }
@@ -431,20 +433,20 @@ footer > .container a:hover {
   background-color: rgb(179, 179, 179);
 }
 
-.image-21 {
-  background: center/cover no-repeat url(../images/Celebrations1.jpg);
+#image-2-3-2 {
+  background: center/cover no-repeat url(../images/celebrations.jpg);
   background-blend-mode: multiply;
   background-color: rgb(179, 179, 179);
 }
 
-.image-22 {
-  background: center/cover no-repeat url(../images/Mailbox1.jpg);
+#image-2-3-3 {
+  background: center/cover no-repeat url(../images/newsletters_and_mailers.jpg);
   background-blend-mode: multiply;
   background-color: rgb(179, 179, 179);
 }
 
-.image-23 {
-  background: center/cover no-repeat url(../images/Social\ Media1.png);
+#image-2-3-4 {
+  background: center/cover no-repeat url(../images/social_media.jpg);
   background-blend-mode: multiply;
   background-color: rgb(179, 179, 179);
 }

@@ -39,7 +39,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="celebrations.php">
-                        <img class="card-image image-21">
+                        <img class="card-image" id="image-2-3-2">
                         <h2 class="card-title">Celebrations</h2>
                     </a>
                 </div>
@@ -57,7 +57,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="newsletters-and-mailers.php">
-                        <img class="card-image image-22">
+                        <img class="card-image" id="image-2-3-3">
                         <h2 class="card-title">Newsletters & Mailers</h2>
                     </a>
                 </div>
@@ -75,7 +75,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="social-media.php">
-                        <img class="card-image image-23">
+                        <img class="card-image" id="image-2-3-4">
                         <h2 class="card-title">Social Media</h2>
                     </a>
                 </div>
