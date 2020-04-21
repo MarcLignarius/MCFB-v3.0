@@ -199,8 +199,8 @@ footer > .container a:hover {
   background-color: rgb(126, 126, 126);
 }
 
-.farming-container {
-  background: center/cover no-repeat url(../images/1.2_Farming_new_banner.jpg);
+#farming-container {
+  background: center/cover no-repeat url(../images/farming_banner.jpg);
   background-blend-mode: multiply;
   background-color: rgb(126, 126, 126);
 }
@@ -339,8 +339,8 @@ footer > .container a:hover {
   background-color: rgb(179, 179, 179);
 }
 
-.image-6 {
-  background: center/cover no-repeat url(../images/1.2_Farming.jpg);
+#image-1-2 {
+  background: center/cover no-repeat url(../images/farming.jpg);
   background-blend-mode: multiply;
   background-color: rgb(179, 179, 179);
 }
@@ -509,6 +509,11 @@ footer > .container a:hover {
   }
   #purpose-container {
     background: center/cover no-repeat url(../images/purpose.jpg);
+    background-blend-mode: multiply;
+    background-color: rgb(126, 126, 126);
+  }
+  #farming-container {
+    background: center/cover no-repeat url(../images/farming.jpg);
     background-blend-mode: multiply;
     background-color: rgb(126, 126, 126);
   }
