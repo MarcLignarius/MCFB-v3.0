@@ -19,7 +19,7 @@
         </p>
         <div class= "row mt-5">
             <div class = "col-lg-4 align-self-center">
-                <img src="../images/1.3.4_Volunteers.jpg" alt="..." class="rounded-circle">
+                <img src="../images/marc_davies.jpg" alt="..." class="rounded-circle">
             </div>
             <div class = "col-lg-8 align-self-center">
                 <h4>Marc Davies, Web Developer</h4>
@@ -32,7 +32,7 @@
         </div>
         <div class= "row mt-5">
             <div class = "col-lg-4 align-self-center">
-                <img src="../images/Rain_Mower.png" alt="..." class="rounded-circle">
+                <img src="../images/rain_mower.jpg" alt="..." class="rounded-circle">
             </div>
             <div class = "col-lg-8 align-self-center">
                 <h4>Rain Mower, Social Media</h4>
