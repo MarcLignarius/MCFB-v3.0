@@ -314,7 +314,7 @@ footer > .container a:hover {
 }
 
 #advisory-councils-and-committees-container {
-  background: center/cover no-repeat url(../images/advisory_councils_and_committees.jpg);
+  background: center/cover no-repeat url(../images/advisory_councils_and_committees_banner.jpg);
   background-blend-mode: multiply;
   background-color: rgb(126, 126, 126);
 }
@@ -567,12 +567,6 @@ footer > .container a:hover {
   background-color: rgb(179, 179, 179);
 }
 
-.image-18 {
-  background: center/cover no-repeat url(../images/placeholder.png);
-  background-blend-mode: multiply;
-  background-color: rgb(179, 179, 179);
-}
-
 /* Mobile styles */
 
 /* Banners & Images */
@@ -680,6 +674,11 @@ footer > .container a:hover {
   }
   #elected-officials-container {
     background: center/cover no-repeat url(../images/elected_officials.jpg);
+    background-blend-mode: multiply;
+    background-color: rgb(126, 126, 126);
+  }
+  #advisory-councils-and-committees-container {
+    background: center/cover no-repeat url(../images/advisory_councils_and_committees.jpg);
     background-blend-mode: multiply;
     background-color: rgb(126, 126, 126);
   }
