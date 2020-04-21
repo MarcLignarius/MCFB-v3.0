@@ -157,7 +157,7 @@ footer > .container a:hover {
   margin: 2rem 0rem;
 }
 
-.homepage-container {
+#homepage-container {
   background: center/cover no-repeat url(../images/banner.png);
   background-blend-mode: multiply;
   background-color: rgb(126, 126, 126);
@@ -289,12 +289,8 @@ footer > .container a:hover {
   background-color: rgb(126, 126, 126);
 }
 
-
-
-
-
-.newsletter-and-mailers-container {
-  background: center/cover no-repeat url(../images/Mailbox1.jpg);
+#newsletter-and-mailers-container {
+  background: center/cover no-repeat url(../images/newsletters_and_mailers.jpg);
   background-blend-mode: multiply;
   background-color: rgb(126, 126, 126);
 }
@@ -305,7 +301,7 @@ footer > .container a:hover {
   background-color: rgb(126, 126, 126);
 }
 
-.placeholder-container {
+#placeholder-container {
   background: center/cover no-repeat url(../images/placeholder.png);
   background-blend-mode: multiply;
   background-color: rgb(126, 126, 126);
@@ -397,6 +393,30 @@ footer > .container a:hover {
   background-color: rgb(179, 179, 179);
 }
 
+#image-2-3-1 {
+  background: center/cover no-repeat url(../images/social_outings.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(179, 179, 179);
+}
+
+#image-2-3-2 {
+  background: center/cover no-repeat url(../images/celebrations.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(179, 179, 179);
+}
+
+#image-2-3-3 {
+  background: center/cover no-repeat url(../images/newsletters_and_mailers.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(179, 179, 179);
+}
+
+#image-2-3-4 {
+  background: center/cover no-repeat url(../images/social_media.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(179, 179, 179);
+}
+
 #image-2-4 {
   background: center/cover no-repeat url(../images/representing_farmers.jpg);
   background-blend-mode: multiply;
@@ -423,30 +443,6 @@ footer > .container a:hover {
 
 .image-18 {
   background: center/cover no-repeat url(../images/placeholder.png);
-  background-blend-mode: multiply;
-  background-color: rgb(179, 179, 179);
-}
-
-#image-2-3-1 {
-  background: center/cover no-repeat url(../images/social_outings.jpg);
-  background-blend-mode: multiply;
-  background-color: rgb(179, 179, 179);
-}
-
-#image-2-3-2 {
-  background: center/cover no-repeat url(../images/celebrations.jpg);
-  background-blend-mode: multiply;
-  background-color: rgb(179, 179, 179);
-}
-
-#image-2-3-3 {
-  background: center/cover no-repeat url(../images/newsletters_and_mailers.jpg);
-  background-blend-mode: multiply;
-  background-color: rgb(179, 179, 179);
-}
-
-#image-2-3-4 {
-  background: center/cover no-repeat url(../images/social_media.jpg);
   background-blend-mode: multiply;
   background-color: rgb(179, 179, 179);
 }
