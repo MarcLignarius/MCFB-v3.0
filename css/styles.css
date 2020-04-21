@@ -465,6 +465,36 @@ footer > .container a:hover {
   background-color: rgb(179, 179, 179);
 }
 
+#image-2-5-1 {
+  background: center/cover no-repeat url(../images/scholarships.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(179, 179, 179);
+}
+
+#image-2-5-2 {
+  background: center/cover no-repeat url(../images/conferences.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(179, 179, 179);
+}
+
+#image-2-5-3 {
+  background: center/cover no-repeat url(../images/learning_events.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(179, 179, 179);
+}
+
+#image-2-5-4 {
+  background: center/cover no-repeat url(../images/workshops.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(179, 179, 179);
+}
+
+#image-2-5-5 {
+  background: center/cover no-repeat url(../images/financial_support.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(179, 179, 179);
+}
+
 #image-3 {
   background: center/cover no-repeat url(../images/benefits.jpg);
   background-blend-mode: multiply;

@@ -22,7 +22,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="scholarships.php">
-                        <img class="card-image" id="image-x-x-x">
+                        <img class="card-image" id="image-2-5-1">
                         <h2 class="card-title">Scholarships</h2>
                     </a>
                 </div>
@@ -40,7 +40,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="conferences.php">
-                        <img class="card-image" id="image-x-x-x">
+                        <img class="card-image" id="image-2-5-2">
                         <h2 class="card-title">Conferences</h2>
                     </a>
                 </div>
@@ -58,7 +58,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="learning-events.php">
-                        <img class="card-image" id="image-x-x-x">
+                        <img class="card-image" id="image-2-5-3">
                         <h2 class="card-title">Learning Events</h2>
                     </a>
                 </div>
@@ -77,7 +77,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="workshops.php">
-                        <img class="card-image" id="image-x-x-x">
+                        <img class="card-image" id="image-2-5-4">
                         <h2 class="card-title">Workshops</h2>
                     </a>
                 </div>
@@ -96,7 +96,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="financial-support.php">
-                        <img class="card-image" id="image-x-x-x">
+                        <img class="card-image" id="image-2-5-5">
                         <h2 class="card-title">Financial Support</h2>
                     </a>
                 </div>
