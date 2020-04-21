@@ -22,7 +22,7 @@
         </p>
         <div class="row my-5">
             <div class="col-lg-4 align-self-center">
-                <img src="../images/1.3.2.Bio-Al.png" alt="..." class="rounded-circle">
+                <img src="../images/al_garre.jpg" alt="..." class="rounded-circle">
             </div>
             <div class="col-lg-8 align-self-center">
                 <h4>Al Garre - Board Director</h4>
@@ -40,7 +40,7 @@
         </div>
         <div class="row mb-5">
             <div class="col-lg-4 align-self-center">
-                <img src="../images/1.3.2.Bio-Angi.png" alt="..." class="rounded-circle">
+                <img src="../images/angi_bailey.jpg" alt="..." class="rounded-circle">
             </div>
             <div class="col-lg-8 align-self-center">
                 <h4>Angi Bailey - Secretary</h4>
@@ -49,7 +49,7 @@
         </div>
         <div class="row mb-5">
             <div class="col-lg-4 align-self-center">
-                <img src="../images/1.3.2.Bio-Deniece.jpg" alt="..." class="rounded-circle">
+                <img src="../images/deniece_tucker.jpg" alt="..." class="rounded-circle">
             </div>
             <div class="col-lg-8 align-self-center">
                 <h4>Deniece Tucker - Treasurer</h4>
@@ -58,7 +58,7 @@
         </div>
         <div class="row mb-5">
             <div class="col-lg-4 align-self-center">
-                <img src="../images/1.3.2.Bio-Helen.png" alt="..." class="rounded-circle">
+                <img src="../images/helen_bushue.jpg" alt="..." class="rounded-circle">
             </div>
             <div class="col-lg-8 align-self-center">
                 <h4>Helen Bushue - Board Director</h4>
@@ -67,7 +67,7 @@
         </div>
         <div class="row mb-5">
             <div class="col-lg-4 align-self-center">
-                <img src="../images/1.3.2.Bio-Joe.png" alt="..." class="rounded-circle">
+                <img src="../images/joe_rossi.jpg" alt="..." class="rounded-circle">
             </div>
             <div class="col-lg-8 align-self-center">
                 <h4>Joe Rossi - Board Director</h4>
@@ -76,7 +76,7 @@
         </div>
         <div class="row mb-5">
             <div class="col-lg-4 align-self-center">
-                <img src="../images/1.3.2.Bio-John.png" alt="..." class="rounded-circle">
+                <img src="../images/john_bergan.jpg" alt="..." class="rounded-circle">
             </div>
             <div class="col-lg-8 align-self-center">
                 <h4>John Bergan - Board Director</h4>
@@ -85,7 +85,7 @@
         </div>
         <div class="row mb-5">
             <div class="col-lg-4 align-self-center">
-                <img src="../images/1.3.2.Bio-Larry.png" alt="..." class="rounded-circle">
+                <img src="../images/larry_bailey.jpg" alt="..." class="rounded-circle">
             </div>
             <div class="col-lg-8 align-self-center">
                 <h4>Larry Bailey - President</h4>
