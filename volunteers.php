@@ -18,10 +18,10 @@
             Current MCFB Volunteers:
         </p>
         <div class= "row mt-5">
-            <div class = "col-md-4 align-self-center">
+            <div class = "col-lg-4 align-self-center">
                 <img src="../images/1.3.4_Volunteers.jpg" alt="..." class="rounded-circle">
             </div>
-            <div class = "col-md-8 align-self-center">
+            <div class = "col-lg-8 align-self-center">
                 <h4>Marc Davies, Web Developer</h4>
                 <p>
                     Marc is a web developer who has been working on MCFB’s website since the fall of 2019. Marc has a Bachelor of Arts in 
@@ -31,10 +31,10 @@
             </div>
         </div>
         <div class= "row mt-5">
-            <div class = "col-md-4 align-self-center">
+            <div class = "col-lg-4 align-self-center">
                 <img src="../images/Rain_Mower.png" alt="..." class="rounded-circle">
             </div>
-            <div class = "col-md-8 align-self-center">
+            <div class = "col-lg-8 align-self-center">
                 <h4>Rain Mower, Social Media</h4>
                 <p>
                     Rain is a social media wiz who graduated from Portland’s Grant High School in 2017. When she is not working hard to satisfy the needs of retail customers, she enjoys spending time in the outdoors with her dog Ranger.
@@ -48,7 +48,7 @@
         Current Volunteer Opportunities:
     </p>
     <p>
-        Social Media Volunteer. <a href="contact.php">Contact Us</a> if interested.
+       MCFB is not currently recruiting for volunteers. If you have an interest in and an idea for volunteer activities, please <a href="contact.php">Contact Us</a>.
     </p>
 </div>
 <div class="container-fluid">
