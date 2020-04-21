@@ -253,8 +253,8 @@ footer > .container a:hover {
   background-color: rgb(126, 126, 126);
 }
 
-.assisting-farmers-container {
-  background: center/cover no-repeat url(../images/2.2_Assisting_banner.jpeg);
+#assisting-farmers-container {
+  background: center/cover no-repeat url(../images/assisting_farmers_banner.jpg);
   background-blend-mode: multiply;
   background-color: rgb(126, 126, 126);
 }
@@ -369,8 +369,8 @@ footer > .container a:hover {
   background-color: rgb(179, 179, 179);
 }
 
-.image-11 {
-  background: center/cover no-repeat url(../images/2.2_Assisting.jpg);
+#image-2-2 {
+  background: center/cover no-repeat url(../images/assisting_farmers.jpg);
   background-blend-mode: multiply;
   background-color: rgb(179, 179, 179);
 }
@@ -522,6 +522,11 @@ footer > .container a:hover {
     background-blend-mode: multiply;
     background-color: rgb(179, 179, 179);
   }
+  #assisting-farmers-container {
+    background: center/cover no-repeat url(../images/assisting_farmers.jpg);
+    background-blend-mode: multiply;
+    background-color: rgb(126, 126, 126);
+  }
   .membership-container {
     background: center/cover no-repeat url(../images/Membership1.jpg);
     background-blend-mode: multiply;
@@ -532,11 +537,7 @@ footer > .container a:hover {
     background-blend-mode: multiply;
     background-color: rgb(126, 126, 126);
   }
-  .assisting-farmers-container {
-    background: center/cover no-repeat url(../images/2.2_Assisting.jpg);
-    background-blend-mode: multiply;
-    background-color: rgb(126, 126, 126);
-  }
+  
   .connecting-farmers-container {
     background: center/cover no-repeat url(../images/2.3_Connecting2.jpg);
     background-blend-mode: multiply;
