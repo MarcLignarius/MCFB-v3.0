@@ -22,7 +22,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="elected-officials.php">
-                        <img class="card-image image-18">
+                        <img class="card-image" id="image-2-4-1">
                         <h2 class="card-title">Elected Officials</h2>
                     </a>
                 </div>
@@ -40,7 +40,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="laws-and-regulations.php">
-                        <img class="card-image image-18">
+                        <img class="card-image" id="image-2-4-2">
                         <h2 class="card-title">Laws & Regulations</h2>
                     </a>
                 </div>
@@ -58,7 +58,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="voter-education.php">
-                        <img class="card-image image-18">
+                        <img class="card-image" id="image-2-4-3">
                         <h2 class="card-title">Voter Education</h2>
                     </a>
                 </div>
@@ -76,7 +76,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="advisory-councils-and-committees.php">
-                        <img class="card-image image-18">
+                        <img class="card-image" id="image-2-4-4">
                         <h2 class="card-title">Advisory Councils & Committees</h2>
                     </a>
                 </div>
@@ -94,7 +94,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="organizational-support.php">
-                        <img class="card-image image-18">
+                        <img class="card-image" id="image-2-4-5">
                         <h2 class="card-title">Organizational Support</h2>
                     </a>
                 </div>

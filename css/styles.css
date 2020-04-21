@@ -423,6 +423,36 @@ footer > .container a:hover {
   background-color: rgb(179, 179, 179);
 }
 
+#image-2-4-1 {
+  background: center/cover no-repeat url(../images/elected_officials.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(179, 179, 179);
+}
+
+#image-2-4-2 {
+  background: center/cover no-repeat url(../images/laws_and_regulations.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(179, 179, 179);
+}
+
+#image-2-4-3 {
+  background: center/cover no-repeat url(../images/voter_education.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(179, 179, 179);
+}
+
+#image-2-4-4 {
+  background: center/cover no-repeat url(../images/advisory_councils_and_committees.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(179, 179, 179);
+}
+
+#image-2-4-5 {
+  background: center/cover no-repeat url(../images/organizational_support.jpg);
+  background-blend-mode: multiply;
+  background-color: rgb(179, 179, 179);
+}
+
 #image-2-5 {
   background: center/cover no-repeat url(../images/sharing_knowledge_with_farmers.jpg);
   background-blend-mode: multiply;
