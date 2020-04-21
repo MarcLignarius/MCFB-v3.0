@@ -387,6 +387,12 @@ footer > .container a:hover {
   background-color: rgb(179, 179, 179);
 }
 
+#image-2-2-1 {
+  background: center/cover no-repeat url(../images/placeholder.png);
+  background-blend-mode: multiply;
+  background-color: rgb(179, 179, 179);
+}
+
 #image-2-3 {
   background: center/cover no-repeat url(../images/connecting_farmers.jpg);
   background-blend-mode: multiply;

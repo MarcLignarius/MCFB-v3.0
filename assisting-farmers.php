@@ -34,7 +34,7 @@
                 <div class="card h-100 text-center">
                     <div class="image-text-container">
                         <a href="farm-stands-and-agritourism.php">
-                            <img class="card-image" id="image-x-x-x">
+                            <img class="card-image" id="image-2-2-1">
                             <h2 class="card-title">Farm Stands & Agritourism</h2>
                         </a>
                     </div>
