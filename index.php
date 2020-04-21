@@ -44,7 +44,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="benefits.php">
-                        <img class="card-image image-3">
+                        <img class="card-image" id="image-3">
                         <h2 class="card-title">Benefits</h2>
                     </a>
                 </div>
@@ -62,7 +62,7 @@
             <div class="card h-100 text-center">
                 <div class="image-text-container">
                     <a href="join-us.php">
-                        <img class="card-image image-4">
+                        <img class="card-image" id="image-4">
                         <h2 class="card-title">Join Us</h2>
                     </a>
                 </div>

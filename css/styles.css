@@ -163,26 +163,26 @@ footer > .container a:hover {
   background-color: rgb(126, 126, 126);
 }
 
-.about-container {
+#about-container {
   background: center/cover no-repeat url(../images/about.jpg);
   background-blend-mode: multiply;
   background-color: rgb(126, 126, 126);
 }
 
-.our-approach-container {
+#our-approach-container {
   background: center/cover no-repeat url(../images/our_approach.jpg);
   background-blend-mode: multiply;
   background-color: rgb(126, 126, 126);
 }
 
-.benefits-container {
-  background: center/cover no-repeat url(../images/3.0_Benefits.jpg);
+#benefits-container {
+  background: center/cover no-repeat url(../images/benefits.jpg);
   background-blend-mode: multiply;
   background-color: rgb(126, 126, 126);
 }
 
-.join-us-container {
-  background: center/cover no-repeat url(../images/4.0_Join_Us.jpg);
+#join-us-container {
+  background: center/cover no-repeat url(../images/join_us_banner.jpg);
   background-blend-mode: multiply;
   background-color: rgb(126, 126, 126);
 }
@@ -321,14 +321,14 @@ footer > .container a:hover {
   background-color: rgb(179, 179, 179);
 }
 
-.image-3 {
-  background: center/cover no-repeat url(../images/3.0_Benefits.jpg);
+#image-3 {
+  background: center/cover no-repeat url(../images/benefits.jpg);
   background-blend-mode: multiply;
   background-color: rgb(179, 179, 179);
 }
 
-.image-4 {
-  background: center/cover no-repeat url(../images/4.0_Join_Us.jpg);
+#image-4 {
+  background: center/cover no-repeat url(../images/join_us.jpg);
   background-blend-mode: multiply;
   background-color: rgb(179, 179, 179);
 }
@@ -501,6 +501,11 @@ footer > .container a:hover {
   #team .col-lg-8 > h4 {
     text-align: center;
     margin: 1rem 0 2rem;
+  }
+  #join-us-container {
+    background: center/cover no-repeat url(../images/join_us.jpg);
+    background-blend-mode: multiply;
+    background-color: rgb(126, 126, 126);
   }
   .our-people-container {
     background: center/cover no-repeat url(../images/1.3_People.jpg);
