@@ -18,6 +18,11 @@ nav {
 
 .navbar-dark .navbar-nav .nav-link {
   color: white;
+  transition:all 0.3s ease;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+  filter: brightness(90%);
 }
 
 .navbar-brand > img {
@@ -28,8 +33,25 @@ nav {
   background: none
 }
 
+a:hover {
+  text-decoration: none;  
+}
+
+.btn-light {
+  transition:all 0.3s ease;
+}
+
+.btn-light:hover {
+  filter: brightness(90%);
+}
+
 .image-text-container {
   position: relative;
+  transition:all 0.3s ease;
+}
+
+.image-text-container:hover {
+  filter: brightness(90%);
 }
 
 .card {
@@ -117,10 +139,11 @@ footer .fa {
 
 footer > .container a {
   color: white;
+  transition:all 0.3s ease;
 }
 
 footer > .container a:hover {
-  color: rgba(255, 255, 255, 0.75);
+  filter: brightness(90%);
   text-decoration: none;
 }
 
