@@ -19,6 +19,26 @@
     </div>
 </div>
 <div class="container-fluid">
+    <div class="grid-container-3">
+        <div class="grid-item">
+            <div class="card h-100 text-center">
+                <div class="image-text-container">
+                    <a href="farm-stands-and-agritourism.php">
+                        <img class="card-image" id="image-2-2-1">
+                        <h2 class="card-title">Farm Stands & Agritourism</h2>
+                    </a>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">
+                        MCFB promotes local farm stands every year to assist local farmers in getting the word out to our communities.
+                    </p>
+                </div>
+                <div>
+                    <a href="farm-stands-and-agritourism.php" class="btn btn-light">Learn More</a>
+                </div>
+            </div>
+        </div>
+    </div>
     <p class="text-center">
         <a href="about.php" class="btn btn-light">Back</a>
         <a href="index.php" class="btn btn-light">Home</a>
