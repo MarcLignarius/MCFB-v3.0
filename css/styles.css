@@ -128,6 +128,26 @@ img[alt="www.000webhost.com"] {
   width: 90%;
 }
 
+.icons {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.icons a {
+  color: #000000;
+  text-decoration: none;
+} 
+
+.icons a:hover {
+  filter: brightness(120%);
+  text-decoration: none;
+}
+
+.icons i {
+  color: #58833C;
+  margin: 10px 10px 20px 30px;
+}
+
 #statement {
   font-size: 0.8rem;
 }

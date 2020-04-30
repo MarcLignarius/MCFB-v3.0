@@ -9,17 +9,17 @@
 <div class="jumbotron">
     <div class="container">
         <p>
-            MCFB uses social media as an informal means to communicate on a daily and weekly basis with MCFB members and the general public. 
+            MCFB uses social media as an informal means to communicate on a daily and weekly basis with MCFB members and the general public.
         </p>
         <p>
             Please like, share, and follow us on the social media platforms below:
         </p>
-        <ul>
-            <li><a href="https://www.facebook.com/multnomahcountyfarmbureau/">Facebook</a></li>
-            <li><a href="https://www.linkedin.com/company/multnomah-county-farm-bureau">LinkedIn</a></li>
-        </ul>
+        <div class="icons">
+            <a href="https://www.facebook.com/multnomahcountyfarmbureau/"><i class="icons fa fa-facebook fa-2x"></i>MCFB on Facebook</a><br>
+            <a href="https://www.linkedin.com/company/multnomah-county-farm-bureau"><i class="icons fa fa-linkedin fa-2x"></i>MCFB on LinkedIn</a>
+        </div>
     </div>
-            </div>
+</div>
 <div class="container-fluid">
     <p class="text-center">
         <a href="connecting-farmers.php" class="btn btn-light">Back</a>
