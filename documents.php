@@ -59,7 +59,23 @@
             Board documents:
         </p>
         <ul>
-            <li>2020-03 MCFB Board Meeting Packet</li>
+            <li>
+                <a href="../files/2020-04-MCFB Board Packet.pdf" download>
+                    2020-04 MCFB Board Meeting Packet
+                </a>
+            </li>
+            <li>
+                <a href="../files/MCFB BD Packet_20120_03_19.pdf" download>
+                    2020-03 MCFB Board Meeting Packet
+                </a>
+            </li>
+            <ul>
+                <li>
+                    <a href="../files/MCFB BD Minutes_20120_03_19_FINAL.pdf" download>
+                        Approved Minutes
+                    </a>
+                </li>
+            </ul>
             <li>
                 <a href="../files/MCFB BD Packet_2020_02_20.pdf" download>
                     2020-02 MCFB Board Meeting Packet
